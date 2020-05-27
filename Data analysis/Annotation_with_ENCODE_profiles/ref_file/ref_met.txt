@@ -1,0 +1,225 @@
+ENCFF867JRG	K562	CpG	WGBS	None
+ENCFF965YBN	K562	CHG	WGBS	None
+ENCFF283XIX	K562	CHG	WGBS	None
+ENCFF149NUQ	K562	CHH	WGBS	None
+ENCFF721JMB	K562	CpG	WGBS	None
+ENCFF490XPH	K562	CHH	WGBS	None
+ENCFF930RHF	smooth muscle cell	CHG	WGBS	None
+ENCFF663LPF	smooth muscle cell	CHH	WGBS	None
+ENCFF249NTB	smooth muscle cell	CHG	WGBS	None
+ENCFF588IUK	smooth muscle cell	CpG	WGBS	None
+ENCFF315ZJB	smooth muscle cell	CpG	WGBS	None
+ENCFF463TIC	smooth muscle cell	CHH	WGBS	None
+ENCFF877NAH	skeletal muscle myoblast	CHH	WGBS	None
+ENCFF718CZQ	skeletal muscle myoblast	CHG	WGBS	None
+ENCFF374WYM	skeletal muscle myoblast	CHG	WGBS	None
+ENCFF774GXJ	skeletal muscle myoblast	CpG	WGBS	None
+ENCFF837SXM	skeletal muscle myoblast	CpG	WGBS	None
+ENCFF408YLC	skeletal muscle myoblast	CHH	WGBS	None
+ENCFF936EAQ	hepatocyte	CHG	WGBS	None
+ENCFF366UWF	hepatocyte	CpG	WGBS	None
+ENCFF816PMG	hepatocyte	CHH	WGBS	None
+ENCFF170PBE	hepatocyte	CHG	WGBS	None
+ENCFF487XOB	hepatocyte	CpG	WGBS	None
+ENCFF041WTQ	hepatocyte	CHH	WGBS	None
+ENCFF014XRB	fibroblast of arm	CHG	WGBS	None
+ENCFF834NXR	fibroblast of arm	CHG	WGBS	None
+ENCFF986WDE	fibroblast of arm	CHH	WGBS	None
+ENCFF714SUO	fibroblast of arm	CpG	WGBS	None
+ENCFF959WCA	fibroblast of arm	CpG	WGBS	None
+ENCFF585LNU	fibroblast of arm	CHH	WGBS	None
+ENCFF601NBW	H1-hESC	CpG	WGBS	None
+ENCFF379ZXG	H1-hESC	CHG	WGBS	None
+ENCFF417VRB	H1-hESC	CHH	WGBS	None
+ENCFF524BMX	H1-hESC	CHG	WGBS	None
+ENCFF086MMC	H1-hESC	CHH	WGBS	None
+ENCFF918PML	H1-hESC	CpG	WGBS	None
+ENCFF624VFJ	HepG2	CHG	WGBS	None
+ENCFF300GSM	HepG2	CHG	WGBS	None
+ENCFF847OWL	HepG2	CpG	WGBS	None
+ENCFF086KJC	HepG2	CHH	WGBS	None
+ENCFF390OZB	HepG2	CpG	WGBS	None
+ENCFF030LDK	HepG2	CHH	WGBS	None
+ENCFF721BJM	GM12878	CHG	WGBS	None
+ENCFF279HCL	GM12878	CpG	WGBS	None
+ENCFF349NNL	GM12878	CHG	WGBS	None
+ENCFF448RTC	GM12878	CHH	WGBS	None
+ENCFF835NTC	GM12878	CpG	WGBS	None
+ENCFF038HXQ	GM12878	CHH	WGBS	None
+ENCFF494IMP	mammary epithelial cell	CHG	WGBS	None
+ENCFF699GKH	mammary epithelial cell	CpG	WGBS	None
+ENCFF742RFP	mammary epithelial cell	CHH	WGBS	None
+ENCFF256PKW	mammary epithelial cell	CHG	WGBS	None
+ENCFF874GGB	mammary epithelial cell	CpG	WGBS	None
+ENCFF326SHL	mammary epithelial cell	CHH	WGBS	None
+ENCFF833HAZ	heart left ventricle	CHG	WGBS	None
+ENCFF587RNQ	heart left ventricle	CHH	WGBS	None
+ENCFF684JHX	heart left ventricle	CpG	WGBS	None
+ENCFF204WSG	spleen	CHG	WGBS	None
+ENCFF730NQT	spleen	CpG	WGBS	None
+ENCFF083GEQ	spleen	CHH	WGBS	None
+ENCFF661ORW	pancreas	CHG	WGBS	None
+ENCFF500DKA	pancreas	CpG	WGBS	None
+ENCFF340WWH	pancreas	CHH	WGBS	None
+ENCFF536RSX	heart left ventricle	CpG	WGBS	None
+ENCFF259ZEJ	heart left ventricle	CHH	WGBS	None
+ENCFF881IGR	heart left ventricle	CHG	WGBS	None
+ENCFF877IOX	esophagus	CHH	WGBS	None
+ENCFF250XVE	esophagus	CHG	WGBS	None
+ENCFF625GVK	esophagus	CpG	WGBS	None
+ENCFF017JID	aorta	CHG	WGBS	None
+ENCFF553HJV	aorta	CpG	WGBS	None
+ENCFF223PYT	aorta	CHH	WGBS	None
+ENCFF789XRU	adipose tissue	CHG	WGBS	None
+ENCFF477GKI	adipose tissue	CpG	WGBS	None
+ENCFF068IHF	adipose tissue	CHH	WGBS	None
+ENCFF336YNE	sigmoid colon	CHG	WGBS	None
+ENCFF519PPJ	sigmoid colon	CHH	WGBS	None
+ENCFF157POM	sigmoid colon	CpG	WGBS	None
+ENCFF859RPH	iPS DF 6.9	CHG	WGBS	None
+ENCFF847JKP	iPS DF 6.9	CHH	WGBS	None
+ENCFF545MIY	iPS DF 6.9	CpG	WGBS	None
+ENCFF186EKM	iPS DF 19.11	CpG	WGBS	None
+ENCFF906BGH	iPS DF 19.11	CHG	WGBS	None
+ENCFF517AOL	iPS DF 19.11	CpG	WGBS	None
+ENCFF288JEJ	iPS DF 19.11	CHH	WGBS	None
+ENCFF160VXB	iPS DF 19.11	CHG	WGBS	None
+ENCFF656BND	iPS DF 19.11	CHH	WGBS	None
+ENCFF417ERA	sigmoid colon	CHG	WGBS	None
+ENCFF455TQO	sigmoid colon	CpG	WGBS	None
+ENCFF576QRO	sigmoid colon	CHH	WGBS	None
+ENCFF247ILV	ovary	CpG	WGBS	None
+ENCFF702EVG	ovary	CHG	WGBS	None
+ENCFF874VKO	ovary	CHH	WGBS	None
+ENCFF140RJJ	mesendoderm	CHG	WGBS	None
+ENCFF698WVT	mesendoderm	CHH	WGBS	None
+ENCFF759QVR	mesendoderm	CHG	WGBS	None
+ENCFF629SOQ	mesendoderm	CHH	WGBS	None
+ENCFF795DNO	mesendoderm	CpG	WGBS	None
+ENCFF731IOY	mesendoderm	CpG	WGBS	None
+ENCFF195FUI	psoas muscle	CHG	WGBS	None
+ENCFF927XBL	psoas muscle	CHH	WGBS	None
+ENCFF913UZU	psoas muscle	CpG	WGBS	None
+ENCFF018AWT	adrenal gland	CHG	WGBS	None
+ENCFF216DJL	adrenal gland	CpG	WGBS	None
+ENCFF987LCQ	adrenal gland	CHH	WGBS	None
+ENCFF430MOL	thymus	CHG	WGBS	None
+ENCFF168HTX	thymus	CpG	WGBS	None
+ENCFF382ZHD	thymus	CHH	WGBS	None
+ENCFF282HNG	adrenal gland	CHG	WGBS	None
+ENCFF210XTE	adrenal gland	CpG	WGBS	None
+ENCFF483MGW	adrenal gland	CHH	WGBS	None
+ENCFF299AJA	lung	CHG	WGBS	None
+ENCFF721VBY	lung	CHH	WGBS	None
+ENCFF477AUC	lung	CpG	WGBS	None
+ENCFF360OLG	neural stem progenitor cell	CHG	WGBS	None
+ENCFF215CKT	neural stem progenitor cell	CpG	WGBS	None
+ENCFF404OJT	neural stem progenitor cell	CHH	WGBS	None
+ENCFF270EZK	neural stem progenitor cell	CHG	WGBS	None
+ENCFF575GIN	neural stem progenitor cell	CpG	WGBS	None
+ENCFF970WEU	neural stem progenitor cell	CHH	WGBS	None
+ENCFF479QJK	H1-hESC	CpG	WGBS	None
+ENCFF544LJJ	H1-hESC	CHG	WGBS	None
+ENCFF477LSJ	H1-hESC	CHH	WGBS	None
+ENCFF974HLL	H1-hESC	CHG	WGBS	None
+ENCFF528BKB	H1-hESC	CHH	WGBS	None
+ENCFF092FNE	H1-hESC	CpG	WGBS	None
+ENCFF204VWK	small intestine	CHG	WGBS	None
+ENCFF312ABE	small intestine	CHH	WGBS	None
+ENCFF266NGW	small intestine	CpG	WGBS	None
+ENCFF500MJZ	small intestine	CHG	WGBS	None
+ENCFF166NAS	small intestine	CHH	WGBS	None
+ENCFF122LEF	small intestine	CpG	WGBS	None
+ENCFF152EGF	adipose tissue	CHG	WGBS	None
+ENCFF112SWY	adipose tissue	CHH	WGBS	None
+ENCFF103DNU	adipose tissue	CpG	WGBS	None
+ENCFF110AZO	right cardiac atrium	CpG	WGBS	None
+ENCFF937SZG	right cardiac atrium	CHG	WGBS	None
+ENCFF209DKJ	right cardiac atrium	CHH	WGBS	None
+ENCFF256WDR	trophoblast cell	CpG	WGBS	None
+ENCFF684UPN	trophoblast cell	CHH	WGBS	None
+ENCFF962JBN	trophoblast cell	CHG	WGBS	None
+ENCFF956JRV	trophoblast cell	CHG	WGBS	None
+ENCFF005PKW	trophoblast cell	CHH	WGBS	None
+ENCFF171ZRJ	trophoblast cell	CpG	WGBS	None
+ENCFF178PXB	spleen	CHG	WGBS	None
+ENCFF818IZZ	spleen	CHH	WGBS	None
+ENCFF526PFA	spleen	CpG	WGBS	None
+ENCFF026NBR	stomach	CHG	WGBS	None
+ENCFF534RNT	stomach	CpG	WGBS	None
+ENCFF699TSO	stomach	CHH	WGBS	None
+ENCFF498IKD	psoas muscle	CHG	WGBS	None
+ENCFF806ZTQ	psoas muscle	CHH	WGBS	None
+ENCFF121ZES	psoas muscle	CpG	WGBS	None
+ENCFF520WQW	stomach	CHG	WGBS	None
+ENCFF435SPL	stomach	CpG	WGBS	None
+ENCFF968GHE	stomach	CHH	WGBS	None
+ENCFF375AGR	heart right ventricle	CHG	WGBS	None
+ENCFF831OYO	heart right ventricle	CpG	WGBS	None
+ENCFF188WGW	heart right ventricle	CHH	WGBS	None
+ENCFF736IHW	spleen	CHG	WGBS	None
+ENCFF200MJQ	spleen	CpG	WGBS	None
+ENCFF698NXR	spleen	CHH	WGBS	None
+ENCFF546PSU	esophagus	CHG	WGBS	None
+ENCFF510EMT	esophagus	CpG	WGBS	None
+ENCFF591PNU	esophagus	CHH	WGBS	None
+ENCFF241AQC	small intestine	CpG	WGBS	None
+ENCFF763TBC	small intestine	CHH	WGBS	None
+ENCFF971IXP	small intestine	CHG	WGBS	None
+ENCFF982BAD	lung	CHG	WGBS	None
+ENCFF039JFT	lung	CpG	WGBS	None
+ENCFF563DHU	lung	CHH	WGBS	None
+ENCFF071MCV	stomach	CHG	WGBS	None
+ENCFF497YOO	stomach	CpG	WGBS	None
+ENCFF404YOB	stomach	CHH	WGBS	None
+ENCFF288YTY	IMR-90	CpG	WGBS	None
+ENCFF752KCK	IMR-90	CHG	WGBS	None
+ENCFF896ESM	IMR-90	CHH	WGBS	None
+ENCFF254DBF	IMR-90	CpG	WGBS	None
+ENCFF922TTB	IMR-90	CHH	WGBS	None
+ENCFF978HEU	IMR-90	CHG	WGBS	None
+ENCFF532BRS	adipose tissue	CHG	WGBS	None
+ENCFF810FOG	adipose tissue	CHH	WGBS	None
+ENCFF318AMC	adipose tissue	CpG	WGBS	None
+ENCFF846NKO	mesenchymal stem cell	CHG	WGBS	None
+ENCFF508DND	mesenchymal stem cell	CHH	WGBS	None
+ENCFF801OHX	mesenchymal stem cell	CpG	WGBS	None
+ENCFF183WOE	mesenchymal stem cell	CHG	WGBS	None
+ENCFF428TVT	mesenchymal stem cell	CpG	WGBS	None
+ENCFF261YWM	mesenchymal stem cell	CHH	WGBS	None
+ENCFF176CON	neural stem progenitor cell	CHG	WGBS	None
+ENCFF943XTA	neural stem progenitor cell	CpG	WGBS	None
+ENCFF750DHH	neural stem progenitor cell	CHH	WGBS	None
+ENCFF717QGR	muscle of leg	CHG	WGBS	None
+ENCFF588ETU	muscle of leg	CpG	WGBS	None
+ENCFF030NLF	muscle of leg	CHH	WGBS	None
+ENCFF614LCK	thymus	CHH	WGBS	None
+ENCFF481RBU	thymus	CHG	WGBS	None
+ENCFF392XPZ	thymus	CpG	WGBS	None
+ENCFF668XTC	IMR-90	CHG	WGBS	None
+ENCFF437UTG	IMR-90	CHH	WGBS	None
+ENCFF937OSM	IMR-90	CpG	WGBS	None
+ENCFF684YXF	small intestine	CHG	WGBS	None
+ENCFF521DHD	small intestine	CpG	WGBS	None
+ENCFF152DFK	small intestine	CHH	WGBS	None
+ENCFF396EJH	pancreas	CHG	WGBS	None
+ENCFF763RUE	pancreas	CpG	WGBS	None
+ENCFF167RDF	pancreas	CHH	WGBS	None
+ENCFF411YBY	large intestine	CHG	WGBS	None
+ENCFF390EXZ	large intestine	CHH	WGBS	None
+ENCFF923CZC	large intestine	CpG	WGBS	None
+ENCFF566BGW	heart right ventricle	CHG	WGBS	None
+ENCFF739YHS	heart right ventricle	CHH	WGBS	None
+ENCFF513ITC	heart right ventricle	CpG	WGBS	None
+ENCFF981JED	H9	CHG	WGBS	None
+ENCFF605HJO	H9	CHG	WGBS	None
+ENCFF975CVU	H9	CpG	WGBS	None
+ENCFF071XMO	H9	CHH	WGBS	None
+ENCFF665TFG	H9	CHH	WGBS	None
+ENCFF623RHB	H9	CpG	WGBS	None
+ENCFF304VHE	urinary bladder	CHG	WGBS	None
+ENCFF098ZUW	urinary bladder	CpG	WGBS	None
+ENCFF937IFA	urinary bladder	CHH	WGBS	None
+ENCFF485BWP	adrenal gland	CHG	WGBS	None
+ENCFF631CXH	adrenal gland	CHH	WGBS	None
+ENCFF826PSA	adrenal gland	CpG	WGBS	None

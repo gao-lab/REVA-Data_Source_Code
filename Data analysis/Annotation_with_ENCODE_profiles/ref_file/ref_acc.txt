@@ -1,0 +1,1469 @@
+ENCFF448YCS	transverse colon	ATAC-seq	None
+ENCFF300JSP	gastroesophageal sphincter	ATAC-seq	None
+ENCFF622DLW	gastrocnemius medialis	ATAC-seq	None
+ENCFF464XDH	gastrocnemius medialis	ATAC-seq	None
+ENCFF172PGL	heart left ventricle	ATAC-seq	None
+ENCFF146IYB	thyroid gland	ATAC-seq	None
+ENCFF309XOA	breast epithelium	ATAC-seq	None
+ENCFF993WJB	breast epithelium	ATAC-seq	None
+ENCFF890IWA	breast epithelium	ATAC-seq	None
+ENCFF733BTE	sigmoid colon	ATAC-seq	None
+ENCFF276VQT	ovary	ATAC-seq	None
+ENCFF296IYO	adrenal gland	ATAC-seq	None
+ENCFF169UNE	spleen	ATAC-seq	None
+ENCFF716JWT	gastrocnemius medialis	ATAC-seq	None
+ENCFF210COD	stomach	ATAC-seq	None
+ENCFF153EBS	testis	ATAC-seq	None
+ENCFF266LMD	right lobe of liver	ATAC-seq	None
+ENCFF859VHY	sigmoid colon	ATAC-seq	None
+ENCFF679PHA	sigmoid colon	ATAC-seq	None
+ENCFF933GHC	Peyer's patch	ATAC-seq	None
+ENCFF755ZCX	esophagus squamous epithelium	ATAC-seq	None
+ENCFF620AXB	prostate gland	ATAC-seq	None
+ENCFF610AMI	coronary artery	ATAC-seq	None
+ENCFF569ISV	body of pancreas	ATAC-seq	None
+ENCFF320CVX	body of pancreas	ATAC-seq	None
+ENCFF184FLY	sigmoid colon	ATAC-seq	None
+ENCFF628TQQ	tibial nerve	ATAC-seq	None
+ENCFF554DVK	transverse colon	ATAC-seq	None
+ENCFF039LNM	gastrocnemius medialis	ATAC-seq	None
+ENCFF539GRT	stomach	ATAC-seq	None
+ENCFF246WVH	thyroid gland	ATAC-seq	None
+ENCFF216NIG	tibial artery	ATAC-seq	None
+ENCFF269JUI	body of pancreas	ATAC-seq	None
+ENCFF807DIF	transverse colon	ATAC-seq	None
+ENCFF730TBY	heart left ventricle	ATAC-seq	None
+ENCFF193VKI	subcutaneous adipose tissue	ATAC-seq	None
+ENCFF701IBX	thoracic aorta	ATAC-seq	None
+ENCFF789UMZ	omental fat pad	ATAC-seq	None
+ENCFF496TCM	right atrium auricular region	ATAC-seq	None
+ENCFF757JLU	esophagus muscularis mucosa	ATAC-seq	None
+ENCFF538CCD	adrenal gland	ATAC-seq	None
+ENCFF975XAY	gastroesophageal sphincter	ATAC-seq	None
+ENCFF762CEX	thyroid gland	ATAC-seq	None
+ENCFF227RKB	transverse colon	ATAC-seq	None
+ENCFF446UOB	body of pancreas	ATAC-seq	None
+ENCFF833JFM	foreskin keratinocyte	DNase-seq	None
+ENCFF945HWH	foreskin keratinocyte	DNase-seq	None
+ENCFF066IBF	IMR-90	DNase-seq	None
+ENCFF989MSO	IMR-90	DNase-seq	None
+ENCFF359JHX	IMR-90	DNase-seq	None
+ENCFF228WBP	IMR-90	DNase-seq	None
+ENCFF371GGV	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF995DGS	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF270OXY	large intestine	DNase-seq	None
+ENCFF478XDH	muscle of back	DNase-seq	None
+ENCFF517DTZ	muscle of arm	DNase-seq	None
+ENCFF529IQV	right kidney	DNase-seq	None
+ENCFF370OYQ	lung	DNase-seq	None
+ENCFF684MAZ	muscle of leg	DNase-seq	None
+ENCFF734PPZ	stomach	DNase-seq	None
+ENCFF924FPB	muscle of leg	DNase-seq	None
+ENCFF638UOX	iPS DF 6.9	DNase-seq	None
+ENCFF474QSW	lung	DNase-seq	None
+ENCFF971VCD	renal cortex interstitium	DNase-seq	None
+ENCFF385RNI	spinal cord	DNase-seq	None
+ENCFF058TRU	foreskin fibroblast	DNase-seq	None
+ENCFF809SXS	muscle of leg	DNase-seq	None
+ENCFF371RXZ	brain	DNase-seq	None
+ENCFF719SHZ	heart	DNase-seq	None
+ENCFF249GZW	placenta	DNase-seq	None
+ENCFF559VIU	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF971VBF	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF438GJD	lung	DNase-seq	None
+ENCFF858JQG	stomach	DNase-seq	None
+ENCFF687GYG	natural killer cell	DNase-seq	None
+ENCFF173JRC	muscle of leg	DNase-seq	None
+ENCFF077UJK	right kidney	DNase-seq	None
+ENCFF786QZY	muscle of arm	DNase-seq	None
+ENCFF180AQM	testis	DNase-seq	None
+ENCFF265KNN	muscle of arm	DNase-seq	None
+ENCFF267EBS	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF995OBT	left renal pelvis	DNase-seq	None
+ENCFF510AYV	thymus	DNase-seq	None
+ENCFF544CVM	left lung	DNase-seq	None
+ENCFF391CGC	renal pelvis	DNase-seq	None
+ENCFF494CSI	H9	DNase-seq	None
+ENCFF400IOO	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF820TAI	brain	DNase-seq	None
+ENCFF846UED	right renal pelvis	DNase-seq	None
+ENCFF908BGP	muscle of arm	DNase-seq	None
+ENCFF968IOH	skin fibroblast	DNase-seq	None
+ENCFF437AEG	brain	DNase-seq	None
+ENCFF770SAC	brain	DNase-seq	None
+ENCFF256KNP	neural stem progenitor cell	DNase-seq	None
+ENCFF271KSL	neural stem progenitor cell	DNase-seq	None
+ENCFF118DRT	large intestine	DNase-seq	None
+ENCFF360KYS	right kidney	DNase-seq	None
+ENCFF049XKN	foreskin melanocyte	DNase-seq	None
+ENCFF842IEY	stomach	DNase-seq	None
+ENCFF924NKC	renal cortex interstitium	DNase-seq	None
+ENCFF104VLJ	thymus	DNase-seq	None
+ENCFF164IJW	pancreas	DNase-seq	None
+ENCFF525ZZG	left renal cortex interstitium	DNase-seq	None
+ENCFF648KWJ	left renal pelvis	DNase-seq	None
+ENCFF356XPV	iPS DF 19.7	DNase-seq	None
+ENCFF881OJT	large intestine	DNase-seq	None
+ENCFF574LKL	H1-hESC	DNase-seq	None
+ENCFF725WHX	skin fibroblast	DNase-seq	None
+ENCFF024LKC	large intestine	DNase-seq	None
+ENCFF173WZS	left lung	DNase-seq	None
+ENCFF881BUS	left lung	DNase-seq	None
+ENCFF577ZMC	kidney	DNase-seq	None
+ENCFF384RMC	brain	DNase-seq	None
+ENCFF867HJE	trophoblast cell	DNase-seq	None
+ENCFF863CNC	left renal cortex interstitium	DNase-seq	None
+ENCFF438XUQ	renal pelvis	DNase-seq	None
+ENCFF585AJG	iPS DF 19.11	DNase-seq	None
+ENCFF419TZO	muscle of leg	DNase-seq	None
+ENCFF857PAY	muscle of leg	DNase-seq	None
+ENCFF762SWA	muscle of arm	DNase-seq	None
+ENCFF683CID	placenta	DNase-seq	None
+ENCFF143QFM	renal cortex interstitium	DNase-seq	None
+ENCFF179NOL	heart	DNase-seq	None
+ENCFF677LCJ	muscle of trunk	DNase-seq	None
+ENCFF132DVF	renal pelvis	DNase-seq	None
+ENCFF532RQO	adrenal gland	DNase-seq	None
+ENCFF137UKU	large intestine	DNase-seq	None
+ENCFF901XEJ	muscle of arm	DNase-seq	None
+ENCFF172HGE	small intestine	DNase-seq	None
+ENCFF285FXR	thymus	DNase-seq	None
+ENCFF434IPQ	left lung	DNase-seq	None
+ENCFF978III	small intestine	DNase-seq	None
+ENCFF483JXP	large intestine	DNase-seq	None
+ENCFF050NEM	adrenal gland	DNase-seq	None
+ENCFF429OVG	left lung	DNase-seq	None
+ENCFF851CRN	heart	DNase-seq	None
+ENCFF738JDE	CD8-positive, alpha-beta T cell	DNase-seq	None
+ENCFF279CHX	ovary	DNase-seq	None
+ENCFF602DIZ	left renal cortex interstitium	DNase-seq	None
+ENCFF155DZV	renal pelvis	DNase-seq	None
+ENCFF357RAP	muscle of back	DNase-seq	None
+ENCFF610OWH	left lung	DNase-seq	None
+ENCFF488ZLH	stomach	DNase-seq	None
+ENCFF213TVS	muscle of back	DNase-seq	None
+ENCFF611KWJ	muscle of arm	DNase-seq	None
+ENCFF828HED	right lung	DNase-seq	None
+ENCFF786GMY	renal pelvis	DNase-seq	None
+ENCFF198ALI	small intestine	DNase-seq	None
+ENCFF209MOG	skin fibroblast	DNase-seq	None
+ENCFF930MUK	right lung	DNase-seq	None
+ENCFF802GPU	heart	DNase-seq	None
+ENCFF803IZB	stomach	DNase-seq	None
+ENCFF645FNZ	lung	DNase-seq	None
+ENCFF014YBK	renal pelvis	DNase-seq	None
+ENCFF628TOP	left kidney	DNase-seq	None
+ENCFF203IXI	spinal cord	DNase-seq	None
+ENCFF180AEX	spleen	DNase-seq	None
+ENCFF066LTB	muscle of back	DNase-seq	None
+ENCFF706OKJ	skin fibroblast	DNase-seq	None
+ENCFF120DNW	large intestine	DNase-seq	None
+ENCFF103ZMI	muscle of arm	DNase-seq	None
+ENCFF742WRC	left renal pelvis	DNase-seq	None
+ENCFF140VUL	right lung	DNase-seq	None
+ENCFF574WIN	left kidney	DNase-seq	None
+ENCFF736PAW	T-cell	DNase-seq	None
+ENCFF816CNZ	right kidney	DNase-seq	None
+ENCFF433PDK	right kidney	DNase-seq	None
+ENCFF716KMR	small intestine	DNase-seq	None
+ENCFF106PMZ	spinal cord	DNase-seq	None
+ENCFF410MHQ	T-cell	DNase-seq	None
+ENCFF522CKK	right kidney	DNase-seq	None
+ENCFF355LDD	B cell	DNase-seq	None
+ENCFF682LFV	placenta	DNase-seq	None
+ENCFF906KRB	left renal cortex interstitium	DNase-seq	None
+ENCFF808FRN	placenta	DNase-seq	None
+ENCFF064KOE	muscle of back	DNase-seq	None
+ENCFF425HGL	small intestine	DNase-seq	None
+ENCFF944HYF	muscle of leg	DNase-seq	None
+ENCFF144ERX	right kidney	DNase-seq	None
+ENCFF794UBO	muscle of arm	DNase-seq	None
+ENCFF910QCI	left lung	DNase-seq	None
+ENCFF144HBQ	T-cell	DNase-seq	None
+ENCFF832UZR	right renal pelvis	DNase-seq	None
+ENCFF804DUL	brain	DNase-seq	None
+ENCFF096EVU	iPS DF 4.7	DNase-seq	None
+ENCFF064SMJ	stomach	DNase-seq	None
+ENCFF751IVM	muscle of leg	DNase-seq	None
+ENCFF247ZAZ	heart	DNase-seq	None
+ENCFF214ZLL	muscle of back	DNase-seq	None
+ENCFF200HLO	stomach	DNase-seq	None
+ENCFF329GDP	lung	DNase-seq	None
+ENCFF766MRS	left lung	DNase-seq	None
+ENCFF419STH	skin fibroblast	DNase-seq	None
+ENCFF894PDJ	muscle of leg	DNase-seq	None
+ENCFF819NTW	lung	DNase-seq	None
+ENCFF207RZS	muscle of leg	DNase-seq	None
+ENCFF671GMS	thymus	DNase-seq	None
+ENCFF195YWM	kidney	DNase-seq	None
+ENCFF149NMR	renal cortex interstitium	DNase-seq	None
+ENCFF617DDH	lung	DNase-seq	None
+ENCFF817MGC	right renal cortex interstitium	DNase-seq	None
+ENCFF227WDB	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF171NVI	right lung	DNase-seq	None
+ENCFF312ZGX	stomach	DNase-seq	None
+ENCFF198WIN	right renal cortex interstitium	DNase-seq	None
+ENCFF732VLL	renal cortex interstitium	DNase-seq	None
+ENCFF173MJQ	large intestine	DNase-seq	None
+ENCFF348DBB	left kidney	DNase-seq	None
+ENCFF152JIP	heart	DNase-seq	None
+ENCFF641CNI	adrenal gland	DNase-seq	None
+ENCFF464PRA	muscle of arm	DNase-seq	None
+ENCFF787OCX	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF106EDT	muscle of back	DNase-seq	None
+ENCFF980YON	thymus	DNase-seq	None
+ENCFF276EBZ	CD4-positive helper T cell	DNase-seq	None
+ENCFF116PRN	left kidney	DNase-seq	None
+ENCFF415JJI	brain	DNase-seq	None
+ENCFF327DJR	renal pelvis	DNase-seq	None
+ENCFF921FAL	stomach	DNase-seq	None
+ENCFF526VCU	adrenal gland	DNase-seq	None
+ENCFF492MCV	muscle of arm	DNase-seq	None
+ENCFF355SRP	left lung	DNase-seq	None
+ENCFF165LZK	muscle of arm	DNase-seq	None
+ENCFF905NQU	left lung	DNase-seq	None
+ENCFF180TWQ	left lung	DNase-seq	None
+ENCFF916EFR	ovary	DNase-seq	None
+ENCFF178AYH	thymus	DNase-seq	None
+ENCFF521ZLX	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF574UTF	heart	DNase-seq	None
+ENCFF317VBE	large intestine	DNase-seq	None
+ENCFF016DSD	right lung	DNase-seq	None
+ENCFF250JHL	large intestine	DNase-seq	None
+ENCFF336JBS	stomach	DNase-seq	None
+ENCFF504INS	muscle of back	DNase-seq	None
+ENCFF531MCH	left kidney	DNase-seq	None
+ENCFF698LRC	brain	DNase-seq	None
+ENCFF167XAJ	CD4-positive helper T cell	DNase-seq	None
+ENCFF696SPY	fibroblast of skin of abdomen	DNase-seq	None
+ENCFF848SAN	kidney	DNase-seq	None
+ENCFF617MXO	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF668TER	T-cell	DNase-seq	None
+ENCFF645VRE	stomach	DNase-seq	None
+ENCFF551HRI	adrenal gland	DNase-seq	None
+ENCFF067CKQ	skin fibroblast	DNase-seq	None
+ENCFF216PTJ	large intestine	DNase-seq	None
+ENCFF898XAX	renal cortex interstitium	DNase-seq	None
+ENCFF516TPQ	muscle of back	DNase-seq	None
+ENCFF681WSK	left lung	DNase-seq	None
+ENCFF898PPG	right renal cortex interstitium	DNase-seq	None
+ENCFF354YEA	renal cortex interstitium	DNase-seq	None
+ENCFF456NFP	left kidney	DNase-seq	None
+ENCFF094EMV	muscle of arm	DNase-seq	None
+ENCFF187NZJ	stomach	DNase-seq	None
+ENCFF294NFN	thoracic segment muscle	DNase-seq	None
+ENCFF675RVL	natural killer cell	DNase-seq	None
+ENCFF800DOC	brain	DNase-seq	None
+ENCFF347SKO	renal cortex interstitium	DNase-seq	None
+ENCFF378KGO	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF727YVM	renal cortex interstitium	DNase-seq	None
+ENCFF501IFI	large intestine	DNase-seq	None
+ENCFF653SUH	left kidney	DNase-seq	None
+ENCFF880ORV	kidney	DNase-seq	None
+ENCFF518QQC	skin fibroblast	DNase-seq	None
+ENCFF614QQR	CD8-positive, alpha-beta T cell	DNase-seq	None
+ENCFF900JRB	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF740XLE	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF944LHE	B cell	DNase-seq	None
+ENCFF747BVJ	heart	DNase-seq	None
+ENCFF337KZM	right kidney	DNase-seq	None
+ENCFF810WAZ	muscle of arm	DNase-seq	None
+ENCFF057CCO	small intestine	DNase-seq	None
+ENCFF009MPE	left kidney	DNase-seq	None
+ENCFF399OBI	skin fibroblast	DNase-seq	None
+ENCFF291MQR	lung	DNase-seq	None
+ENCFF444ZRC	B cell	DNase-seq	None
+ENCFF908SUH	muscle of back	DNase-seq	None
+ENCFF969YOA	skin fibroblast	DNase-seq	None
+ENCFF024TPY	kidney	DNase-seq	None
+ENCFF047EML	muscle of leg	DNase-seq	None
+ENCFF856UQI	hindlimb muscle	DNase-seq	None
+ENCFF714RWU	left renal pelvis	DNase-seq	None
+ENCFF007TSW	CD14-positive monocyte	DNase-seq	None
+ENCFF831JPV	thymus	DNase-seq	None
+ENCFF755CWG	thymus	DNase-seq	None
+ENCFF782KJY	lung	DNase-seq	None
+ENCFF131SCF	T-cell	DNase-seq	None
+ENCFF711OGS	small intestine	DNase-seq	None
+ENCFF711GHU	small intestine	DNase-seq	None
+ENCFF227RVA	small intestine	DNase-seq	None
+ENCFF757CMC	thymus	DNase-seq	None
+ENCFF420ADF	right lung	DNase-seq	None
+ENCFF330NPA	renal cortex interstitium	DNase-seq	None
+ENCFF630OHJ	small intestine	DNase-seq	None
+ENCFF097UAJ	stomach	DNase-seq	None
+ENCFF733UOT	right kidney	DNase-seq	None
+ENCFF382AEJ	muscle of leg	DNase-seq	None
+ENCFF197CRC	heart	DNase-seq	None
+ENCFF064JZR	renal pelvis	DNase-seq	None
+ENCFF056LVP	muscle of back	DNase-seq	None
+ENCFF208CUI	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF133ICX	small intestine	DNase-seq	None
+ENCFF459NWX	large intestine	DNase-seq	None
+ENCFF143DJJ	right lung	DNase-seq	None
+ENCFF232BIG	placenta	DNase-seq	None
+ENCFF917MLF	thymus	DNase-seq	None
+ENCFF448GNP	thymus	DNase-seq	None
+ENCFF203FLV	heart	DNase-seq	None
+ENCFF411ADY	muscle of arm	DNase-seq	None
+ENCFF841MMD	right renal pelvis	DNase-seq	None
+ENCFF593LQN	adrenal gland	DNase-seq	None
+ENCFF757IKL	muscle of back	DNase-seq	None
+ENCFF630USR	heart	DNase-seq	None
+ENCFF062FOP	CD8-positive, alpha-beta T cell	DNase-seq	None
+ENCFF498MDZ	kidney	DNase-seq	None
+ENCFF979SJD	muscle of trunk	DNase-seq	None
+ENCFF060JZA	forelimb muscle	DNase-seq	None
+ENCFF342IEP	muscle of back	DNase-seq	None
+ENCFF678IKQ	brain	DNase-seq	None
+ENCFF412SKC	spinal cord	DNase-seq	None
+ENCFF701RGI	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF316VYS	large intestine	DNase-seq	None
+ENCFF543KDP	muscle of leg	DNase-seq	None
+ENCFF228QBR	CD14-positive monocyte	DNase-seq	None
+ENCFF518XTM	testis	DNase-seq	None
+ENCFF032FWK	pancreas	DNase-seq	None
+ENCFF235WMX	CD4-positive helper T cell	DNase-seq	None
+ENCFF456LZZ	stomach	DNase-seq	None
+ENCFF875NRF	small intestine	DNase-seq	None
+ENCFF346CWN	left lung	DNase-seq	None
+ENCFF884KLO	muscle of trunk	DNase-seq	None
+ENCFF158UAN	muscle of leg	DNase-seq	None
+ENCFF466TCI	heart	DNase-seq	None
+ENCFF532WPU	large intestine	DNase-seq	None
+ENCFF553KUB	stomach	DNase-seq	None
+ENCFF826HLM	heart	DNase-seq	None
+ENCFF712HXM	adrenal gland	DNase-seq	None
+ENCFF777SVA	right lung	DNase-seq	None
+ENCFF979NIV	kidney	DNase-seq	None
+ENCFF033JMX	muscle of arm	DNase-seq	None
+ENCFF116GQA	kidney	DNase-seq	None
+ENCFF194DCA	stomach	DNase-seq	None
+ENCFF936OHE	kidney	DNase-seq	None
+ENCFF929EGO	right lung	DNase-seq	None
+ENCFF290EPY	lung	DNase-seq	None
+ENCFF197KHQ	kidney	DNase-seq	None
+ENCFF987DJP	kidney	DNase-seq	None
+ENCFF934EAN	muscle of arm	DNase-seq	None
+ENCFF351STM	renal pelvis	DNase-seq	None
+ENCFF868NGL	right lung	DNase-seq	None
+ENCFF106VZG	muscle of back	DNase-seq	None
+ENCFF596AFS	small intestine	DNase-seq	None
+ENCFF982PAZ	renal pelvis	DNase-seq	None
+ENCFF665BXP	spinal cord	DNase-seq	None
+ENCFF646LUA	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF373HMJ	right lung	DNase-seq	None
+ENCFF338PYM	renal cortex interstitium	DNase-seq	None
+ENCFF875AFU	brain	DNase-seq	None
+ENCFF975DXH	muscle of back	DNase-seq	None
+ENCFF949YFS	right renal pelvis	DNase-seq	None
+ENCFF721HLN	muscle of arm	DNase-seq	None
+ENCFF976JED	skin of body	DNase-seq	None
+ENCFF507IEW	iPS DF 19.7	DNase-seq	None
+ENCFF241USC	left renal pelvis	DNase-seq	None
+ENCFF194KXV	renal cortex interstitium	DNase-seq	None
+ENCFF613FIB	right renal cortex interstitium	DNase-seq	None
+ENCFF635WCC	kidney	DNase-seq	None
+ENCFF020FWO	kidney	DNase-seq	None
+ENCFF058TUX	right lung	DNase-seq	None
+ENCFF358CVP	heart	DNase-seq	None
+ENCFF225QPG	brain	DNase-seq	None
+ENCFF460YVL	stomach	DNase-seq	None
+ENCFF581CUG	heart	DNase-seq	None
+ENCFF007GQK	heart	DNase-seq	None
+ENCFF125FSL	right kidney	DNase-seq	None
+ENCFF807UWE	right kidney	DNase-seq	None
+ENCFF422SQQ	brain	DNase-seq	None
+ENCFF823JTT	B cell	DNase-seq	None
+ENCFF082YXC	heart	DNase-seq	None
+ENCFF718BDX	left lung	DNase-seq	None
+ENCFF763KLI	left kidney	DNase-seq	None
+ENCFF114MYB	renal cortex interstitium	DNase-seq	None
+ENCFF409FEK	muscle of leg	DNase-seq	None
+ENCFF148PCY	muscle of arm	DNase-seq	None
+ENCFF158IRO	muscle of arm	DNase-seq	None
+ENCFF105SNJ	renal pelvis	DNase-seq	None
+ENCFF403SUB	pancreas	DNase-seq	None
+ENCFF028NJF	muscle of leg	DNase-seq	None
+ENCFF799KWG	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF528QQS	large intestine	DNase-seq	None
+ENCFF526QUD	thymus	DNase-seq	None
+ENCFF853GQY	right kidney	DNase-seq	None
+ENCFF464BPU	brain	DNase-seq	None
+ENCFF614KFD	renal pelvis	DNase-seq	None
+ENCFF957LQJ	renal pelvis	DNase-seq	None
+ENCFF687CLH	fibroblast of skin of abdomen	DNase-seq	None
+ENCFF360LKQ	CD4-positive helper T cell	DNase-seq	None
+ENCFF283GEW	left renal pelvis	DNase-seq	None
+ENCFF879CGW	left kidney	DNase-seq	None
+ENCFF167SDL	muscle of arm	DNase-seq	None
+ENCFF167STH	stomach	DNase-seq	None
+ENCFF053LUK	fibroblast of skin of abdomen	DNase-seq	None
+ENCFF453AAS	left kidney	DNase-seq	None
+ENCFF639QXT	renal cortex interstitium	DNase-seq	None
+ENCFF362WET	stomach	DNase-seq	None
+ENCFF666CHE	stomach	DNase-seq	None
+ENCFF096TTO	heart	DNase-seq	None
+ENCFF691XOS	skin fibroblast	DNase-seq	None
+ENCFF426OFK	skin fibroblast	DNase-seq	None
+ENCFF688LNA	skin fibroblast	DNase-seq	None
+ENCFF810TIT	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF312YEI	right kidney	DNase-seq	None
+ENCFF338KTY	H1-hESC	DNase-seq	None
+ENCFF285IVA	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF725UKA	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF485PWM	thymus	DNase-seq	None
+ENCFF949WQH	renal pelvis	DNase-seq	None
+ENCFF374WTZ	muscle of back	DNase-seq	None
+ENCFF340HXV	muscle of back	DNase-seq	None
+ENCFF365MBB	muscle of back	DNase-seq	None
+ENCFF072SZT	muscle of back	DNase-seq	None
+ENCFF839FSF	brain	DNase-seq	None
+ENCFF349YPC	forelimb muscle	DNase-seq	None
+ENCFF282BUD	muscle of arm	DNase-seq	None
+ENCFF727DDM	muscle of leg	DNase-seq	None
+ENCFF321NTP	muscle of arm	DNase-seq	None
+ENCFF212EPW	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF333PLF	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF490EXW	lung	DNase-seq	None
+ENCFF391WYC	kidney	DNase-seq	None
+ENCFF915INZ	muscle of leg	DNase-seq	None
+ENCFF074KEY	renal pelvis	DNase-seq	None
+ENCFF885OTL	right kidney	DNase-seq	None
+ENCFF897YVS	heart	DNase-seq	None
+ENCFF342TOK	ovary	DNase-seq	None
+ENCFF867VFF	muscle of trunk	DNase-seq	None
+ENCFF914SZL	lung	DNase-seq	None
+ENCFF698RYJ	muscle of leg	DNase-seq	None
+ENCFF205UIO	lung	DNase-seq	None
+ENCFF504DAE	muscle of back	DNase-seq	None
+ENCFF126VBD	adrenal gland	DNase-seq	None
+ENCFF174VRM	placenta	DNase-seq	None
+ENCFF617UHG	small intestine	DNase-seq	None
+ENCFF799TYV	skin fibroblast	DNase-seq	None
+ENCFF733HEF	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF431OVX	skin fibroblast	DNase-seq	None
+ENCFF525QGN	foreskin melanocyte	DNase-seq	None
+ENCFF497PQV	iPS DF 4.7	DNase-seq	None
+ENCFF834QRV	small intestine	DNase-seq	None
+ENCFF561ENC	kidney	DNase-seq	None
+ENCFF422BPW	right lung	DNase-seq	None
+ENCFF543NKS	left lung	DNase-seq	None
+ENCFF240WZG	small intestine	DNase-seq	None
+ENCFF243MBB	skin fibroblast	DNase-seq	None
+ENCFF977UYY	thymus	DNase-seq	None
+ENCFF259VVH	renal cortex interstitium	DNase-seq	None
+ENCFF828JRB	muscle of arm	DNase-seq	None
+ENCFF172GSX	lung	DNase-seq	None
+ENCFF012LSG	small intestine	DNase-seq	None
+ENCFF295FPK	right lung	DNase-seq	None
+ENCFF070VRK	right lung	DNase-seq	None
+ENCFF472SZR	large intestine	DNase-seq	None
+ENCFF927SPG	small intestine	DNase-seq	None
+ENCFF783SLY	stomach	DNase-seq	None
+ENCFF390EKL	heart	DNase-seq	None
+ENCFF047VNP	heart	DNase-seq	None
+ENCFF415CEW	muscle of leg	DNase-seq	None
+ENCFF809PKZ	muscle of arm	DNase-seq	None
+ENCFF216SYK	lung	DNase-seq	None
+ENCFF745WLV	adrenal gland	DNase-seq	None
+ENCFF967WVU	kidney	DNase-seq	None
+ENCFF217JVU	skin fibroblast	DNase-seq	None
+ENCFF648KXM	large intestine	DNase-seq	None
+ENCFF221FFD	muscle of arm	DNase-seq	None
+ENCFF684HBU	skin fibroblast	DNase-seq	None
+ENCFF502FQS	muscle of leg	DNase-seq	None
+ENCFF406RTA	spinal cord	DNase-seq	None
+ENCFF520CZT	iPS DF 6.9	DNase-seq	None
+ENCFF925SKQ	left kidney	DNase-seq	None
+ENCFF753HBM	muscle of back	DNase-seq	None
+ENCFF238LUI	B cell	DNase-seq	None
+ENCFF947JNC	CD4-positive helper T cell	DNase-seq	None
+ENCFF025BJB	placenta	DNase-seq	None
+ENCFF875CDR	spinal cord	DNase-seq	None
+ENCFF816OHA	muscle of back	DNase-seq	None
+ENCFF652JYR	thymus	DNase-seq	None
+ENCFF915XQC	CD14-positive monocyte	DNase-seq	None
+ENCFF916PTD	testis	DNase-seq	None
+ENCFF497QQN	B cell	DNase-seq	None
+ENCFF335JED	CD14-positive monocyte	DNase-seq	None
+ENCFF974WUR	skin fibroblast	DNase-seq	None
+ENCFF613TMO	muscle of arm	DNase-seq	None
+ENCFF991KFV	large intestine	DNase-seq	None
+ENCFF684QFQ	left lung	DNase-seq	None
+ENCFF375DHF	muscle of back	DNase-seq	None
+ENCFF618FRQ	adrenal gland	DNase-seq	None
+ENCFF037QQA	ovary	DNase-seq	None
+ENCFF861EYO	stomach	DNase-seq	None
+ENCFF004GBA	CD8-positive, alpha-beta T cell	DNase-seq	None
+ENCFF839YTP	T-cell	DNase-seq	None
+ENCFF737MBR	stomach	DNase-seq	None
+ENCFF150YYX	H9	DNase-seq	None
+ENCFF921EBT	heart	DNase-seq	None
+ENCFF371HNS	left lung	DNase-seq	None
+ENCFF027EJI	large intestine	DNase-seq	None
+ENCFF059EQC	large intestine	DNase-seq	None
+ENCFF356OSE	foreskin melanocyte	DNase-seq	None
+ENCFF378QVC	kidney	DNase-seq	None
+ENCFF164FDZ	muscle of leg	DNase-seq	None
+ENCFF145MNB	muscle of leg	DNase-seq	None
+ENCFF096VYH	heart	DNase-seq	None
+ENCFF772JBK	renal pelvis	DNase-seq	None
+ENCFF507PIV	left renal cortex interstitium	DNase-seq	None
+ENCFF209TED	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF190MLU	thymus	DNase-seq	None
+ENCFF007BRU	left kidney	DNase-seq	None
+ENCFF907KYP	right kidney	DNase-seq	None
+ENCFF948CVH	kidney	DNase-seq	None
+ENCFF727MYL	natural killer cell	DNase-seq	None
+ENCFF402DJK	large intestine	DNase-seq	None
+ENCFF084INH	skin fibroblast	DNase-seq	None
+ENCFF597GVZ	skin fibroblast	DNase-seq	None
+ENCFF386QCU	large intestine	DNase-seq	None
+ENCFF689FDS	muscle of trunk	DNase-seq	None
+ENCFF305IAL	large intestine	DNase-seq	None
+ENCFF783TQZ	stomach	DNase-seq	None
+ENCFF209WIT	T-cell	DNase-seq	None
+ENCFF762WIQ	muscle of leg	DNase-seq	None
+ENCFF926KAT	muscle of arm	DNase-seq	None
+ENCFF091BAW	muscle of leg	DNase-seq	None
+ENCFF227WZR	lung	DNase-seq	None
+ENCFF756JNG	small intestine	DNase-seq	None
+ENCFF116DHO	foreskin fibroblast	DNase-seq	None
+ENCFF284JYN	large intestine	DNase-seq	None
+ENCFF805PHJ	B cell	DNase-seq	None
+ENCFF911WDJ	thymus	DNase-seq	None
+ENCFF700QDA	right kidney	DNase-seq	None
+ENCFF199ETV	small intestine	DNase-seq	None
+ENCFF879VBG	small intestine	DNase-seq	None
+ENCFF675NAH	muscle of back	DNase-seq	None
+ENCFF661OPZ	left lung	DNase-seq	None
+ENCFF498BSC	muscle of arm	DNase-seq	None
+ENCFF157IYR	stomach	DNase-seq	None
+ENCFF514DWJ	left renal cortex interstitium	DNase-seq	None
+ENCFF091CNN	muscle of back	DNase-seq	None
+ENCFF248TFS	thymus	DNase-seq	None
+ENCFF487JBH	muscle of leg	DNase-seq	None
+ENCFF290OTF	thymus	DNase-seq	None
+ENCFF255HLT	right renal pelvis	DNase-seq	None
+ENCFF931DUC	renal cortex interstitium	DNase-seq	None
+ENCFF587FIW	muscle of back	DNase-seq	None
+ENCFF126JXB	T-cell	DNase-seq	None
+ENCFF958ENE	skin fibroblast	DNase-seq	None
+ENCFF594XCR	right renal cortex interstitium	DNase-seq	None
+ENCFF554QRP	renal cortex interstitium	DNase-seq	None
+ENCFF983SVC	renal pelvis	DNase-seq	None
+ENCFF068EJC	pancreas	DNase-seq	None
+ENCFF258KAT	brain	DNase-seq	None
+ENCFF327JLK	muscle of leg	DNase-seq	None
+ENCFF900LAT	muscle of arm	DNase-seq	None
+ENCFF680GPQ	lung	DNase-seq	None
+ENCFF663PTZ	right renal cortex interstitium	DNase-seq	None
+ENCFF762YAX	renal cortex interstitium	DNase-seq	None
+ENCFF841AYF	left kidney	DNase-seq	None
+ENCFF067JJG	placenta	DNase-seq	None
+ENCFF927NNT	right lung	DNase-seq	None
+ENCFF597TKH	kidney	DNase-seq	None
+ENCFF793EQQ	skin of body	DNase-seq	None
+ENCFF630LEF	muscle of arm	DNase-seq	None
+ENCFF485DEP	muscle of arm	DNase-seq	None
+ENCFF725NMZ	stomach	DNase-seq	None
+ENCFF572YUX	heart	DNase-seq	None
+ENCFF210YXP	spleen	DNase-seq	None
+ENCFF188ZFG	muscle of arm	DNase-seq	None
+ENCFF030FXE	adrenal gland	DNase-seq	None
+ENCFF642UFQ	kidney	DNase-seq	None
+ENCFF661OGW	spinal cord	DNase-seq	None
+ENCFF784TVL	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF300IHF	skin fibroblast	DNase-seq	None
+ENCFF922MQL	CD8-positive, alpha-beta T cell	DNase-seq	None
+ENCFF589FTC	placenta	DNase-seq	None
+ENCFF552TQZ	small intestine	DNase-seq	None
+ENCFF087TBH	left renal cortex interstitium	DNase-seq	None
+ENCFF396OCF	brain	DNase-seq	None
+ENCFF519BRW	left renal pelvis	DNase-seq	None
+ENCFF994DZN	right lung	DNase-seq	None
+ENCFF859JXM	left lung	DNase-seq	None
+ENCFF472TGW	heart	DNase-seq	None
+ENCFF362PZC	right renal pelvis	DNase-seq	None
+ENCFF205MKH	renal cortex interstitium	DNase-seq	None
+ENCFF660BYL	natural killer cell	DNase-seq	None
+ENCFF757GAE	T-cell	DNase-seq	None
+ENCFF683PCM	large intestine	DNase-seq	None
+ENCFF861KWC	lung	DNase-seq	None
+ENCFF102IYI	small intestine	DNase-seq	None
+ENCFF524EGE	brain	DNase-seq	None
+ENCFF949RAR	stomach	DNase-seq	None
+ENCFF536KAC	heart	DNase-seq	None
+ENCFF037SOW	brain	DNase-seq	None
+ENCFF289AWO	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF027SZQ	left lung	DNase-seq	None
+ENCFF687BUW	left lung	DNase-seq	None
+ENCFF819JMJ	adrenal gland	DNase-seq	None
+ENCFF756EVG	small intestine	DNase-seq	None
+ENCFF847XNL	neural stem progenitor cell	DNase-seq	None
+ENCFF132JBP	kidney	DNase-seq	None
+ENCFF259XYI	right lung	DNase-seq	None
+ENCFF561QZT	muscle of back	DNase-seq	None
+ENCFF281DKC	stomach	DNase-seq	None
+ENCFF152RON	stomach	DNase-seq	None
+ENCFF586ZED	large intestine	DNase-seq	None
+ENCFF981HPR	skin fibroblast	DNase-seq	None
+ENCFF551DHI	muscle of back	DNase-seq	None
+ENCFF742RPQ	right lung	DNase-seq	None
+ENCFF898WTK	left lung	DNase-seq	None
+ENCFF662ROY	spinal cord	DNase-seq	None
+ENCFF293TWN	right renal pelvis	DNase-seq	None
+ENCFF539ZGV	renal cortex interstitium	DNase-seq	None
+ENCFF402XGX	renal cortex interstitium	DNase-seq	None
+ENCFF731YCF	muscle of arm	DNase-seq	None
+ENCFF779CFZ	placenta	DNase-seq	None
+ENCFF833SIZ	lung	DNase-seq	None
+ENCFF473LEG	muscle of arm	DNase-seq	None
+ENCFF085SZC	placenta	DNase-seq	None
+ENCFF046KTX	T-cell	DNase-seq	None
+ENCFF153JAC	thymus	DNase-seq	None
+ENCFF985BXZ	renal cortex interstitium	DNase-seq	None
+ENCFF065PFK	brain	DNase-seq	None
+ENCFF321NZU	trophoblast cell	DNase-seq	None
+ENCFF519DSD	CD8-positive, alpha-beta T cell	DNase-seq	None
+ENCFF567HDQ	left kidney	DNase-seq	None
+ENCFF470LXJ	right kidney	DNase-seq	None
+ENCFF435GTP	kidney	DNase-seq	None
+ENCFF603QML	CD4-positive helper T cell	DNase-seq	None
+ENCFF115CZG	stomach	DNase-seq	None
+ENCFF196JPA	stomach	DNase-seq	None
+ENCFF256SZV	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF408CBX	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF058SNC	common myeloid progenitor, CD34-positive	DNase-seq	None
+ENCFF067OIC	small intestine	DNase-seq	None
+ENCFF211VKM	small intestine	DNase-seq	None
+ENCFF882DPD	left lung	DNase-seq	None
+ENCFF102GUG	kidney	DNase-seq	None
+ENCFF953HYB	stomach	DNase-seq	None
+ENCFF843QJV	lung	DNase-seq	None
+ENCFF671KGS	muscle of back	DNase-seq	None
+ENCFF774PWU	thymus	DNase-seq	None
+ENCFF480AIG	right kidney	DNase-seq	None
+ENCFF128OCR	thoracic segment muscle	DNase-seq	None
+ENCFF136QTV	IMR-90	DNase-seq	None
+ENCFF077NBT	large intestine	DNase-seq	None
+ENCFF813JWJ	large intestine	DNase-seq	None
+ENCFF374WRP	adrenal gland	DNase-seq	None
+ENCFF531YLQ	left kidney	DNase-seq	None
+ENCFF265CKF	muscle of arm	DNase-seq	None
+ENCFF448ZKW	right lung	DNase-seq	None
+ENCFF600DTC	mammary epithelial cell	DNase-seq	None
+ENCFF811CIQ	foreskin keratinocyte	DNase-seq	None
+ENCFF619DCX	spinal cord	DNase-seq	None
+ENCFF199AJC	iPS DF 19.11	DNase-seq	None
+ENCFF755QDM	brain	DNase-seq	None
+ENCFF272RMN	renal pelvis	DNase-seq	None
+ENCFF392XYY	renal pelvis	DNase-seq	None
+ENCFF065SSZ	right lung	DNase-seq	None
+ENCFF501PXO	right lung	DNase-seq	None
+ENCFF296XIB	left lung	DNase-seq	None
+ENCFF375UBL	left lung	DNase-seq	None
+ENCFF500XRA	muscle of leg	DNase-seq	None
+ENCFF585WSJ	muscle of trunk	DNase-seq	None
+ENCFF037JUZ	renal pelvis	DNase-seq	None
+ENCFF738IOC	hindlimb muscle	DNase-seq	None
+ENCFF938LUA	left renal cortex interstitium	DNase-seq	None
+ENCFF446CFP	testis	DNase-seq	None
+ENCFF762HSP	large intestine	DNase-seq	None
+ENCFF299STS	left lung	DNase-seq	None
+ENCFF407RMN	muscle of back	DNase-seq	None
+ENCFF866WQO	adrenal gland	DNase-seq	None
+ENCFF691MJO	left renal pelvis	DNase-seq	None
+ENCFF355WMJ	right renal pelvis	DNase-seq	None
+ENCFF534JLS	psoas muscle	DNase-seq	None
+ENCFF695LNO	small intestine	DNase-seq	None
+ENCFF018HAH	endothelial cell of umbilical vein	DNase-seq	None
+ENCFF147KNW	heart left ventricle	DNase-seq	None
+ENCFF869OJP	myotube	DNase-seq	None
+ENCFF186DVN	myotube	DNase-seq	None
+ENCFF273NAJ	myotube	DNase-seq	None
+ENCFF303SFZ	myotube	DNase-seq	None
+ENCFF954NAG	epithelial cell of proximal tubule	DNase-seq	None
+ENCFF474DSN	epithelial cell of proximal tubule	DNase-seq	None
+ENCFF543CWJ	epithelial cell of proximal tubule	DNase-seq	None
+ENCFF960GYE	epithelial cell of proximal tubule	DNase-seq	None
+ENCFF514TNF	MCF-7	DNase-seq	None
+ENCFF733EZV	MCF-7	DNase-seq	None
+ENCFF534NFH	MCF-7	DNase-seq	None
+ENCFF272AWC	MCF-7	DNase-seq	None
+ENCFF556FZT	olfactory neurosphere cell line	DNase-seq	None
+ENCFF478QZI	HTR-8/SVneo	DNase-seq	None
+ENCFF621XOE	stomach	DNase-seq	None
+ENCFF974KRN	cardiac mesoderm	DNase-seq	None
+ENCFF259DDX	cardiac mesoderm	DNase-seq	None
+ENCFF957HBU	cardiac mesoderm	DNase-seq	None
+ENCFF471IVR	cardiac mesoderm	DNase-seq	None
+ENCFF705VVQ	esophagus muscularis mucosa	DNase-seq	None
+ENCFF288URL	HepG2	DNase-seq	None
+ENCFF953XAB	hepatocyte	DNase-seq	None
+ENCFF776NMW	superior temporal gyrus	DNase-seq	None
+ENCFF518ZBO	superior temporal gyrus	DNase-seq	None
+ENCFF689QYS	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF407IBA	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF694DCR	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF799ERX	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF856YHV	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF270WND	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF061OWE	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF599XAW	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF215RQP	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF895JGL	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF776HQD	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF906YBQ	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF909VZN	T-helper 1 cell	DNase-seq	None
+ENCFF415CSY	T-helper 1 cell	DNase-seq	None
+ENCFF598XPI	NCI-H460	DNase-seq	None
+ENCFF673HAD	NCI-H460	DNase-seq	None
+ENCFF713SVK	SK-MEL-5	DNase-seq	None
+ENCFF175DIJ	SK-MEL-5	DNase-seq	None
+ENCFF060OQR	bronchial epithelial cell	DNase-seq	None
+ENCFF062NOL	bronchial epithelial cell	DNase-seq	None
+ENCFF953EHW	bronchial epithelial cell	DNase-seq	None
+ENCFF944CUY	bronchial epithelial cell	DNase-seq	None
+ENCFF841WOE	NT2/D1	DNase-seq	None
+ENCFF220KQG	NT2/D1	DNase-seq	None
+ENCFF269XWA	NT2/D1	DNase-seq	None
+ENCFF017UHD	NT2/D1	DNase-seq	None
+ENCFF954RRL	right atrium auricular region	DNase-seq	None
+ENCFF748IEQ	K562	DNase-seq	sodium butyrate
+ENCFF865ODM	esophagus squamous epithelium	DNase-seq	None
+ENCFF523HID	Caco-2	DNase-seq	None
+ENCFF946ZWI	Caco-2	DNase-seq	None
+ENCFF814NYD	Caco-2	DNase-seq	None
+ENCFF660WXD	Caco-2	DNase-seq	None
+ENCFF603DCM	L1-S8R	DNase-seq	None
+ENCFF654YOW	L1-S8R	DNase-seq	None
+ENCFF279LSE	L1-S8R	DNase-seq	None
+ENCFF274FGD	L1-S8R	DNase-seq	None
+ENCFF199PXG	CD1c-positive myeloid dendritic cell	DNase-seq	None
+ENCFF738DSM	CD1c-positive myeloid dendritic cell	DNase-seq	None
+ENCFF006LOY	CD1c-positive myeloid dendritic cell	DNase-seq	None
+ENCFF567KDR	CD1c-positive myeloid dendritic cell	DNase-seq	None
+ENCFF396ZVD	H9	DNase-seq	None
+ENCFF427VGJ	H9	DNase-seq	None
+ENCFF003GSH	H9	DNase-seq	None
+ENCFF328BGA	H9	DNase-seq	None
+ENCFF803XYD	H1-hESC	DNase-seq	None
+ENCFF252FHW	midbrain	DNase-seq	None
+ENCFF350UOQ	midbrain	DNase-seq	None
+ENCFF827XJW	midbrain	DNase-seq	None
+ENCFF883SOX	midbrain	DNase-seq	None
+ENCFF036RWK	HAP-1	DNase-seq	None
+ENCFF804JVX	HAP-1	DNase-seq	None
+ENCFF242JKD	HAP-1	DNase-seq	None
+ENCFF954LVR	HAP-1	DNase-seq	None
+ENCFF083XLR	caudate nucleus	DNase-seq	None
+ENCFF765GQP	caudate nucleus	DNase-seq	None
+ENCFF752PSN	H9	DNase-seq	None
+ENCFF150GJA	GM12891	DNase-seq	None
+ENCFF608NJK	T-helper 1 cell	DNase-seq	None
+ENCFF661UHC	stomach	DNase-seq	None
+ENCFF806RRC	tibial nerve	DNase-seq	None
+ENCFF061IDT	umbilical cord	DNase-seq	None
+ENCFF553OXP	umbilical cord	DNase-seq	None
+ENCFF637LDR	GM18507	DNase-seq	None
+ENCFF317XZM	SK-N-DZ	DNase-seq	None
+ENCFF222GSK	SK-N-DZ	DNase-seq	None
+ENCFF542AYB	SK-N-DZ	DNase-seq	None
+ENCFF642NNO	SK-N-DZ	DNase-seq	None
+ENCFF132MDE	kidney	DNase-seq	None
+ENCFF040GTO	kidney	DNase-seq	None
+ENCFF984GBY	MCF-7	DNase-seq	None
+ENCFF201XAY	medulloblastoma	DNase-seq	None
+ENCFF880WZV	glomerular visceral epithelial cell	DNase-seq	None
+ENCFF012RRK	glomerular visceral epithelial cell	DNase-seq	None
+ENCFF980TFY	glomerular visceral epithelial cell	DNase-seq	None
+ENCFF488NSQ	glomerular visceral epithelial cell	DNase-seq	None
+ENCFF569TTJ	retina	DNase-seq	None
+ENCFF309NRH	retina	DNase-seq	None
+ENCFF202OJH	EL	DNase-seq	None
+ENCFF417AAC	EL	DNase-seq	None
+ENCFF384GCB	EL	DNase-seq	None
+ENCFF335XYY	EL	DNase-seq	None
+ENCFF207WAS	HEK293T	DNase-seq	None
+ENCFF207AEZ	G401	DNase-seq	None
+ENCFF957IHO	G401	DNase-seq	None
+ENCFF772RJQ	G401	DNase-seq	None
+ENCFF822GNN	G401	DNase-seq	None
+ENCFF044WIN	H54	DNase-seq	None
+ENCFF191ZZZ	MG63	DNase-seq	None
+ENCFF471CPF	MG63	DNase-seq	None
+ENCFF256OAK	MG63	DNase-seq	None
+ENCFF405KIJ	MG63	DNase-seq	None
+ENCFF089DBO	HepG2	DNase-seq	None
+ENCFF486KGK	HepG2	DNase-seq	None
+ENCFF992WWO	HepG2	DNase-seq	None
+ENCFF360DSO	HepG2	DNase-seq	None
+ENCFF675ZGP	lung	DNase-seq	None
+ENCFF378WSR	lung	DNase-seq	None
+ENCFF341RBP	lung	DNase-seq	None
+ENCFF948PWG	lung	DNase-seq	None
+ENCFF350ZQV	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF469VYN	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF876KVN	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF025ZQZ	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF013WHM	CMK	DNase-seq	None
+ENCFF627XHX	CMK	DNase-seq	None
+ENCFF774CBZ	retinal pigment epithelial cell	DNase-seq	None
+ENCFF914SEH	retinal pigment epithelial cell	DNase-seq	None
+ENCFF968ISS	retinal pigment epithelial cell	DNase-seq	None
+ENCFF458PCJ	retinal pigment epithelial cell	DNase-seq	None
+ENCFF675XKH	Daoy	DNase-seq	None
+ENCFF575VSJ	Daoy	DNase-seq	None
+ENCFF424GQD	Daoy	DNase-seq	None
+ENCFF636RHW	Daoy	DNase-seq	None
+ENCFF527MZY	SK-N-SH	DNase-seq	all-trans-retinoic acid
+ENCFF722COO	SK-N-SH	DNase-seq	all-trans-retinoic acid
+ENCFF268LES	SK-N-SH	DNase-seq	all-trans-retinoic acid
+ENCFF270DVS	SK-N-SH	DNase-seq	all-trans-retinoic acid
+ENCFF402AOJ	transverse colon	DNase-seq	None
+ENCFF071GSW	limb	DNase-seq	None
+ENCFF037MFG	limb	DNase-seq	None
+ENCFF604WBU	uterus	DNase-seq	None
+ENCFF858IEB	eye	DNase-seq	None
+ENCFF240MGQ	eye	DNase-seq	None
+ENCFF393CNI	left kidney	DNase-seq	None
+ENCFF005KDI	left kidney	DNase-seq	None
+ENCFF764COR	left kidney	DNase-seq	None
+ENCFF422EWO	left kidney	DNase-seq	None
+ENCFF601WJA	vagina	DNase-seq	None
+ENCFF948DCR	coronary artery	DNase-seq	None
+ENCFF881ICE	adrenal gland	DNase-seq	None
+ENCFF237FHE	adrenal gland	DNase-seq	None
+ENCFF039YGO	CD14-positive monocyte	DNase-seq	None
+ENCFF173ZQS	CD14-positive monocyte	DNase-seq	None
+ENCFF287SHD	eye	DNase-seq	None
+ENCFF314YMQ	eye	DNase-seq	None
+ENCFF654GWE	eye	DNase-seq	None
+ENCFF184GKA	eye	DNase-seq	None
+ENCFF595ECT	naive thymus-derived CD4-positive, alpha-beta T cell	DNase-seq	None
+ENCFF096SJE	naive thymus-derived CD4-positive, alpha-beta T cell	DNase-seq	None
+ENCFF958UFJ	thyroid gland	DNase-seq	None
+ENCFF628DXI	transverse colon	DNase-seq	None
+ENCFF548FWC	thoracic aorta	DNase-seq	None
+ENCFF207OFS	bronchial epithelial cell	DNase-seq	retinoic acid
+ENCFF969PTO	bronchial epithelial cell	DNase-seq	retinoic acid
+ENCFF293KGC	bronchial epithelial cell	DNase-seq	retinoic acid
+ENCFF830TLY	bronchial epithelial cell	DNase-seq	retinoic acid
+ENCFF064SEK	HS-27A	DNase-seq	None
+ENCFF494XDV	HS-27A	DNase-seq	None
+ENCFF342VGE	keratinocyte	DNase-seq	None
+ENCFF557DEE	keratinocyte	DNase-seq	None
+ENCFF014NOY	keratinocyte	DNase-seq	None
+ENCFF400ZBZ	keratinocyte	DNase-seq	None
+ENCFF838BWI	fibroblast of the aortic adventitia	DNase-seq	None
+ENCFF781DJJ	fibroblast of the aortic adventitia	DNase-seq	None
+ENCFF649SVT	fibroblast of the aortic adventitia	DNase-seq	None
+ENCFF825ZLT	fibroblast of the aortic adventitia	DNase-seq	None
+ENCFF092NPZ	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF599ISA	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF231MDW	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF664BYI	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF125CLJ	skin fibroblast	DNase-seq	None
+ENCFF233CGZ	epidermal melanocyte	DNase-seq	None
+ENCFF259GDS	skin fibroblast	DNase-seq	None
+ENCFF782GEE	skin fibroblast	DNase-seq	None
+ENCFF318LHF	skin fibroblast	DNase-seq	None
+ENCFF433DPY	skin fibroblast	DNase-seq	None
+ENCFF535WLR	hepatocyte	DNase-seq	None
+ENCFF907ZXY	hepatocyte	DNase-seq	None
+ENCFF567CLA	HT1080	DNase-seq	None
+ENCFF046JJQ	HT1080	DNase-seq	None
+ENCFF789TZB	heart left ventricle	DNase-seq	None
+ENCFF121KYV	heart left ventricle	DNase-seq	None
+ENCFF616MAA	heart left ventricle	DNase-seq	None
+ENCFF352VEF	heart left ventricle	DNase-seq	None
+ENCFF451HYJ	brain	DNase-seq	None
+ENCFF836JKO	brain	DNase-seq	None
+ENCFF122TWP	brain	DNase-seq	None
+ENCFF911LYH	brain	DNase-seq	None
+ENCFF859YGP	MCF-7	DNase-seq	None
+ENCFF301AOO	frontal cortex	DNase-seq	None
+ENCFF246RTJ	frontal cortex	DNase-seq	None
+ENCFF858RIO	heart	DNase-seq	None
+ENCFF253AMV	heart	DNase-seq	None
+ENCFF230NNE	heart	DNase-seq	None
+ENCFF629ROU	heart	DNase-seq	None
+ENCFF171KFU	WI38	DNase-seq	afimoxifene
+ENCFF758VHK	WI38	DNase-seq	afimoxifene
+ENCFF859YKY	WI38	DNase-seq	afimoxifene
+ENCFF644CEU	WI38	DNase-seq	afimoxifene
+ENCFF643MAK	tibial nerve	DNase-seq	None
+ENCFF654HTU	PC-9	DNase-seq	None
+ENCFF704JKH	PC-9	DNase-seq	None
+ENCFF401BZQ	PC-9	DNase-seq	None
+ENCFF626CAM	PC-9	DNase-seq	None
+ENCFF846PWD	bipolar neuron	DNase-seq	doxycycline hyclate
+ENCFF462UIR	bipolar neuron	DNase-seq	doxycycline hyclate
+ENCFF824SVP	bipolar neuron	DNase-seq	doxycycline hyclate
+ENCFF069SCK	bipolar neuron	DNase-seq	doxycycline hyclate
+ENCFF238SPA	trophoblast cell	DNase-seq	None
+ENCFF699IYG	trophoblast cell	DNase-seq	None
+ENCFF218POQ	trophoblast cell	DNase-seq	None
+ENCFF632JSA	trophoblast cell	DNase-seq	None
+ENCFF667BSO	placenta	DNase-seq	None
+ENCFF389QWJ	placenta	DNase-seq	None
+ENCFF907ENH	Ishikawa	DNase-seq	17β-estradiol
+ENCFF566EKJ	H7-hESC	DNase-seq	None
+ENCFF483BPG	frontal cortex	DNase-seq	None
+ENCFF840NPU	frontal cortex	DNase-seq	None
+ENCFF349JWY	T-helper 1 cell	DNase-seq	None
+ENCFF926FFA	T-helper 1 cell	DNase-seq	None
+ENCFF949OGH	T-helper 1 cell	DNase-seq	None
+ENCFF412ONU	T-helper 1 cell	DNase-seq	None
+ENCFF098QXW	MM.1S	DNase-seq	None
+ENCFF432NCF	MM.1S	DNase-seq	None
+ENCFF559RPU	MM.1S	DNase-seq	None
+ENCFF710HIA	MM.1S	DNase-seq	None
+ENCFF510LHV	osteoblast	DNase-seq	None
+ENCFF597SVJ	fibroblast of pulmonary artery	DNase-seq	None
+ENCFF478KIZ	fibroblast of pulmonary artery	DNase-seq	None
+ENCFF027MCW	fibroblast of pulmonary artery	DNase-seq	None
+ENCFF905MWC	fibroblast of pulmonary artery	DNase-seq	None
+ENCFF916FIA	regulatory T cell	DNase-seq	None
+ENCFF204IDS	regulatory T cell	DNase-seq	None
+ENCFF191MFV	left cardiac atrium	DNase-seq	None
+ENCFF923CCT	lower leg skin	DNase-seq	None
+ENCFF669OTR	CD14-positive monocyte	DNase-seq	None
+ENCFF038AUV	CD14-positive monocyte	DNase-seq	None
+ENCFF925ORN	K562	DNase-seq	None
+ENCFF395QJV	adrenal gland	DNase-seq	None
+ENCFF192ORU	spleen	DNase-seq	None
+ENCFF790CZU	Caki2	DNase-seq	None
+ENCFF295OQR	Caki2	DNase-seq	None
+ENCFF459HVU	Caki2	DNase-seq	None
+ENCFF561JIW	Caki2	DNase-seq	None
+ENCFF104FZS	HeLa-S3	DNase-seq	None
+ENCFF140DLA	HeLa-S3	DNase-seq	None
+ENCFF278NJH	HeLa-S3	DNase-seq	None
+ENCFF055OER	HeLa-S3	DNase-seq	None
+ENCFF568UQT	stomach	DNase-seq	None
+ENCFF774SBQ	stomach	DNase-seq	None
+ENCFF621IAQ	stomach	DNase-seq	None
+ENCFF688IFG	stomach	DNase-seq	None
+ENCFF133AXL	T47D	DNase-seq	None
+ENCFF162TOC	HT-29	DNase-seq	None
+ENCFF129MJM	HT-29	DNase-seq	None
+ENCFF418ZJV	HT-29	DNase-seq	None
+ENCFF362ZFE	HT-29	DNase-seq	None
+ENCFF287VGC	HT-29	DNase-seq	None
+ENCFF226HBU	HT-29	DNase-seq	None
+ENCFF724PVV	heart	DNase-seq	None
+ENCFF360ZAH	heart	DNase-seq	None
+ENCFF712OAU	OCI-LY7	DNase-seq	None
+ENCFF278DAW	OCI-LY7	DNase-seq	None
+ENCFF533ZUQ	OCI-LY7	DNase-seq	None
+ENCFF410VBV	OCI-LY7	DNase-seq	None
+ENCFF369MMT	WERI-Rb-1	DNase-seq	None
+ENCFF456KOM	WERI-Rb-1	DNase-seq	None
+ENCFF550WWU	WERI-Rb-1	DNase-seq	None
+ENCFF850WIB	WERI-Rb-1	DNase-seq	None
+ENCFF197DFT	A673	DNase-seq	None
+ENCFF884NDX	A673	DNase-seq	None
+ENCFF888GEW	A673	DNase-seq	None
+ENCFF079FKI	A673	DNase-seq	None
+ENCFF084PUJ	HS-5	DNase-seq	None
+ENCFF231ZDQ	HS-5	DNase-seq	None
+ENCFF468CCM	NCI-H226	DNase-seq	None
+ENCFF967ZHM	NCI-H226	DNase-seq	None
+ENCFF041JIQ	NCI-H226	DNase-seq	None
+ENCFF822TIH	NCI-H226	DNase-seq	None
+ENCFF293ZIH	liver	DNase-seq	None
+ENCFF068XKO	liver	DNase-seq	None
+ENCFF275HMP	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF787BJO	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF059AUJ	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF113OUY	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF407JLV	inferior parietal cortex	DNase-seq	None
+ENCFF202SZM	inferior parietal cortex	DNase-seq	None
+ENCFF766NHL	occipital lobe	DNase-seq	None
+ENCFF825DDS	occipital lobe	DNase-seq	None
+ENCFF871SGR	skin fibroblast	DNase-seq	None
+ENCFF431UVI	Ammon's horn	DNase-seq	None
+ENCFF544CQR	Ammon's horn	DNase-seq	None
+ENCFF928TEH	A172	DNase-seq	None
+ENCFF819ALP	A172	DNase-seq	None
+ENCFF772JBY	A172	DNase-seq	None
+ENCFF580RCH	A172	DNase-seq	None
+ENCFF867RRG	HPDE6-E6E7	DNase-seq	None
+ENCFF631ZRZ	tibial artery	DNase-seq	None
+ENCFF439GFD	K562	DNase-seq	None
+ENCFF702JBC	astrocyte of the cerebellum	DNase-seq	None
+ENCFF901ATC	astrocyte of the cerebellum	DNase-seq	None
+ENCFF886GXC	astrocyte of the cerebellum	DNase-seq	None
+ENCFF938IDZ	astrocyte of the cerebellum	DNase-seq	None
+ENCFF150HWX	cardiac muscle cell	DNase-seq	None
+ENCFF447FRQ	cardiac muscle cell	DNase-seq	None
+ENCFF898JAZ	T-helper 1 cell	DNase-seq	None
+ENCFF254VDZ	retina	DNase-seq	None
+ENCFF541WEX	retina	DNase-seq	None
+ENCFF382TQZ	globus pallidus	DNase-seq	None
+ENCFF902VCD	globus pallidus	DNase-seq	None
+ENCFF701IZA	globus pallidus	DNase-seq	None
+ENCFF775ZBH	globus pallidus	DNase-seq	None
+ENCFF447UOZ	cerebellum	DNase-seq	None
+ENCFF292CDE	cerebellum	DNase-seq	None
+ENCFF230WJT	skin fibroblast	DNase-seq	None
+ENCFF911DJA	skin fibroblast	DNase-seq	None
+ENCFF481GVS	skin fibroblast	DNase-seq	None
+ENCFF594ZEM	skin fibroblast	DNase-seq	None
+ENCFF527KGL	GM12864	DNase-seq	None
+ENCFF094OQQ	GM12864	DNase-seq	None
+ENCFF219ABL	HCT116	DNase-seq	None
+ENCFF757QRT	HCT116	DNase-seq	None
+ENCFF264WJE	HCT116	DNase-seq	None
+ENCFF618LQI	HCT116	DNase-seq	None
+ENCFF619EWS	L1-S8	DNase-seq	None
+ENCFF024SOO	L1-S8	DNase-seq	None
+ENCFF509FTL	L1-S8	DNase-seq	None
+ENCFF267BHU	L1-S8	DNase-seq	None
+ENCFF802QQT	pons	DNase-seq	None
+ENCFF471TLK	pons	DNase-seq	None
+ENCFF268ZNF	chorion	DNase-seq	None
+ENCFF881MWY	LNCaP clone FGC	DNase-seq	None
+ENCFF514CGR	foreskin fibroblast	DNase-seq	None
+ENCFF815LIR	foreskin fibroblast	DNase-seq	None
+ENCFF465PHC	foreskin fibroblast	DNase-seq	None
+ENCFF592YOU	foreskin fibroblast	DNase-seq	None
+ENCFF973RNU	cardiac fibroblast	DNase-seq	None
+ENCFF886ZIY	cardiac fibroblast	DNase-seq	None
+ENCFF527YZV	skin fibroblast	DNase-seq	None
+ENCFF326LBO	spinal cord	DNase-seq	None
+ENCFF405FGA	spinal cord	DNase-seq	None
+ENCFF936LFC	spinal cord	DNase-seq	None
+ENCFF481BII	spinal cord	DNase-seq	None
+ENCFF589JXH	amniotic stem cell	DNase-seq	None
+ENCFF777ZOQ	amniotic stem cell	DNase-seq	None
+ENCFF501IGN	dedifferentiated amniotic fluid mesenchymal stem cell	DNase-seq	None
+ENCFF469OYM	dedifferentiated amniotic fluid mesenchymal stem cell	DNase-seq	None
+ENCFF402GZD	dedifferentiated amniotic fluid mesenchymal stem cell	DNase-seq	None
+ENCFF912IDB	dedifferentiated amniotic fluid mesenchymal stem cell	DNase-seq	None
+ENCFF459LMO	A549	DNase-seq	None
+ENCFF948IZD	kidney epithelial cell	DNase-seq	None
+ENCFF895EXH	kidney epithelial cell	DNase-seq	None
+ENCFF269ORH	kidney epithelial cell	DNase-seq	None
+ENCFF750YPR	kidney epithelial cell	DNase-seq	None
+ENCFF036YYS	fibroblast of lung	DNase-seq	None
+ENCFF389PHK	fibroblast of lung	DNase-seq	None
+ENCFF699OAD	fibroblast of lung	DNase-seq	None
+ENCFF612XGU	fibroblast of lung	DNase-seq	None
+ENCFF506IBG	pulmonary artery endothelial cell	DNase-seq	None
+ENCFF811KVP	pulmonary artery endothelial cell	DNase-seq	None
+ENCFF451CMC	K562	DNase-seq	dimethyl sulfoxide
+ENCFF705KHG	heart	DNase-seq	None
+ENCFF616ZRX	heart	DNase-seq	None
+ENCFF828BFV	heart	DNase-seq	None
+ENCFF261IPB	heart	DNase-seq	None
+ENCFF612OQV	brain	DNase-seq	None
+ENCFF925ION	brain	DNase-seq	None
+ENCFF266BUC	brain	DNase-seq	None
+ENCFF255MJU	brain	DNase-seq	None
+ENCFF004LTR	prostate gland	DNase-seq	None
+ENCFF226AUV	sigmoid colon	DNase-seq	None
+ENCFF695MWM	tongue	DNase-seq	None
+ENCFF364YXZ	tongue	DNase-seq	None
+ENCFF619RAY	T-helper 2 cell	DNase-seq	None
+ENCFF772NXP	T-helper 2 cell	DNase-seq	None
+ENCFF027EDA	fibroblast of pedal digit skin	DNase-seq	None
+ENCFF893EEA	fibroblast of pedal digit skin	DNase-seq	None
+ENCFF894KNE	fibroblast of pedal digit skin	DNase-seq	None
+ENCFF987JFO	fibroblast of pedal digit skin	DNase-seq	None
+ENCFF334VOK	right kidney	DNase-seq	None
+ENCFF171PUD	right kidney	DNase-seq	None
+ENCFF808CPA	ELF-1	DNase-seq	None
+ENCFF302PTO	ELF-1	DNase-seq	None
+ENCFF392GYV	ELF-1	DNase-seq	None
+ENCFF506FBB	ELF-1	DNase-seq	None
+ENCFF371YZR	SJCRH30	DNase-seq	None
+ENCFF418LKT	SJCRH30	DNase-seq	None
+ENCFF402MKE	KBM-7	DNase-seq	None
+ENCFF229HKV	KBM-7	DNase-seq	None
+ENCFF144ACN	KBM-7	DNase-seq	None
+ENCFF328EOQ	KBM-7	DNase-seq	None
+ENCFF927DQZ	Ishikawa	DNase-seq	dimethyl sulfoxide
+ENCFF086EQI	MCF-7	DNase-seq	estradiol
+ENCFF062JJA	MCF-7	DNase-seq	estradiol
+ENCFF847OPS	MCF-7	DNase-seq	estradiol
+ENCFF854UYM	MCF-7	DNase-seq	estradiol
+ENCFF858RGN	hepatic stellate cell	DNase-seq	None
+ENCFF796YHU	adrenal gland	DNase-seq	None
+ENCFF225YGW	adrenal gland	DNase-seq	None
+ENCFF299PZE	keratinocyte	DNase-seq	None
+ENCFF800FWR	RKO	DNase-seq	None
+ENCFF429RDO	RKO	DNase-seq	None
+ENCFF045MFR	RKO	DNase-seq	None
+ENCFF755HYA	RKO	DNase-seq	None
+ENCFF332NQS	fibroblast of upper leg skin	DNase-seq	None
+ENCFF692QLL	fibroblast of upper leg skin	DNase-seq	None
+ENCFF789MJL	fibroblast of upper leg skin	DNase-seq	None
+ENCFF200OYB	fibroblast of upper leg skin	DNase-seq	None
+ENCFF659ZTB	heart	DNase-seq	None
+ENCFF436MWY	heart	DNase-seq	None
+ENCFF844BRK	heart	DNase-seq	None
+ENCFF300MKL	heart	DNase-seq	None
+ENCFF494VHO	fibroblast of dermis	DNase-seq	None
+ENCFF020LBO	fibroblast of dermis	DNase-seq	None
+ENCFF748XDV	fibroblast of dermis	DNase-seq	None
+ENCFF620RQG	fibroblast of dermis	DNase-seq	None
+ENCFF523YCQ	choroid plexus epithelial cell	DNase-seq	None
+ENCFF471LRB	choroid plexus epithelial cell	DNase-seq	None
+ENCFF520YBR	choroid plexus epithelial cell	DNase-seq	None
+ENCFF762WJJ	choroid plexus epithelial cell	DNase-seq	None
+ENCFF877ETJ	LoVo	DNase-seq	None
+ENCFF152XLL	LoVo	DNase-seq	None
+ENCFF879EPW	LoVo	DNase-seq	None
+ENCFF763FYB	LoVo	DNase-seq	None
+ENCFF047ZSM	CWRU1	DNase-seq	None
+ENCFF673LNN	skin fibroblast	DNase-seq	doxycycline
+ENCFF654MTB	fibroblast of mammary gland	DNase-seq	None
+ENCFF014POT	fibroblast of mammary gland	DNase-seq	None
+ENCFF040SYZ	fibroblast of mammary gland	DNase-seq	None
+ENCFF836ZPU	fibroblast of mammary gland	DNase-seq	None
+ENCFF863LXW	GM06990	DNase-seq	None
+ENCFF094ZRB	GM06990	DNase-seq	None
+ENCFF718KGA	GM06990	DNase-seq	None
+ENCFF955UZX	GM06990	DNase-seq	None
+ENCFF931NKA	HuH-7.5	DNase-seq	None
+ENCFF958PKB	esophagus muscularis mucosa	DNase-seq	None
+ENCFF392EHA	esophagus squamous epithelium	DNase-seq	None
+ENCFF731IXN	transverse colon	DNase-seq	None
+ENCFF365EXK	skeletal muscle cell	DNase-seq	None
+ENCFF699CDH	skeletal muscle cell	DNase-seq	None
+ENCFF339IPG	gastrocnemius medialis	DNase-seq	None
+ENCFF384MYP	brain microvascular endothelial cell	DNase-seq	None
+ENCFF744YCN	brain microvascular endothelial cell	DNase-seq	None
+ENCFF171CTL	brain microvascular endothelial cell	DNase-seq	None
+ENCFF951DOZ	brain microvascular endothelial cell	DNase-seq	None
+ENCFF373KJM	Ishikawa	DNase-seq	afimoxifene
+ENCFF590KXD	epithelial cell of prostate	DNase-seq	None
+ENCFF451SZH	epithelial cell of prostate	DNase-seq	None
+ENCFF545OIN	epithelial cell of prostate	DNase-seq	None
+ENCFF374QHY	epithelial cell of prostate	DNase-seq	None
+ENCFF680BZR	trophoblast cell	DNase-seq	None
+ENCFF134EZN	trophoblast cell	DNase-seq	None
+ENCFF895VHC	trophoblast cell	DNase-seq	None
+ENCFF205GHG	trophoblast cell	DNase-seq	None
+ENCFF257QKM	sigmoid colon	DNase-seq	None
+ENCFF626KWV	WI38	DNase-seq	None
+ENCFF224QXJ	WI38	DNase-seq	None
+ENCFF150SLR	WI38	DNase-seq	None
+ENCFF039IBD	WI38	DNase-seq	None
+ENCFF572NRY	trophoblast cell	DNase-seq	None
+ENCFF868BPC	trophoblast cell	DNase-seq	None
+ENCFF987KRZ	trophoblast cell	DNase-seq	None
+ENCFF789ZWO	trophoblast cell	DNase-seq	None
+ENCFF856UKF	amniotic epithelial cell	DNase-seq	None
+ENCFF067IWG	amniotic epithelial cell	DNase-seq	None
+ENCFF863BXZ	amniotic epithelial cell	DNase-seq	None
+ENCFF160EBT	amniotic epithelial cell	DNase-seq	None
+ENCFF907ODQ	right lobe of liver	DNase-seq	None
+ENCFF204JAK	medulloblastoma	DNase-seq	None
+ENCFF273EGX	transverse colon	DNase-seq	None
+ENCFF032GFL	naive B cell	DNase-seq	None
+ENCFF203HVV	placenta	DNase-seq	None
+ENCFF919NRH	placenta	DNase-seq	None
+ENCFF721LXU	placenta	DNase-seq	None
+ENCFF727SUT	placenta	DNase-seq	None
+ENCFF632IDM	fibroblast of lung	DNase-seq	None
+ENCFF269BLL	fibroblast of lung	DNase-seq	None
+ENCFF064YMI	fibroblast of lung	DNase-seq	None
+ENCFF388VOD	fibroblast of lung	DNase-seq	None
+ENCFF814ZOU	RWPE1	DNase-seq	None
+ENCFF804KZV	Jurkat clone E61	DNase-seq	None
+ENCFF272GVK	Jurkat clone E61	DNase-seq	None
+ENCFF959PTC	Jurkat clone E61	DNase-seq	None
+ENCFF289FSB	Jurkat clone E61	DNase-seq	None
+ENCFF876ULN	cardiac mesoderm	DNase-seq	None
+ENCFF573JSC	cardiac mesoderm	DNase-seq	None
+ENCFF712AWQ	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF988URV	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF498MXW	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF922JRZ	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF603YRF	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF228VLT	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF133PAF	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF650IBZ	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF195FSK	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF668PQJ	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF617VYF	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF438INN	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF405ZOI	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF031ZAY	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF243TMO	psoas muscle	DNase-seq	None
+ENCFF019TMK	psoas muscle	DNase-seq	None
+ENCFF293TIJ	astrocyte	DNase-seq	None
+ENCFF204SXQ	astrocyte	DNase-seq	None
+ENCFF903SKN	astrocyte	DNase-seq	None
+ENCFF716RGP	astrocyte	DNase-seq	None
+ENCFF224KRB	tongue	DNase-seq	None
+ENCFF440NVK	tongue	DNase-seq	None
+ENCFF299AHY	tongue	DNase-seq	None
+ENCFF241MIW	tongue	DNase-seq	None
+ENCFF568PXP	mammary epithelial cell	DNase-seq	None
+ENCFF405PWW	mammary epithelial cell	DNase-seq	None
+ENCFF964EQB	mammary epithelial cell	DNase-seq	None
+ENCFF584REQ	mammary epithelial cell	DNase-seq	None
+ENCFF700OET	HeLa-S3	DNase-seq	interferon alpha
+ENCFF902UNL	T47D	DNase-seq	17β-estradiol
+ENCFF583GGY	stomach	DNase-seq	None
+ENCFF992BKM	vagina	DNase-seq	None
+ENCFF226GFM	renal cortical epithelial cell	DNase-seq	None
+ENCFF185SDR	renal cortical epithelial cell	DNase-seq	None
+ENCFF008MTK	renal cortical epithelial cell	DNase-seq	None
+ENCFF949MOE	renal cortical epithelial cell	DNase-seq	None
+ENCFF964WXZ	Peyer's patch	DNase-seq	None
+ENCFF583LKK	omental fat pad	DNase-seq	None
+ENCFF879CGC	trophoblast cell	DNase-seq	None
+ENCFF401BPQ	trophoblast cell	DNase-seq	None
+ENCFF652DVJ	HFF-Myc	DNase-seq	None
+ENCFF719NHH	HFF-Myc	DNase-seq	None
+ENCFF212GAR	HFF-Myc	DNase-seq	None
+ENCFF509ERM	HFF-Myc	DNase-seq	None
+ENCFF988DKF	naive thymus-derived CD4-positive, alpha-beta T cell	DNase-seq	None
+ENCFF099GXO	RCC 7860	DNase-seq	None
+ENCFF911CVQ	RCC 7860	DNase-seq	None
+ENCFF243GSQ	RCC 7860	DNase-seq	None
+ENCFF049FQY	RCC 7860	DNase-seq	None
+ENCFF241TGX	8988T	DNase-seq	None
+ENCFF984AHJ	ACHN	DNase-seq	None
+ENCFF819KML	ACHN	DNase-seq	None
+ENCFF790SSA	ACHN	DNase-seq	None
+ENCFF139RSY	ACHN	DNase-seq	None
+ENCFF540RTP	Karpas-422	DNase-seq	None
+ENCFF293VPF	Karpas-422	DNase-seq	None
+ENCFF908NWC	Karpas-422	DNase-seq	None
+ENCFF192WIR	Karpas-422	DNase-seq	None
+ENCFF605ITA	PC-3	DNase-seq	None
+ENCFF902AYI	PC-3	DNase-seq	None
+ENCFF386LJL	PC-3	DNase-seq	None
+ENCFF166PEZ	PC-3	DNase-seq	None
+ENCFF600FLK	adipocyte	DNase-seq	None
+ENCFF141CPZ	adipocyte	DNase-seq	None
+ENCFF287RJZ	adipocyte	DNase-seq	None
+ENCFF460LLH	adipocyte	DNase-seq	None
+ENCFF787ZAY	heart	DNase-seq	None
+ENCFF153LET	heart	DNase-seq	None
+ENCFF805SHN	NAMALWA	DNase-seq	None
+ENCFF930BOE	NAMALWA	DNase-seq	None
+ENCFF668IZV	NAMALWA	DNase-seq	None
+ENCFF146OLX	NAMALWA	DNase-seq	None
+ENCFF602NXQ	ELR	DNase-seq	None
+ENCFF940TWS	ELR	DNase-seq	None
+ENCFF444PJO	ELR	DNase-seq	None
+ENCFF033QLO	ELR	DNase-seq	None
+ENCFF491TBW	K562	DNase-seq	None
+ENCFF863EOK	SK-N-MC	DNase-seq	None
+ENCFF793GDB	SK-N-MC	DNase-seq	None
+ENCFF403UUP	SK-N-MC	DNase-seq	None
+ENCFF728ECA	SK-N-MC	DNase-seq	None
+ENCFF334HHX	COLO829	DNase-seq	None
+ENCFF567LWS	K562	DNase-seq	None
+ENCFF422QRZ	K562	DNase-seq	None
+ENCFF027HKR	K562	DNase-seq	None
+ENCFF154JCN	K562	DNase-seq	None
+ENCFF619IZA	lower leg skin	DNase-seq	None
+ENCFF987NDI	LNCaP clone FGC	DNase-seq	17β-hydroxy-17-methylestra-4,9,11-trien-3-one
+ENCFF115TTF	GM10248	DNase-seq	None
+ENCFF639SWV	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF226BKR	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF209VMO	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF203EIK	hematopoietic multipotent progenitor cell	DNase-seq	erythropoietin, interleukin-3, hydrocortisone succinate, kit ligand
+ENCFF361KGC	fibroblast of gingiva	DNase-seq	None
+ENCFF912TSF	fibroblast of gingiva	DNase-seq	None
+ENCFF067UGI	fibroblast of gingiva	DNase-seq	None
+ENCFF065EMR	fibroblast of gingiva	DNase-seq	None
+ENCFF376KPO	smooth muscle cell of the brain vasculature	DNase-seq	None
+ENCFF379CCP	smooth muscle cell of the brain vasculature	DNase-seq	None
+ENCFF996VFH	smooth muscle cell of the brain vasculature	DNase-seq	None
+ENCFF776GEG	smooth muscle cell of the brain vasculature	DNase-seq	None
+ENCFF667KDW	tibial nerve	DNase-seq	None
+ENCFF083DOJ	GM10266	DNase-seq	None
+ENCFF867OXG	dermis microvascular lymphatic vessel endothelial cell	DNase-seq	None
+ENCFF085LQJ	dermis microvascular lymphatic vessel endothelial cell	DNase-seq	None
+ENCFF097WPC	dermis microvascular lymphatic vessel endothelial cell	DNase-seq	None
+ENCFF771PFT	dermis microvascular lymphatic vessel endothelial cell	DNase-seq	None
+ENCFF214TMC	ascending aorta	DNase-seq	None
+ENCFF490CIV	tibial artery	DNase-seq	None
+ENCFF207DUM	coronary artery	DNase-seq	None
+ENCFF404GGS	limb	DNase-seq	None
+ENCFF888AOZ	limb	DNase-seq	None
+ENCFF177KBZ	limb	DNase-seq	None
+ENCFF344WFB	limb	DNase-seq	None
+ENCFF453JYL	adrenal gland	DNase-seq	None
+ENCFF858VAR	ovary	DNase-seq	None
+ENCFF031MPR	retina	DNase-seq	None
+ENCFF798QOA	retina	DNase-seq	None
+ENCFF188WWY	medulla oblongata	DNase-seq	None
+ENCFF155LWC	medulla oblongata	DNase-seq	None
+ENCFF747PXS	medulla oblongata	DNase-seq	None
+ENCFF393JUR	medulla oblongata	DNase-seq	None
+ENCFF572BGY	RPMI8226	DNase-seq	None
+ENCFF143DHY	RPMI8226	DNase-seq	None
+ENCFF868WJU	RPMI8226	DNase-seq	None
+ENCFF711AYS	RPMI8226	DNase-seq	None
+ENCFF157AJE	thyroid gland	DNase-seq	None
+ENCFF222JZF	thyroid gland	DNase-seq	None
+ENCFF581KCL	embryonic facial prominence	DNase-seq	None
+ENCFF716GVK	embryonic facial prominence	DNase-seq	None
+ENCFF236RUA	embryonic facial prominence	DNase-seq	None
+ENCFF942RXL	embryonic facial prominence	DNase-seq	None
+ENCFF105ZIM	MCF-7	DNase-seq	None
+ENCFF695EJF	HeLa-S3	DNase-seq	None
+ENCFF594MNL	HeLa-S3	DNase-seq	None
+ENCFF976SUC	HeLa-S3	DNase-seq	None
+ENCFF560ZHU	HeLa-S3	DNase-seq	None
+ENCFF111MFA	GM12892	DNase-seq	None
+ENCFF106UOM	M059J	DNase-seq	None
+ENCFF168VOV	M059J	DNase-seq	None
+ENCFF590NWM	GM12878	DNase-seq	None
+ENCFF704SIU	GM12878	DNase-seq	None
+ENCFF342EGB	GM12878	DNase-seq	None
+ENCFF998CFZ	GM12878	DNase-seq	None
+ENCFF876HUO	HepG2	DNase-seq	None
+ENCFF332DSX	HepG2	DNase-seq	None
+ENCFF955WVT	HepG2	DNase-seq	None
+ENCFF375MTY	HepG2	DNase-seq	None
+ENCFF157JLM	upper lobe of left lung	DNase-seq	None
+ENCFF761FFL	HL-60	DNase-seq	None
+ENCFF495RKM	HL-60	DNase-seq	None
+ENCFF999JLU	HL-60	DNase-seq	None
+ENCFF535CCN	HL-60	DNase-seq	None
+ENCFF792QYK	H9	DNase-seq	None
+ENCFF773ANR	H9	DNase-seq	None
+ENCFF341XNQ	H9	DNase-seq	None
+ENCFF862YHA	H9	DNase-seq	None
+ENCFF300GCE	H1-hESC	DNase-seq	None
+ENCFF184VRJ	H1-hESC	DNase-seq	None
+ENCFF536HCK	GM19238	DNase-seq	None
+ENCFF295IFW	right atrium auricular region	DNase-seq	None
+ENCFF960LRA	tibial artery	DNase-seq	None
+ENCFF828CKH	Peyer's patch	DNase-seq	None
+ENCFF800FHQ	Panc1	DNase-seq	None
+ENCFF403SLY	Panc1	DNase-seq	None
+ENCFF725UFK	Panc1	DNase-seq	None
+ENCFF151IQB	Panc1	DNase-seq	None
+ENCFF945FZN	RPMI-7951	DNase-seq	None
+ENCFF806NYM	RPMI-7951	DNase-seq	None
+ENCFF395ABD	T-helper 2 cell	DNase-seq	None
+ENCFF891DND	T-helper 2 cell	DNase-seq	None
+ENCFF371QEX	cardiac mesoderm	DNase-seq	None
+ENCFF706EFZ	cardiac mesoderm	DNase-seq	None
+ENCFF059FUX	cardiac mesoderm	DNase-seq	None
+ENCFF258DWS	cardiac mesoderm	DNase-seq	None
+ENCFF540YIR	GM12878	DNase-seq	None
+ENCFF836QYX	cardiac mesoderm	DNase-seq	None
+ENCFF098NSZ	cardiac mesoderm	DNase-seq	None
+ENCFF850JWN	germinal center	DNase-seq	None
+ENCFF897CBR	BE2C	DNase-seq	None
+ENCFF913JPF	BE2C	DNase-seq	None
+ENCFF253TFP	BE2C	DNase-seq	None
+ENCFF682INH	BE2C	DNase-seq	None
+ENCFF296UGM	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF919ZKZ	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF118YWY	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF132AES	dermis blood vessel endothelial cell	DNase-seq	None
+ENCFF673UDU	H9	DNase-seq	None
+ENCFF211HBL	H9	DNase-seq	None
+ENCFF775HJD	H9	DNase-seq	None
+ENCFF687UAG	H9	DNase-seq	None
+ENCFF977EKA	urothelium cell line	DNase-seq	None
+ENCFF031XLD	LHCN-M2	DNase-seq	None
+ENCFF033NLR	LHCN-M2	DNase-seq	None
+ENCFF280NXX	LNCaP clone FGC	DNase-seq	None
+ENCFF175ZTE	LNCaP clone FGC	DNase-seq	None
+ENCFF572CUO	LNCaP clone FGC	DNase-seq	None
+ENCFF336QIN	LNCaP clone FGC	DNase-seq	None
+ENCFF460FCG	fibroblast of peridontal ligament	DNase-seq	None
+ENCFF722GNI	fibroblast of peridontal ligament	DNase-seq	None
+ENCFF482JEI	fibroblast of peridontal ligament	DNase-seq	None
+ENCFF718RIM	fibroblast of peridontal ligament	DNase-seq	None
+ENCFF513NFR	H9	DNase-seq	None
+ENCFF990CWI	H9	DNase-seq	None
+ENCFF824ONV	H9	DNase-seq	None
+ENCFF888LHG	H9	DNase-seq	None
+ENCFF840BWR	T47D	DNase-seq	None
+ENCFF613QWU	T47D	DNase-seq	None
+ENCFF416APW	glomerular endothelial cell	DNase-seq	None
+ENCFF533QIZ	glomerular endothelial cell	DNase-seq	None
+ENCFF960EDC	glomerular endothelial cell	DNase-seq	None
+ENCFF975RPX	glomerular endothelial cell	DNase-seq	None
+ENCFF340JYK	MCF-7	DNase-seq	None
+ENCFF789VXE	MCF-7	DNase-seq	None
+ENCFF856MSV	MCF-7	DNase-seq	None
+ENCFF291RGZ	MCF-7	DNase-seq	None
+ENCFF099QRX	K562	DNase-seq	vorinostat
+ENCFF072MEC	H4	DNase-seq	None
+ENCFF295RZQ	H4	DNase-seq	None
+ENCFF837WXL	H4	DNase-seq	None
+ENCFF295JTC	H4	DNase-seq	None
+ENCFF931AEM	skin fibroblast	DNase-seq	None
+ENCFF702ROS	brain pericyte	DNase-seq	None
+ENCFF630OEM	brain pericyte	DNase-seq	None
+ENCFF413KJE	iPS-NIHi11	DNase-seq	None
+ENCFF874DLN	GM19240	DNase-seq	None
+ENCFF657OFR	GM23338	DNase-seq	None
+ENCFF509YEV	GM23338	DNase-seq	None
+ENCFF513EGI	GM23338	DNase-seq	None
+ENCFF386DCA	GM23338	DNase-seq	None
+ENCFF893JHA	heart right ventricle	DNase-seq	None
+ENCFF104UPL	heart right ventricle	DNase-seq	None
+ENCFF426XVS	fibroblast of arm	DNase-seq	None
+ENCFF051TGX	fibroblast of arm	DNase-seq	None
+ENCFF907CTO	fibroblast of arm	DNase-seq	None
+ENCFF616OVD	middle frontal gyrus	DNase-seq	None
+ENCFF991JQG	middle frontal gyrus	DNase-seq	None
+ENCFF225OZO	middle frontal gyrus	DNase-seq	None
+ENCFF485IZM	middle frontal gyrus	DNase-seq	None
+ENCFF796BQH	putamen	DNase-seq	None
+ENCFF874BCK	putamen	DNase-seq	None
+ENCFF706LAS	EH	DNase-seq	None
+ENCFF452XME	EH	DNase-seq	None
+ENCFF681NLM	EH	DNase-seq	None
+ENCFF963TDC	EH	DNase-seq	None
+ENCFF575MSV	MCF-7	DNase-seq	lactate
+ENCFF939BUZ	SW480	DNase-seq	None
+ENCFF919GOB	SW480	DNase-seq	None
+ENCFF865ELL	SW480	DNase-seq	None
+ENCFF081SXW	SW480	DNase-seq	None
+ENCFF231LPY	SJCRH30	DNase-seq	None
+ENCFF205VWQ	SJCRH30	DNase-seq	None
+ENCFF950YRR	SJCRH30	DNase-seq	None
+ENCFF958MTJ	SJCRH30	DNase-seq	None
+ENCFF127RSB	SK-N-DZ	DNase-seq	dimethyl sulfoxide
+ENCFF988DWT	SK-N-DZ	DNase-seq	dimethyl sulfoxide
+ENCFF415DZB	HuH-7	DNase-seq	None
+ENCFF772WEQ	stromal cell of bone marrow	DNase-seq	None
+ENCFF735WAG	stromal cell of bone marrow	DNase-seq	None
+ENCFF409URA	stromal cell of bone marrow	DNase-seq	None
+ENCFF728VWK	stromal cell of bone marrow	DNase-seq	None
+ENCFF491IST	SJSA1	DNase-seq	None
+ENCFF846FCT	SJSA1	DNase-seq	None
+ENCFF051IJX	SJSA1	DNase-seq	None
+ENCFF027YRB	SJSA1	DNase-seq	None
+ENCFF122IES	urinary bladder	DNase-seq	None
+ENCFF652NCR	urinary bladder	DNase-seq	None
+ENCFF787YHW	non-pigmented ciliary epithelial cell	DNase-seq	None
+ENCFF491VQA	non-pigmented ciliary epithelial cell	DNase-seq	None
+ENCFF454ETI	non-pigmented ciliary epithelial cell	DNase-seq	None
+ENCFF998ZTZ	non-pigmented ciliary epithelial cell	DNase-seq	None
+ENCFF942XLQ	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF881PDY	hematopoietic multipotent progenitor cell	DNase-seq	None
+ENCFF674UST	fibroblast of the conjunctiva	DNase-seq	None
+ENCFF524ACB	fibroblast of the conjunctiva	DNase-seq	None
+ENCFF749YMK	fibroblast of the conjunctiva	DNase-seq	None
+ENCFF119HDI	fibroblast of the conjunctiva	DNase-seq	None
+ENCFF660NDR	myocyte	DNase-seq	None
+ENCFF710LSL	myocyte	DNase-seq	None
+ENCFF457PMG	testis	DNase-seq	None
+ENCFF179QZQ	GM19239	DNase-seq	None
+ENCFF406TOT	H7-hESC	DNase-seq	None
+ENCFF552ZVJ	H7-hESC	DNase-seq	None
+ENCFF188ZIX	H7-hESC	DNase-seq	None
+ENCFF045QIE	H7-hESC	DNase-seq	None
+ENCFF097KYQ	MCF-7	DNase-seq	None
