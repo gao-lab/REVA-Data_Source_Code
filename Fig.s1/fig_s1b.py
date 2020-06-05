@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 def draw_bar():
     #annotation number
     labels = ['DNA Accessibility', 'Transcription Factor', 'Histone Modification', 'DNA Methylation']
-    pos_data = [0.994359456,23.4950574,5.473492294,0.209811127]
-    neg_data = [0.662586162,2.840739999,3.638789349,0.171628792]
+    pos_data = [0.992622478,23.57726225,5.444668588,0.208760807]
+    neg_data = [0.661233468,2.830337729,3.627474666,0.171053633]
 
     x = np.arange(len(labels))  # the label locations
     width = 0.3  # the width of the bars

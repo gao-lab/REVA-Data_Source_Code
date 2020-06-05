@@ -119,8 +119,8 @@ def cal_result(file="../Data/benchmark_conservation_gwas.txt"):
     print("Load %s ..." % file)
     temp=np.loadtxt(open(target_file,'r'),delimiter="\t",dtype=np.str,skiprows=1)
     
-    tool_list=["CADD","CARMEN","DeepSEA","Eigen","Eigen-PC","ExPecto","FunSeq2","GWAVA-Region","GWAVA-TSS","GWAVA-Unmatch"]
-    cutoff_list=[10,0.005,0.99,5,9,0.3,2,0.5,0.5,0.5]
+    tool_list=["CADD","DeepSEA","Eigen","Eigen-PC","ExPecto","FunSeq2","GWAVA-Region","GWAVA-TSS","GWAVA-Unmatch"]
+    cutoff_list=[10,0.99,5,9,0.3,2,0.5,0.5,0.5]
     # class by conv_score
     #cal_by_conv(temp,result_file,tool_list,cutoff_list)
     # class by gwas_label

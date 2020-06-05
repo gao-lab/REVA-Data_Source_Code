@@ -3,8 +3,8 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-pos_data = [2249,4194,7577,17298,3785] #positive
-neg_data=[540876,1440888,2036396,1608406,273930] #Negative
+pos_data = [2246,4175,7491,17089,3699] #positive
+neg_data=[540388,1438226,2027958,1596290,269799] #Negative
 
 def func(pct, allvals):
     absolute = int(pct/100.*np.sum(allvals))
