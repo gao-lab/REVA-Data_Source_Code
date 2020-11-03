@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 def draw_bar():
     #conservation F1-score
     labels=["CADD","DeepSEA","Eigen","Eigen-PC","ExPecto","FunSeq2","GWAVA-Region","GWAVA-TSS","GWAVA-Unmatch"]
-    temp=np.loadtxt(open("../Data/f1_conv.txt",'r'),delimiter="\t",dtype=np.float)
+    temp=np.loadtxt(open("../../Data/f1_conv.txt",'r'),delimiter="\t",dtype=np.float)
 
     x = np.arange(len(labels))  # the label locations
     width = 0.15  # the width of the bars
@@ -27,6 +27,6 @@ def draw_bar():
     ax.set_xticklabels(labels)
     ax.legend()
     fig.tight_layout()
-    plt.savefig("./pics/fig_3d.png")
+    plt.savefig("./fig_3d.png")
 
 draw_bar()

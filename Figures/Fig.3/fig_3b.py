@@ -25,8 +25,8 @@ color_list=["#DC143C","#0000FF","#008000","#FF00FF","#00BFFF","#90EE90","#8A2BE2
 
 #load file
 print("Loading files...")
-all_file=np.loadtxt(open("../Data/benchmark_multi_label.txt",'r'),delimiter="\t",dtype=np.str,skiprows=1)
-ensemble_file=np.loadtxt(open("../Data/benchmark_EnsembleExpr_5_merge.txt",'r'),delimiter="\t",dtype=np.str)
+all_file=np.loadtxt(open("../../Data/benchmark_multi_label.txt",'r'),delimiter="\t",dtype=np.str,skiprows=1)
+ensemble_file=np.loadtxt(open("../../Data/benchmark_EnsembleExpr_5_merge.txt",'r'),delimiter="\t",dtype=np.str)
 #get result
 result=[]
 #cal emsemble result
@@ -58,5 +58,5 @@ plt.xlabel('False Positive Rate')
 plt.ylabel('True Positive Rate')
 plt.title('Receiver operating characteristic')
 plt.legend(loc="lower right",fontsize=8)
-plt.savefig("./pics/fig_3b.png")
+plt.savefig("./fig_3b.png")
 print("Finished.")

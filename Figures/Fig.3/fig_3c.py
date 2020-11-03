@@ -25,6 +25,6 @@ def draw_bar():
     ax.set_xticklabels(labels)
     ax.legend()
     fig.tight_layout()
-    plt.savefig("./pics/fig_3c.png")
+    plt.savefig("./fig_3c.png")
 
 draw_bar()

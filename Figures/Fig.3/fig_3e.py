@@ -100,4 +100,4 @@ def func(x, pos):
     return "{:.3f}".format(x).replace("0.", ".").replace(".000", "N.A")
 texts = annotate_heatmap(im, valfmt=matplotlib.ticker.FuncFormatter(func),size=9)
 fig.tight_layout()
-plt.savefig("./pics/fig_3e.png")
+plt.savefig("./fig_3e.png")

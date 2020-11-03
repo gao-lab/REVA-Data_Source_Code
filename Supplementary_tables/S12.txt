@@ -1,0 +1,11 @@
+#Supplementary Table 12. The differences of distribution of variants on chromosomes		
+#Note: We used Jensen–Shannon (JS) divergence to quantify the distribution similarity between all variants and variants by cell line.			
+Cell line	Positive variants	negative variants
+GM18507	0.073832007	0.061589869
+HEK293T	0.043585135	0.054055124
+HepG2	0.001894832	4.95E-07
+K562	0.001000875	4.19E-07
+K562 (GATA1)	0.33447275	0.249818481
+NA12878, NA19239	0.127676182	0.157738975
+Saos-2	0.825349817	0.333777783
+SH-SY5H	0.374828208	0.124825454

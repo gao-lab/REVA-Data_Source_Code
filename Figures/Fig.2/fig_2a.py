@@ -67,4 +67,4 @@ con.set_color([0, 0, 0])
 ax2.add_artist(con)
 con.set_linewidth(4)
 
-plt.savefig("./pics/fig_2a_neg.png")
+plt.savefig("./fig_2a_neg.png")

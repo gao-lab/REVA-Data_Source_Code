@@ -7,7 +7,7 @@ import seaborn as sns
 import pandas as pd
 
 sns.set(style = "whitegrid")
-data = pd.read_csv('../Data/bacc_f1_result.txt',sep='\t')
+data = pd.read_csv('../../Data/bacc_f1_result.txt',sep='\t')
 data_sort = data.sort_values(by=['F1score'])
 
 x = data_sort.balanced_acc
@@ -39,4 +39,4 @@ ax.spines['left'].set_color('black')
 ax.tick_params(top='off',bottom='on',left='on',right='off') # Do not have the scale of the right and top.
 
 plt.tight_layout() #Make all information showed on the picture.
-plt.savefig("./pics/fig_3a.png")
+plt.savefig("./fig_3a.png")

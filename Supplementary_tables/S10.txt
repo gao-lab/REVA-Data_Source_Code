@@ -1,0 +1,23 @@
+#Supplementary Table 10. The distribution of positive and negative variants in the genome by cell line						
+#Note: We further removed 1042 variants tested from the experiments focusing on particular region on genome (positive variants :117, negative variants: 925)						
+#Positive variants						
+Cell line	Intron	Intergenic region	Promoter	3' UTR	5' UTR	Mixed region
+GM18507	1138	741	8	47	11	659
+HEK293T	598	406	1	14	2	104
+HepG2	5141	7834	17	75	6	966
+K562	6166	9851	50	126	42	2824
+K562 (GATA1)	17	11	0	0	0	3
+NA12878, NA19239	408	151	8	13	4	239
+Saos-2	3	0	0	1	0	2
+SH-SY5H	12	12	0	1	0	2
+#						
+#Negative variants						
+Cell line	Intron	Intergenic region	Promoter	3' UTR	5' UTR	Mixed region
+GM18507	19445	13209	82	630	56	6168
+HEK293T	2669	2141	5	68	3	311
+HepG2	2310836	3146888	2856	34692	1698	340203
+K562	2311672	3147222	2856	34719	1699	340332
+K562 (GATA1)	1508	753	2	46	1	298
+NA12878, NA19239	1333	485	16	36	7	599
+Saos-2	730	282	0	7	0	62
+SH-SY5H	225	199	0	4	0	29

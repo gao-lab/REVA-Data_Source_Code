@@ -24,8 +24,8 @@ def draw_s1(data,title_name,save_file):
     plt.setp(autotexts, size=8, weight="bold")
 
     ax.set_title(title_name)
-    plt.savefig("./pics/"+save_file)
+    plt.savefig("./"+save_file)
 
-draw_s1(pos_data,"Positive","fig_s1a_pos.png")
-draw_s1(neg_data,"Negative","fig_s1a_neg.png")
+draw_s1(pos_data,"Positive","fig_s2a_pos.png")
+draw_s1(neg_data,"Negative","fig_s2a_neg.png")
 

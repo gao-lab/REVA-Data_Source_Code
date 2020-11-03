@@ -1,0 +1,8 @@
+#Supplementary Table 8. Variants in benchmark dataset overlapped with HGMD			
+Class	Number of positive variants	Number of negative variants	Note
+DM	0	3	Not included in benchmark evaluation because the number of positive number is 0
+DM?	3	46	
+DP	39	506	
+FP	8	234	
+DFP	18	511	
+R	1	31	Not included in benchmark evaluation because R refers to retired records in HGMD

@@ -1,0 +1,8 @@
+#Supplementary Table 2. The distribution of positive and negative variants in the genome			
+Locus	Number of positive variants	Number of negative variants	Note
+Promoter	81	2911	
+Intron	12479	2326947	
+Intergenic region	17336	3161173	
+5' UTR	61	1741	
+3' UTR	265	35097	
+Mixed region	4478	344792	Mapped to more than one locus.
