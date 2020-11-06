@@ -1,0 +1,307 @@
+22Rv1
+8988T
+A172
+A549
+A673
+ACC112
+ACHN
+Adipocyte
+Adipose tissue
+Adrenal gland
+Ammon's-horn
+Amniotic epithelial cell
+Amniotic stem cell
+Aorta
+Ascending Aorta
+Astrocyte
+Astrocyte of the cerebellum
+Astrocyte of the spinal cord
+B cell
+BE2C
+Bipolar neuron
+Body of Pancreas
+Brain
+Brain microvascular endothelial cell
+Brain pericyte
+Breast epithelium
+Bronchial epithelial cell
+C4-2B
+Caco-2
+Caki2
+Cardiac fibroblast
+Cardiac mesoderm
+Cardiac muscle cell
+Caudate nucleus
+CD14 positive monocyte
+CD1c positive myeloid dendritic cell
+CD4 positive helper T cell
+CD8 positive,alpha beta T cell
+Cerebellum
+Chorion
+Choroid plexus epithelial cell
+CMK
+COLO829
+Common myeloid progenitor,CD34 positive
+Coronary artery
+CWRU1
+Daoy
+Dedifferentiated amniotic fluid mesenchymal stem cell
+Dermis blood vessel endothelial cell
+Dermis microvascular lymphatic vessel endothelial cell
+DND-41
+DOHH2
+EH
+EL
+ELF-1
+ELR
+Embryonic facial prominence
+Endodermal cell
+Endothelial cell of umbilical vein
+Epidermal melanocyte
+Epithelia cell of Esophagus
+Epithelia cell of prostate
+Epithelial cell of proximal tubule
+Erythroblast
+ES-I3
+Esophagus
+Esophagus muscularis mucosa
+Esophagus squamous epithelium
+Eye
+Fibroblast of arm
+Fibroblast of dermis
+Fibroblast of gingiva
+Fibroblast of Lung
+Fibroblast of mammary gland
+Fibroblast of peda digit skin
+Fibroblast of pedal digit skin
+Fibroblast of peridontal ligament
+Fibroblast of pulmonary artery
+Fibroblast of skin of abdomen
+Fibroblast of the aortic adventitia
+Fibroblast of the conjunctiva
+Fibroblast of upper leg skin
+Fibroblast of villous mesenchyme
+Forelimb muscle
+Foreskin fibroblast
+Foreskin Keratinocyte
+Foreskin melanocyte
+Frontal cortex
+G401
+Gastrocnemius medialis
+Gastroesophagea sphincter
+Gastroesophageal sphincter
+Germinal center
+Globus pallidus
+Glomerular endothelial cell
+Glomerular visceral epithelial cell
+GM06990
+GM08714
+GM10248
+GM10266
+GM12864
+GM12865
+GM12873
+GM12874
+GM12878
+GM12891
+GM12892
+GM13976
+GM13977
+GM18507
+GM19238
+GM19239
+GM19240
+GM20000
+GM23338
+H1-hESC
+H4
+H54
+H7-hESC
+H9
+HAP-1
+HCT116
+Heart
+Heart left ventricle
+Heart right ventricle
+HEK293
+HEK293T
+HeLa-S3
+Hematopoietic multipotent progenitor cell
+Hepatic stellate cell
+Hepatocyte
+HepG2
+HFF-Myc
+Hindlimb muscle
+HL-60
+HPDE6-E6E7
+HS-27A
+HS-5
+HT1080
+HT-29
+HTR-8/SVneo
+HUES48
+HUES6
+HUES64
+HuH 7
+HuH-7.5
+IMR-90
+Induced pluripotent stem cell
+Inferior parietal cortex
+IPS 20b
+IPS DF 19.11
+IPS DF 19.7
+IPS DF 4.7
+IPS DF 6.9
+IPS NIHi11
+Ishikawa
+Jurkat clone E61
+Jurkat-clone-E61
+K562
+Karpas-422
+KBM-7
+Keratinocyte
+Kidney
+Kidney epithelial cell
+KMS-11
+KOPT-K1
+L1-S8
+L1-S8R
+Large intestine
+Left cardiac atrium
+Left kidney
+Left Lung
+Left renal cortex interstitium
+Left renal pelvis
+LHCN-M2
+Limb
+Liver
+LNCAP
+LNCaP clone FGC
+Loucy
+LoVo
+Lower leg skin
+Lung
+M059J
+Mammary epithelial cell
+MCF-10A
+MCF-7
+Medulla oblongata
+Medulloblastoma
+Mesenchymal stem cell
+Mesendoderm
+MG63
+Mid neurogenesis radial glial cells
+Midbrain
+Middle frontal gyrus
+MM.1S
+Mononuclear cell
+Muscle of arm
+Muscle of back
+Muscle of leg
+Muscle of trunk
+Myocyte
+Myotube
+Naive Thymus derived CD4 positive,alpha beta T cell
+NAMALWA
+Natural killer cell
+NCI-H226
+NCI-H460
+NCI-H929
+Neural cell
+Neural progenitor cell
+Neural stem progenitor cell
+Neuroepithelial stem cell
+Neutrophil
+Non pigmented ciliary epithelial cell
+NT2/D1
+Oancreas
+Occipital lobe
+OCI-LY1
+OCI-LY3
+OCI-LY7
+Olfactory neurosphere cell line
+Omental fat pad
+Osteoblast
+Ovary
+Panc1
+Pancreas
+PC-3
+PC-9
+Peyer's patch
+PFSK-1
+Placenta
+Pons
+Prostate gland
+Psoas muscle
+Pulmonary artery endothelial cell
+Putamen
+Radial glial cell
+Raji
+RCC-7860
+Regulatory T cell
+Renal cortex interstitium
+Renal cortical epithelial cell
+Renal pelvis
+Retina
+Retinal pigment epithelial cell
+Right atrium auricular region
+Right cardiac atrium
+Right kidney
+Right lobe of Liver
+Right Lung
+Right renal cortex interstitium
+Right renal pelvis
+Right- trium auricular region
+RKO
+RPMI-7951
+RPMI8226
+Rsophagus squamous epithelium
+RWPE1
+RWPE2
+SH-SY5Y
+Sigmoid colon
+SJCRH30
+SJSA1
+Skeletal muscle cell
+Skeletal muscle myoblast
+Skin fibroblast
+Skin of body
+SK-MEL-5
+SK-N-DZ
+SK-N-MC
+SK-N-SH
+Small intestine
+Smooth muscle cell
+Smooth muscle cell of the brain vasculature
+Spinal cord
+Spleen
+Stomach
+Stromal cell of bone marrow
+Subcutaneous adipose tissue
+SUDHL6
+Superior temporal gyrus
+SW480
+T cell
+T helper 1 cell
+T helper 2 cell
+T47D
+Testis
+Thoracic Aorta
+Thoracic segment muscle
+Thymus
+Thyroid gland
+Tibial artery
+Tibial nerve
+Tongue
+Transverse colon
+Trophoblast cell
+U2OS
+Umbilical cord
+Upper lobe of left Lung
+Urinary bladder
+Urothelium cell line
+Uterus
+Vagina
+VCaP
+WERI-Rb-1
+WI38

@@ -1,0 +1,2403 @@
+Non pigmented ciliary epithelial cell|DNase-seq|None
+Gastrocnemius medialis|DNase-seq|None
+Thyroid gland|DNase-seq|None
+HuH 7|DNase-seq|None
+Chorion|DNase-seq|None
+Midbrain|DNase-seq|None
+Tibial artery|ATAC-seq|None
+HT1080|DNase-seq|None
+LNCaP clone FGC|DNase-seq|17'-hydroxy-17-methylestra-4,9,11-trien-3-one
+MCF-7|DNase-seq|lactate
+H9|DNase-seq|None
+Fibroblast of the aortic adventitia|DNase-seq|None
+HS-5|DNase-seq|None
+Brain pericyte|DNase-seq|None
+IPS DF 19.7|DNase-seq|None
+Glomerular visceral epithelial cell|DNase-seq|None
+CD4 positive helper T cell|DNase-seq|None
+Skin fibroblast|DNase-seq|None
+Coronary artery|ATAC-seq|None
+Epithelial cell of proximal tubule|DNase-seq|None
+Transverse colon|ATAC-seq|None
+A673|DNase-seq|None
+Ovary|DNase-seq|None
+Fibroblast of Lung|DNase-seq|None
+Endothelial cell of umbilical vein|DNase-seq|None
+Hepatic stellate cell|DNase-seq|None
+Esophagus muscularis mucosa|ATAC-seq|None
+Gastrocnemius medialis|ATAC-seq|None
+CWRU1|DNase-seq|None
+CD14 positive monocyte|DNase-seq|None
+Pons|DNase-seq|None
+Embryonic facial prominence|DNase-seq|None
+M059J|DNase-seq|None
+Lower leg skin|DNase-seq|None
+Osteoblast|DNase-seq|None
+Muscle of leg|DNase-seq|None
+Esophagus muscularis mucosa|DNase-seq|None
+Thoracic Aorta|DNase-seq|None
+Choroid plexus epithelial cell|DNase-seq|None
+Hepatocyte|DNase-seq|None
+SK-MEL-5|DNase-seq|None
+Naive Thymus derived CD4 positive,alpha beta T cell|DNase-seq|None
+GM06990|DNase-seq|None
+Panc1|DNase-seq|None
+Smooth muscle cell of the brain vasculature|DNase-seq|None
+Omental fat pad|DNase-seq|None
+Ascending Aorta|DNase-seq|None
+GM10248|DNase-seq|None
+Skeletal muscle cell|DNase-seq|None
+MCF-7|DNase-seq|estradiol
+Neural stem progenitor cell|DNase-seq|None
+Lung|DNase-seq|None
+HL-60|DNase-seq|None
+Transverse colon|DNase-seq|None
+MG63|DNase-seq|None
+Caudate nucleus|DNase-seq|None
+Tibial nerve|ATAC-seq|None
+Jurkat clone E61|DNase-seq|None
+SJCRH30|DNase-seq|None
+Middle frontal gyrus|DNase-seq|None
+Brain|DNase-seq|None
+Hematopoietic multipotent progenitor cell|DNase-seq|Erythropoietin,-interleukin-3,-hydrocortisone-succinate,-kit-ligand
+Left kidney|DNase-seq|None
+Large intestine|DNase-seq|None
+Medulla oblongata|DNase-seq|None
+PC-9|DNase-seq|None
+RCC-7860|DNase-seq|None
+GM23338|DNase-seq|None
+Left renal cortex interstitium|DNase-seq|None
+WI38|DNase-seq|None
+Testis|ATAC-seq|None
+SK-N-DZ|DNase-seq|None
+GM18507|DNase-seq|None
+Pulmonary artery endothelial cell|DNase-seq|None
+PC-3|DNase-seq|None
+H54|DNase-seq|None
+Foreskin melanocyte|DNase-seq|None
+Olfactory neurosphere cell line|DNase-seq|None
+Heart|DNase-seq|None
+Body of Pancreas|ATAC-seq|None
+Spleen|DNase-seq|None
+MM.1S|DNase-seq|None
+T helper 2 cell|DNase-seq|None
+Natural killer cell|DNase-seq|None
+Amniotic epithelial cell|DNase-seq|None
+Left cardiac atrium|DNase-seq|None
+Fibroblast of dermis|DNase-seq|None
+Adrenal gland|DNase-seq|None
+Cardiac fibroblast|DNase-seq|None
+RKO|DNase-seq|None
+Prostate gland|DNase-seq|None
+NCI-H460|DNase-seq|None
+Stomach|ATAC-seq|None
+Right atrium auricular region|DNase-seq|None
+NCI-H226|DNase-seq|None
+Right- trium auricular region|ATAC-seq|None
+GM19239|DNase-seq|None
+T cell|DNase-seq|None
+Fibroblast of pulmonary artery|DNase-seq|None
+Prostate gland|ATAC-seq|None
+Omental fat pad|ATAC-seq|None
+HPDE6-E6E7|DNase-seq|None
+Amniotic stem cell|DNase-seq|None
+Heart left ventricle|ATAC-seq|None
+Heart right ventricle|DNase-seq|None
+Heart left ventricle|DNase-seq|None
+Medulloblastoma|DNase-seq|None
+IPS DF 4.7|DNase-seq|None
+Myotube|DNase-seq|None
+IPS DF 6.9|DNase-seq|None
+Gastroesophageal sphincter|ATAC-seq|None
+LHCN-M2|DNase-seq|None
+Tongue|DNase-seq|None
+KBM-7|DNase-seq|None
+Fibroblast of arm|DNase-seq|None
+Thoracic Aorta|ATAC-seq|None
+OCI-LY7|DNase-seq|None
+Superior temporal gyrus|DNase-seq|None
+IPS DF 19.11|DNase-seq|None
+Upper lobe of left Lung|DNase-seq|None
+Hindlimb muscle|DNase-seq|None
+Astrocyte|DNase-seq|None
+EH|DNase-seq|None
+Muscle of trunk|DNase-seq|None
+Left Lung|DNase-seq|None
+Glomerular endothelial cell|DNase-seq|None
+Bronchial epithelial cell|DNase-seq|None
+K562|DNase-seq|vorinostat
+Subcutaneous adipose tissue|ATAC-seq|None
+Right renal cortex interstitium|DNase-seq|None
+HTR-8/SVneo|DNase-seq|None
+Muscle of back|DNase-seq|None
+Limb|DNase-seq|None
+HEK293T|DNase-seq|None
+Hematopoietic multipotent progenitor cell|DNase-seq|None
+Adrenal gland|ATAC-seq|None
+NAMALWA|DNase-seq|None
+GM19240|DNase-seq|None
+Occipital lobe|DNase-seq|None
+CD8 positive,alpha beta T cell|DNase-seq|None
+Dermis blood vessel endothelial cell|DNase-seq|None
+Spleen|ATAC-seq|None
+Sigmoid colon|ATAC-seq|None
+RPMI-7951|DNase-seq|None
+Epidermal melanocyte|DNase-seq|None
+Ishikawa|DNase-seq|dimethyl-sulfoxide
+Eye|DNase-seq|None
+Karpas-422|DNase-seq|None
+GM12864|DNase-seq|None
+Regulatory T cell|DNase-seq|None
+Vagina|DNase-seq|None
+LoVo|DNase-seq|None
+SK-N-SH|DNase-seq|All trans retinoic acid
+HeLa-S3|DNase-seq|interferon-alpha
+Sigmoid colon|DNase-seq|None
+Astrocyte of the cerebellum|DNase-seq|None
+GM12891|DNase-seq|None
+Kidney epithelial cell|DNase-seq|None
+T47D|DNase-seq|None
+Ammon's-horn|DNase-seq|None
+Dermis microvascular lymphatic vessel endothelial cell|DNase-seq|None
+ELR|DNase-seq|None
+Putamen|DNase-seq|None
+Inferior parietal cortex|DNase-seq|None
+Fibroblast of the conjunctiva|DNase-seq|None
+Cardiac mesoderm|DNase-seq|None
+H7-hESC|DNase-seq|None
+Daoy|DNase-seq|None
+Stromal cell of bone marrow|DNase-seq|None
+Right kidney|DNase-seq|None
+CD1c positive myeloid dendritic cell|DNase-seq|None
+Foreskin fibroblast|DNase-seq|None
+Caco-2|DNase-seq|None
+IMR-90|DNase-seq|None
+Thoracic segment muscle|DNase-seq|None
+MCF-7|DNase-seq|None
+Bipolar neuron|DNase-seq|doxycycline-hyclate
+LNCaP clone FGC|DNase-seq|None
+Epithelia cell of prostate|DNase-seq|None
+ELF-1|DNase-seq|None
+H1-hESC|DNase-seq|None
+HS-27A|DNase-seq|None
+Keratinocyte|DNase-seq|None
+Fibroblast of gingiva|DNase-seq|None
+Germinal center|DNase-seq|None
+K562|DNase-seq|None
+Right Lung|DNase-seq|None
+L1-S8|DNase-seq|None
+Right lobe of Liver|ATAC-seq|None
+Breast epithelium|ATAC-seq|None
+COLO829|DNase-seq|None
+RWPE1|DNase-seq|None
+Trophoblast cell|DNase-seq|None
+SK-N-MC|DNase-seq|None
+H4|DNase-seq|None
+Peyer's patch|ATAC-seq|None
+Left renal pelvis|DNase-seq|None
+Fibroblast of skin of abdomen|DNase-seq|None
+Frontal cortex|DNase-seq|None
+Thymus|DNase-seq|None
+Uterus|DNase-seq|None
+SJSA1|DNase-seq|None
+Kidney|DNase-seq|None
+HAP-1|DNase-seq|None
+Testis|DNase-seq|None
+SW480|DNase-seq|None
+Fibroblast of mammary gland|DNase-seq|None
+Fibroblast of upper leg skin|DNase-seq|None
+CMK|DNase-seq|None
+Caki2|DNase-seq|None
+Psoas muscle|DNase-seq|None
+Stomach|DNase-seq|None
+Cardiac muscle cell|DNase-seq|None
+Placenta|DNase-seq|None
+Ovary|ATAC-seq|None
+Renal cortical epithelial cell|DNase-seq|None
+Esophagus squamous epithelium|ATAC-seq|None
+Forelimb muscle|DNase-seq|None
+K562|DNase-seq|sodium-butyrate
+Umbilical cord|DNase-seq|None
+8988T|DNase-seq|None
+Small intestine|DNase-seq|None
+B cell|DNase-seq|None
+Fibroblast of peridontal ligament|DNase-seq|None
+Common myeloid progenitor,CD34 positive|DNase-seq|None
+Cerebellum|DNase-seq|None
+Tibial nerve|DNase-seq|None
+G401|DNase-seq|None
+Skin fibroblast|DNase-seq|doxycycline
+Renal cortex interstitium|DNase-seq|None
+Liver|DNase-seq|None
+Skin of body|DNase-seq|None
+GM12878|DNase-seq|None
+Peyer's patch|DNase-seq|None
+Retina|DNase-seq|None
+Myocyte|DNase-seq|None
+GM19238|DNase-seq|None
+Globus pallidus|DNase-seq|None
+HFF-Myc|DNase-seq|None
+Foreskin Keratinocyte|DNase-seq|None
+Rsophagus squamous epithelium|DNase-seq|None
+Ishikawa|DNase-seq|afimoxifene
+Oancreas|DNase-seq|None
+Adipocyte|DNase-seq|None
+SK-N-DZ|DNase-seq|dimethyl-sulfoxide
+EL|DNase-seq|None
+Renal pelvis|DNase-seq|None
+Tibial artery|DNase-seq|None
+RPMI8226|DNase-seq|None
+Right lobe of Liver|DNase-seq|None
+GM12892|DNase-seq|None
+Mammary epithelial cell|DNase-seq|None
+ACHN|DNase-seq|None
+HepG2|DNase-seq|None
+HCT116|DNase-seq|None
+IPS NIHi11|DNase-seq|None
+WERI-Rb-1|DNase-seq|None
+Spinal cord|DNase-seq|None
+Bronchial epithelial cell|DNase-seq|retinoic-acid
+HuH-7.5|DNase-seq|None
+Fibroblast of pedal digit skin|DNase-seq|None
+Ishikawa|DNase-seq|17'-estradiol
+Urinary bladder|DNase-seq|None
+Muscle of arm|DNase-seq|None
+T47D|DNase-seq|17'-estradiol
+L1-S8R|DNase-seq|None
+Urothelium cell line|DNase-seq|None
+HeLa-S3|DNase-seq|None
+Coronary artery|DNase-seq|None
+Dedifferentiated amniotic fluid mesenchymal stem cell|DNase-seq|None
+A172|DNase-seq|None
+Thyroid gland|ATAC-seq|None
+T helper 1 cell|DNase-seq|None
+Brain microvascular endothelial cell|DNase-seq|None
+Retinal pigment epithelial cell|DNase-seq|None
+NT2/D1|DNase-seq|None
+WI38|DNase-seq|afimoxifene
+BE2C|DNase-seq|None
+Right renal pelvis|DNase-seq|None
+HT-29|DNase-seq|None
+K562|REST|None
+A549|CTCF|None
+CD14 positive monocyte|CTCF|None
+HepG2|FLAG-HLF|None
+MCF-7|YBX1|None
+K562|BRD4|None
+K562|ZZZ3|None
+A549|SREBF2|None
+GM12878|POLR2AphosphoS2|None
+K562|eGFP-DDX20|None
+HEK293|eGFP-ZNF16|None
+MCF-7|ZNF512B|None
+A549|ZC3H11A|None
+GM12878|RXRA|None
+H1-hESC|USF1|None
+MCF-7|RFX1|None
+MCF-7|ZHX2|None
+K562|CBFA2T2|None
+K562|PTBP1|None
+H1-hESC|SAP30|None
+K562|IKZF1|None
+K562|eGFP-NR2C1|None
+Endothelial cell of umbilical vein|POLR2AphosphoS5|None
+GM12878|TARDBP|None
+MCF-7|SIN3A|None
+K562|eGFP-GTF2A2|None
+K562|eGFP-NFE2L1|None
+NT2/D1|YY1|None
+H1-hESC|REST|None
+T47D|ESR1|dimethyl-sulfoxide
+K562|IRF1|interferon-alpha
+K562|TRIM24|None
+HepG2|ATF7|None
+HEK293|eGFP-ZNF2|None
+K562|eGFP-VEZF1|None
+K562|KAT8|None
+K562|E2F6|None
+MCF-7|MAZ|None
+GM12878|WRNIP1|None
+Fibroblast of villous mesenchyme|CTCF|None
+GM12878|YY1|None
+GM12878|SMC3|None
+K562|eGFP-RELA|None
+Hepatocyte|CTCF|None
+K562|ZC3H11A|None
+GM20000|CTCF|None
+HepG2|SNRNP70|None
+A549|REST|ethanol
+HepG2|TCF12|None
+HepG2|CEBPB|None
+HEK293|eGFP-ZNF121|None
+HEK293|eGFP-ZNF692|None
+MCF-7|RCOR1|None
+HEK293T|SP1|None
+HEK293|eGFP-ZFHX2|None
+GM12864|CTCF|None
+HeLa-S3|EZH2|None
+HEK293|eGFP-ZNF843|None
+K562|eGFP-GTF2E2|None
+GM12892|POLR2A|None
+HEK293T|LEF1|None
+K562|COPS2|None
+K562|ZKSCAN1|None
+MCF-7|MLLT1|None
+HepG2|SOX6|None
+K562|MTA2|None
+HepG2|RBFOX2|None
+MCF-7|PPP1R10|None
+HepG2|ZNF143|None
+RWPE2|CTCF|None
+K562|TEAD4|None
+DND-41|CTCF|None
+SK-N-MC|FOXP2|None
+HEK293T|ZFX|None
+H1-hESC|GABPA|None
+HEK293|eGFP-ZNF239|None
+GM12878|BATF|None
+MCF-7|JUND|None
+K562|ZEB2|None
+HepG2|HNRNPUL1|None
+GM12878|HDGF|None
+GM12878|KDM1A|None
+K562|LARP7|None
+K562|IRF2|None
+HepG2|FLAG-NFIA_isoform1|None
+HEK293|eGFP-ZNF24|None
+H1-hESC|SIN3A|None
+Foreskin fibroblast|CTCF|None
+HepG2|FLAG-ELF3|None
+K562|SIX5|None
+K562|ARID1B|None
+H1-hESC|SUZ12|None
+H1-hESC|KDM1A|None
+GM12878|FOXK2|None
+HepG2|HNF4G|None
+K562|NFRKB|None
+K562|MGA|None
+GM12891|PAX5|None
+K562|ZNF407|None
+K562|KHSRP|None
+K562|KMT2B|None
+HEK293T|TARDBP|None
+HEK293|eGFP-ZNF391|None
+A549|ESRRA|None
+MCF-7|SREBF1|None
+H1-hESC|KDM5B|None
+HeLa-S3|ZHX1|None
+GM12878|MTA3|None
+A549|CBX8|None
+A549|RFX5|None
+K562|JUN|interferon-alpha
+K562|SRSF7|None
+HepG2|LCORL|None
+GM12892|PAX5|None
+MCF-7|MTA3|None
+WERI-Rb-1|CTCF|None
+HepG2|RCOR1|None
+K562|SOX6|None
+H1-hESC|BACH1|None
+K562|MEF2A|None
+IMR-90|SMC3|None
+GM12878|CBX3|None
+HepG2|SMARCC2|None
+MCF-10A|FOS|afimoxifene
+MCF-7|eGFP-FOSL2|None
+MCF-7|ZBTB1|None
+HepG2|FOXP1|None
+A549|RAD21|None
+HL-60|SPI1|None
+HEK293|eGFP-ZIK1|None
+HEK293|eGFP-ZNF624|None
+HepG2|NBN|None
+K562|ZSCAN29|None
+HEK293|eGFP-ZNF101|None
+Lung|CTCF|None
+HEK293|eGFP-ZNF701|None
+HEK293|eGFP-ZFP69B|None
+HCT116|YY1|None
+HepG2|FLAG-KDM6A|None
+MCF-7|POLR2A|None
+K562|ZBTB33|None
+GM12878|ELF1|None
+K562|CSDE1|None
+GM06990|CTCF|None
+DOHH2|EZH2phosphoT487|None
+HepG2|FLAG-MIER3|None
+HEK293|eGFP-ZNF132|None
+GM12878|CEBPB|None
+HCT116|CTCF|None
+HEK293|eGFP-ZNF223|None
+Fibroblast of dermis|CTCF|None
+IMR-90|CTCF|None
+PFSK-1|REST|None
+MCF-7|CREB1|None
+K562|YY1|None
+HEK293|eGFP-ZNF704|None
+HEK293|eGFP-ZNF433|None
+HepG2|FLAG-TEAD3|None
+Liver|RAD21|None
+Endothelial cell of umbilical vein|FOS|None
+MCF-7|MTA2|None
+HepG2|FLAG-HMG20A|None
+HEK293|eGFP-PRDM1|None
+HEK293|eGFP-ZNF195|None
+A549|WDR5|None
+K562|ESRRA|None
+K562|eGFP-ZNF740|None
+K562|MXI1|None
+GM12878|GATAD2B|None
+K562|NFIC|None
+GM12878|IRF4|None
+HEK293T|L3MBTL2|None
+Fibroblast of upper leg skin|CTCF|None
+MCF-7|SIX4|None
+HEK293|eGFP-ZNF791|None
+HEK293|eGFP-ZNF493|None
+HEK293|eGFP-ZNF300|None
+HEK293|eGFP-ZNF148|None
+HepG2|ARNT|None
+HepG2|FLAG-MLX|None
+GM12878|HSF1|None
+HEK293|eGFP-ZNF785|None
+A549|ZBTB33|ethanol
+Neural cell|CTCF|None
+HEK293|eGFP-ZNF664|None
+MCF-7|NFIB|None
+K562|SMC3|None
+MCF-7|FOXK2|None
+K562|MIER1|None
+GM12878|CHD4|None
+Liver|ATF3|None
+K562|JUNB|None
+H1-hESC|HDAC2|None
+K562|eGFP-BACH1|None
+HEK293T|ARNT|None
+GM12878|RFX5|None
+HEK293|eGFP-ZNF18|None
+B cell|CTCF|None
+K562|ARID3A|None
+HEK293|eGFP-ZSCAN4|None
+A549|ELF1|ethanol
+HepG2|SMARCE1|None
+Ishikawa|CTCF|dimethyl-sulfoxide
+MCF-7|HSF1|None
+HepG2|FLAG-CREB1|None
+K562|NCOA1|None
+Brain microvascular endothelial cell|CTCF|None
+H1-hESC|FOSL1|None
+GM12891|POLR2AphosphoS5|None
+A549|FOXA1|ethanol
+LNCAP|CTCF|None
+GM12878|SRF|None
+HEK293|eGFP-ZNF19|None
+OCI-LY3|CTCF|None
+K562|eGFP-ZNF589|None
+K562|CUX1|None
+HepG2|NONO|None
+22Rv1|CTCF|17'-hydroxy-5'-androstan-3-one
+HEK293|eGFP-ZNF398|None
+K562|BRCA1|None
+IMR-90|FOS|None
+MCF-10A|STAT3|ethanol
+GM12878|RAD51|None
+HepG2|FLAG-RERE|None
+H1-hESC|CTCF|None
+SK-N-SH|POLR2AphosphoS5|None
+K562|eGFP-KLF13|None
+GM12878|BMI1|None
+H1-hESC|RXRA|None
+K562|ZNF318|None
+K562|SMAD5|None
+K562|RFX5|None
+K562|IRF1|interferon-gamma
+Liver|TAF1|None
+A549|YY1|ethanol
+HEK293|eGFP-ZNF600|None
+MCF-7|ZNF579|None
+A549|ETS1|ethanol
+HEK293|eGFP-GLIS2|None
+HepG2|IKZF1|None
+K562|STAT5A|None
+GM12865|CTCF|None
+K562|MLLT1|None
+K562|ZBED1|None
+HepG2|TCF7|None
+H1-hESC|POLR2AphosphoS5|None
+K562|HDGF|None
+HEK293|eGFP-KLF1|None
+Liver|MAX|None
+GM12878|GABPA|None
+K562|TOE1|None
+HEK293|eGFP-ZNF23|None
+H1-hESC|CBX3|None
+Ishikawa|NR3C1|dexamethasone
+K562|MYC|None
+C4-2B|CTCF|None
+Hepatocyte|EZH2|None
+MCF-7|NFXL1|None
+HEK293|eGFP-ZNF658|None
+K562|DDX20|None
+K562|CREM|None
+HepG2|PLRG1|None
+K562|JUND|None
+HEK293|eGFP-INSM2|None
+K562|eGFP-MEF2D|None
+K562|LEF1|None
+HepG2|ZBTB7A|None
+HEK293|eGFP-OSR2|None
+HepG2|SIN3A|None
+K562|TRIM28|None
+HepG2|FLAG-ZNF3|None
+K562|TAF15|None
+A549|SP1|ethanol
+GM12878|EED|None
+Panc1|REST|None
+GM12892|POLR2AphosphoS5|None
+HepG2|CREB1|None
+Endothelial cell of umbilical vein|POLR2A|None
+GM12878|PKNOX1|None
+HepG2|BCLAF1|None
+K562|RAD51|None
+GM08714|ZNF274|None
+HEK293|eGFP-ZNF354C|None
+HCT116|EZH2|None
+K562|eGFP-CEBPG|None
+K562|THAP1|None
+HepG2|FLAG-DNMT3B|None
+MCF-7|ZKSCAN1|None
+GM12878|CUX1|None
+HeLa-S3|MAFF|None
+HEK293|eGFP-ZNF697|None
+GM12878|PAX5|None
+IMR-90|CEBPB|None
+GM12878|IRF5|None
+Panc1|CTCF|None
+K562|POLR2AphosphoS5|None
+A549|PHF8|None
+K562|eGFP-HINFP|None
+HepG2|FLAG-CEBPA|None
+K562|RUNX1|None
+PFSK-1|TAF1|None
+HEK293|eGFP-ZSCAN26|None
+HepG2|FLAG-ZFP64|None
+GM12878|LARP7|None
+HCT116|TCF7L2|None
+K562|EP300|None
+HepG2|FLAG-ZNF48|None
+Medulloblastoma|CTCF|None
+A549|JUND|ethanol
+GM12878|ASH2L|None
+MCF-7|HES1|None
+K562|PML|None
+K562|JUN|interferon-gamma
+HeLa-S3|TAF1|None
+HEK293|eGFP-ZNF133|None
+HepG2|FLAG-RFX3_isoform1|None
+GM13976|CTCF|None
+Ishikawa|POLR2A|dimethyl-sulfoxide
+GM12874|CTCF|None
+NT2/D1|SUZ12|None
+GM13977|CTCF|None
+GM12878|ETV6|None
+HEK293|eGFP-KLF8|None
+GM12878|EBF1|None
+HepG2|FLAG-ZNF792|None
+H1-hESC|GTF2F1|None
+HepG2|ZHX2|None
+K562|SIN3A|None
+HepG2|ATF3|None
+HEK293|eGFP-ZNF324|None
+K562|WDR5|None
+K562|MNT|None
+K562|TCF7L2|None
+HepG2|FLAG-DMAP1|None
+GM12878|CTCF|None
+GM12878|NR2F1|None
+HepG2|TOE1|None
+HEK293|eGFP-KLF7|None
+HEK293|eGFP-BCL11B|None
+A549|CTCF|dexamethasone
+HepG2|CHD2|None
+K562|HNRNPUL1|None
+K562|THRA|None
+HepG2|FLAG-KLF16|None
+GM12878|SUPT20H|None
+K562|NKRF|None
+K562|eGFP-ZKSCAN8|None
+GM12878|E2F4|None
+HepG2|FLAG-ZNF652|None
+Mammary epithelial cell|CTCF|None
+HepG2|FLAG-FOXA3|None
+K562|eGFP-PBX2|None
+MCF-7|SUZ12|None
+MCF-7|SMARCE1|None
+K562|L3MBTL2|None
+K562|POLR2AphosphoS2|None
+HepG2|NFE2L2|None
+GM12878|WHSC1|None
+K562|MTA3|None
+GM12878|IRF3|None
+HepG2|SUZ12|None
+HepG2|CEBPD|None
+K562|TRIM25|None
+HEK293|eGFP-ZBTB8A|None
+GM12878|BCLAF1|None
+HEK293|eGFP-ZBTB21|None
+GM12892|TAF1|None
+HeLa-S3|UBTF|None
+A549|TCF12|ethanol
+HepG2|CREM|None
+K562|UBTF|None
+K562|eGFP-ILK|None
+HEK293|eGFP-ZNF302|None
+HepG2|MAX|None
+A549|EHMT2|None
+MCF-7|DDX20|None
+K562|U2AF1|None
+K562|SMARCE1|None
+MCF-7|ELF1|None
+HepG2|FOXA2|None
+HepG2|HDAC1|None
+K562|NR2C1|None
+K562|FOXM1|None
+HEK293|eGFP-SP7|None
+GM12878|MEF2A|None
+MCF-7|EZH2|None
+K562|RCOR1|None
+HEK293|eGFP-ZNF521|None
+K562|RBFOX2|None
+H1-hESC|CHD1|None
+SK-N-SH|MXI1|None
+K562|E2F7|None
+K562|eGFP-ELF1|None
+K562|eGFP-ATF3|None
+HEK293|eGFP-PRDM10|None
+K562|AGO1|None
+HEK293|eGFP-ZNF274|None
+K562|DEAF1|None
+MCF-7|MBD2|None
+K562|U2AF2|None
+HEK293|eGFP-ZNF707|None
+K562|GABPA|None
+RWPE1|CTCF|None
+IMR-90|RCOR1|None
+A549|SMC3|None
+Ishikawa|ESR1|dimethyl-sulfoxide
+HepG2|GTF2F1|None
+K562|RBM17|None
+OCI-LY1|CTCF|None
+MCF-7|HDGF|None
+HEK293|eGFP-ZSCAN18|None
+Ishikawa|NR3C1|ethanol
+HCT116|ZBTB33|None
+HEK293|eGFP-ZNF211|None
+H1-hESC|USF2|None
+H1-hESC|YY1|None
+HEK293T|BHLHE40|None
+MCF-7|GATA3|None
+HepG2|CTCF|None
+IMR-90|RAD21|None
+HEK293|eGFP-ZNF792|None
+HEK293|eGFP-FEZF1|None
+K562|eGFP-PYGO2|None
+K562|ARNT|None
+K562|BHLHE40|None
+HEK293|eGFP-ZNF776|None
+K562|CDC5L|None
+MCF-7|eGFP-E2F4|None
+H1-hESC|WDR5|None
+HEK293|eGFP-ZNF610|None
+Liver|FOXA1|None
+GM12878|NFYB|None
+HEK293|eGFP-ZNF416|None
+Endothelial cell of umbilical vein|GATA2|None
+GM12878|ELK1|None
+HepG2|FLAG-ATF4|None
+MCF-7|ARID3A|None
+HepG2|YBX1|None
+MCF-7|eGFP-KLF4|None
+IMR-90|CHD1|None
+HepG2|FLAG-KAT8|None
+K562|eGFP-NR2C2|None
+A549|SREBF1|None
+K562|HDAC1|None
+Mammary epithelial cell|EZH2|None
+MCF-7|MNT|None
+GM12878|CHD1|None
+K562|MTA1|None
+HEK293|eGFP-ZNF645|None
+HeLa-S3|SUPT20H|None
+HepG2|USF1|None
+K562|CTCFL|None
+K562|MAFF|None
+HepG2|FLAG-KLF6_isoform2|None
+GM12878|EP300|None
+MCF-7|ZBTB11|None
+A549|ATF3|ethanol
+IMR-90|MAZ|None
+MCF-7|TAF1|None
+HepG2|FLAG-DRAP1|None
+GM12878|BCL3|None
+GM12878|SMARCA5|None
+GM12878|UBTF|None
+GM12878|CBFB|None
+K562|ELF4|None
+HepG2|FLAG-ZGPAT|None
+SK-N-SH|RCOR1|None
+H1-hESC|TAF7|None
+K562|SMAD1|None
+K562|CREB3L1|None
+HEK293|eGFP-ZNF112|None
+K562|HDAC2|None
+HepG2|U2AF1|None
+HEK293|eGFP-ZXDB|None
+GM12878|CHD7|None
+HepG2|FLAG-NR2F1|None
+HEK293|eGFP-BCL11A|None
+HEK293|eGFP-ZNF423|None
+HEK293|eGFP-ZNF140|None
+SH-SY5Y|GATA3|None
+K562|eGFP-TSC22D4|None
+A549|CHD1|None
+K562|MBD2|None
+HEK293T|PKNOX1|None
+HEK293|eGFP-ZNF560|None
+MCF-7|DPF2|None
+K562|ATF2|None
+HepG2|TRIM22|None
+Caco-2|CTCF|None
+HepG2|HCFC1|None
+MCF-7|BMI1|None
+K562|MYC|interferon-alpha
+K562|eGFP-TEAD2|None
+MCF-7|CTCF|None
+HEK293|eGFP-TSHZ1|None
+HEK293T|FOXA1|None
+K562|ZNF184|None
+Fibroblast of Lung|CTCF|None
+A549|USF2|None
+K562|FOXA1|None
+SH-SY5Y|GATA2|None
+GM12878|IKZF1|None
+HepG2|POLR2AphosphoS5|None
+H1-hESC|CHD2|None
+H1-hESC|CBX2|None
+H1-hESC|POLR2A|None
+HEK293|eGFP-ZNF473|None
+HEK293|eGFP-ZNF547|None
+K562|NCOR1|None
+GM12878|CBX8|None
+GM12878|NBN|None
+K562|eGFP-ZNF639|None
+GM12878|ESRRA|None
+K562|eGFP-ADNP|None
+K562|SMARCA4|None
+GM12878|TBL1XR1|None
+HEK293|eGFP-ZNF394|None
+HepG2|FLAG-SOX13_isoform1|None
+K562|eGFP-HDAC8|None
+HEK293T|HDGF|None
+SK-N-SH|SIN3A|None
+GM12878|SIX5|None
+A549|HDAC2|None
+HeLa-S3|REST|None
+H1-hESC|PAF1|None
+K562|eGFP-MAFG|None
+K562|CTBP1|None
+HepG2|FLAG-GATAD1|None
+GM12878|RBBP5|None
+HEK293|eGFP-ZFP41|None
+HepG2|MAFK|None
+HepG2|FLAG-KLF9|None
+HEK293|eGFP-ZSCAN21|None
+H1-hESC|RFX5|None
+HEK293|eGFP-ZBTB20|None
+HEK293|eGFP-PRDM6|None
+K562|E2F4|None
+MCF-7|eGFP-GABPA|None
+GM12878|NR2C1|None
+HepG2|FLAG-PAF1_isoform1|None
+Neutrophil|CTCF|None
+K562|CHAMP1|None
+HepG2|TBX3|None
+HEK293|eGFP-SALL1|None
+HepG2|FLAG-MXD3_isoform1|None
+MCF-7|NCOA3|None
+T47D|GATA3|dimethyl-sulfoxide
+GM12878|STAT1|None
+K562|ELF1|None
+HepG2|FLAG-KLF11|None
+HEK293|eGFP-GLI2|None
+HEK293|eGFP-HIC1|None
+K562|DPF2|None
+K562|BCOR|None
+MCF-7|ZNF217|None
+SK-N-MC|POLR2AphosphoS5|None
+K562|MCM2|None
+GM12891|POU2F2|None
+HEK293|eGFP-ZFP64|None
+K562|MAFK|None
+HEK293|eGFP-ZNF548|None
+HepG2|RFX1|None
+K562|NFYB|None
+H1-hESC|RAD21|None
+PC-9|EZH2|None
+K562|CC2D1A|None
+GM12878|MAX|None
+HepG2|ZKSCAN1|None
+MCF-7|SMARCA5|None
+K562|NCOA6|None
+MCF-7|NONO|None
+H1-hESC|KDM6A|None
+Fibroblast of peda digit skin|CTCF|None
+GM12878|ARID3A|None
+HepG2|FLAG-GATAD2A|None
+H1-hESC|NANOG|None
+HepG2|FLAG-RAD21|None
+K562|MYNN|None
+HepG2|ARID3A|None
+MCF-7|ZBTB7B|None
+HepG2|FLAG-THRB|None
+Liver|FOXA2|None
+GM12878|ZSCAN29|None
+GM12878|ZNF143|None
+A549|REST|None
+GM12878|BACH1|None
+A549|KDM1A|None
+K562|eGFP-ATF1|None
+HepG2|FLAG-ZNF7_isoform2|None
+A549|POLR2A|ethanol
+GM12878|PBX3|None
+H1-hESC|JUND|None
+HepG2|HDAC2|None
+HEK293|CTCF|None
+HEK293|eGFP-ZNF366|None
+HCT116|ZFX|None
+K562|eGFP-ZNF644|None
+GM12878|NKRF|None
+MCF-7|eGFP-ELF1|None
+Raji|POLR2A|None
+Epithelia cell of Esophagus|CTCF|None
+HepG2|FLAG-MIXL1|None
+MCF-7|HCFC1|None
+K562|TAL1|None
+GM12878|STAT3|None
+Liver|GABPA|None
+GM12878|ATF7|None
+HepG2|FLAG-SP5|None
+HEK293|eGFP-ZNF670|None
+HepG2|TFAP4|None
+HeLa-S3|DEK|None
+HEK293|eGFP-ZBTB7A|None
+K562|TFDP1|None
+Epithelia cell of prostate|CTCF|None
+K562|eGFP-ZFX|None
+HEK293|eGFP-ZNF680|None
+K562|ZNF263|None
+K562|NBN|None
+K562|eGFP-GATA2|None
+MCF-7|NFRKB|None
+HEK293|eGFP-ZNF524|None
+GM12878|KAT2A|None
+H1-hESC|SRF|None
+SK-N-SH|EZH2phosphoT487|None
+K562|RFX1|None
+OCI-LY1|EZH2|None
+K562|TARDBP|None
+K562|RBBP5|None
+GM12878|NFIC|None
+K562|HMBOX1|None
+MCF-7|EZH2phosphoT487|None
+K562|MCM5|None
+HEK293|eGFP-EGR2|None
+HepG2|RAD51|None
+MCF-7|TARDBP|None
+SK-N-SH|YY1|All trans retinoic acid
+HepG2|FLAG-RXRB|None
+MCF-7|ZNF592|None
+MCF-7|ZNF24|None
+HepG2|FLAG-GABPB1_isoform2|None
+A549|CBX2|None
+HepG2|FLAG-MXD4|None
+GM12878|ZEB1|None
+GM12878|POLR2A|None
+HEK293|eGFP-KLF17|None
+K562|BCLAF1|None
+GM12878|RAD21|None
+HepG2|FLAG-ZSCAN9|None
+HEK293T|FOXM1|None
+HepG2|FLAG-SSRP1|None
+MCF-7|CHD1|None
+H54|CTCF|None
+HepG2|FOSL2|None
+HEK293|eGFP-ZNF837|None
+K562|TBL1XR1|None
+HepG2|FOXK2|None
+SK-N-SH|CTCF|None
+HepG2|FLAG-TFE3|None
+HEK293|eGFP-ZNF155|None
+HEK293|eGFP-ZNF501|None
+HL-60|GABPA|None
+K562|eGFP-POLR2H|None
+H1-hESC|RBBP5|None
+Ishikawa|ESR1|estradiol
+GM12878|NFXL1|None
+MCF-7|ZBTB33|None
+HEK293|eGFP-GLI4|None
+K562|XRCC3|None
+HEK293T|SUZ12|None
+GM12878|DPF2|None
+B cell|EZH2|None
+HEK293|eGFP-MYNN|None
+HepG2|FLAG-ARID4B|None
+GM12878|JUNB|None
+K562|ZNF274|None
+MCF-7|FOS|None
+HepG2|ATM|None
+K562|eGFP-IRF1|None
+K562|SMARCA5|None
+HL-60|POLR2AphosphoS5|None
+K562|eGFP-IRF9|None
+K562|TCF7|None
+HepG2|EZH2|None
+HEK293|eGFP-ZFP3|None
+HEK293|eGFP-YY2|None
+K562|BACH1|None
+HEK293|eGFP-ZNF10|None
+K562|STAT1|interferon-alpha
+Neural cell|EP300|None
+K562|NRF1|None
+K562|eGFP-NFE2|None
+HepG2|RXRA|None
+K562|ZNF592|None
+GM12878|MEF2C|None
+HEK293|eGFP-SALL2|None
+HepG2|ZBTB40|None
+Astrocyte of the cerebellum|CTCF|None
+A549|GABPA|ethanol
+HEK293|eGFP-ZNF404|None
+Neural progenitor cell|CTCF|None
+K562|NFATC3|None
+HeLa-S3|POLR2A|None
+HepG2|SFPQ|None
+HEK293|eGFP-RBAK|None
+K562|eGFP-ID3|None
+K562|RING1|None
+HEK293|eGFP-ZBTB48|None
+H1-hESC|TAF1|None
+GM12878|MYB|None
+IMR-90|NFE2L2|None
+Bipolar neuron|SMARCA4|None
+HepG2|FLAG-SLC30A9|None
+K562|MAX|None
+GM12878|MXI1|None
+A549|SIN3A|None
+HepG2|GABPA|None
+K562|USF2|None
+HepG2|ATF2|None
+K562|eGFP-CUX1|None
+A549|SIX5|ethanol
+K562|eGFP-ZNF83|None
+HEK293|eGFP-ZNF174|None
+HEK293|eGFP-PATZ1|None
+GM12878|ZZZ3|None
+Liver|HNF4G|None
+Kidney epithelial cell|CTCF|None
+Bipolar neuron|POLR2AphosphoS5|None
+HepG2|FLAG-ZKSCAN8|None
+K562|ZBTB11|None
+HeLa-S3|MAFK|None
+HepG2|MNT|None
+K562|ZBTB5|None
+GM12878|MTA2|None
+H1-hESC|MYC|None
+Skeletal muscle myoblast|EZH2|None
+K562|USF1|None
+GM12878|KDM5A|None
+Liver|REST|None
+K562|RNF2|None
+K562|SMARCB1|None
+HEK293|eGFP-CTCF|None
+HepG2|SMC3|None
+HEK293|eGFP-ZNF280C|None
+K562|ATF7|None
+K562|TAF7|None
+GM12878|TAF1|None
+K562|ZNF24|None
+HEK293|eGFP-SCRT2|None
+H1-hESC|KDM5A|None
+MCF-7|LARP7|None
+K562|SNIP1|None
+MCF-7|ESRRA|None
+K562|SMAD2|None
+SK-N-SH|JUND|None
+MCF-7|ZFX|None
+Neural progenitor cell|EZH2phosphoT487|None
+GM12891|POLR2A|None
+A549|JUN|None
+IMR-90|MAFK|None
+HEK293T|ELF4|None
+HEK293|eGFP-ZSCAN5A|None
+GM12878|TBP|None
+GM12878|TRIM22|None
+K562|FUS|None
+HEK293|eGFP-GFI1B|None
+HEK293|eGFP-ZNF34|None
+Fibroblast of the aortic adventitia|CTCF|None
+HepG2|SP1|None
+K562|SAP30|None
+HeLa-S3|SREBF2|None
+LNCaP clone FGC|CTCF|None
+HepG2|FLAG-ZFP1_isoform1|None
+GM12878|CTBP1|None
+K562|CTCF|None
+GM12878|BHLHE40|None
+MCF-7|TRIM22|None
+HEK293|eGFP-ZNF157|None
+GM12878|TCF12|None
+SK-N-SH|TAF1|None
+GM12878|TCF7|None
+T47D|JUND|None
+H1-hESC|RNF2|None
+GM12878|SKIL|None
+GM12878|ZNF622|None
+K562|GATAD2A|None
+MCF-7|RAD51|None
+HepG2|FLAG-SOX5|None
+K562|MCM7|None
+HepG2|ZNF207|None
+K562|YBX3|None
+H1-hESC|NRF1|None
+MCF-7|TOE1|None
+A549|MAZ|None
+HepG2|FLAG-NR2F6|None
+HEK293|eGFP-ZNF350|None
+K562|FLAG-ATF1|None
+Astrocyte|CTCF|None
+K562|SREBF1|None
+HEK293|eGFP-ZNF747|None
+HepG2|NRF1|None
+HepG2|ELF1|None
+HEK293|eGFP-ZNF530|None
+Liver|YY1|None
+HepG2|SOX13|None
+GM12878|USF1|None
+HepG2|NFRKB|None
+H1-hESC|TCF12|None
+K562|SP1|None
+HepG2|RNF2|None
+K562|MCM3|None
+GM12878|CREM|None
+HepG2|POLR2A|None
+K562|STAT1|interferon-gamma
+K562|SETDB1|None
+Liver|JUND|None
+A549|FOXA1|dexamethasone
+K562|HES1|None
+GM12878|ZNF384|None
+GM12878|ZNF24|None
+HEK293|eGFP-ZNF580|None
+HEK293|eGFP-KLF9|None
+GM12878|RUNX3|None
+HEK293|eGFP-ZNF488|None
+K562|EGR1|None
+HEK293|eGFP-GLIS1|None
+MCF-7|ZNF207|None
+HEK293|eGFP-ZNF114|None
+HFF-Myc|CTCF|None
+HEK293|eGFP-KLF16|None
+K562|eGFP-ZNF24|None
+MCF-7|PKNOX1|None
+Osteoblast|CTCF|None
+BE2C|CTCF|None
+GM12878|MLLT1|None
+K562|C11orf30|None
+MCF-10A|MYC|ethanol
+K562|POLR2A|interferon-gamma
+K562|FOXK2|None
+HepG2|RAD21|None
+HEK293|eGFP-PRDM12|None
+K562|eGFP-TFDP1|None
+IMR-90|BHLHE40|None
+MCF-7|CUX1|None
+HEK293|eGFP-BCL6B|None
+HEK293|eGFP-ZNF621|None
+HEK293|eGFP-ZNF341|None
+MCF-7|ELK1|None
+HEK293|eGFP-ZNF558|None
+K562|ATF3|None
+MCF-7|ZBTB40|None
+HepG2|FLAG-RFXANK|None
+GM12878|ZNF207|None
+K562|DROSHA|None
+HepG2|SRSF1|None
+A549|BCL3|ethanol
+GM12878|JUND|None
+HEK293|eGFP-ZNF544|None
+HepG2|FLAG-ATF1|None
+IMR-90|ELK1|None
+H1-hESC|ZNF143|None
+NT2/D1|ZNF274|None
+HEK293|eGFP-PRDM4|None
+HEK293|eGFP-ZNF623|None
+K562|ZNF143|None
+GM12878|ZNF687|None
+H1-hESC|BRCA1|None
+A549|MYC|None
+LNCAP|CTCF|17'-hydroxy-5'-androstan-3-one
+K562|eGFP-ETS2|None
+MCF-7|JUN|None
+HepG2|POLR2AphosphoS2|None
+GM12878|RB1|None
+C4-2B|ZFX|None
+HeLa-S3|NFE2L2|None
+GM12878|RELB|None
+A549|NR3C1|ethanol
+HEK293|eGFP-ZNF138|None
+HEK293|eGFP-ZNF518A|None
+HEK293|eGFP-PRDM2|None
+H1-hESC|EP300|None
+K562|KDM5B|None
+K562|ZNF316|None
+Liver|HNF4A|None
+K562|SKIL|None
+K562|CBX8|None
+K562|E2F1|None
+K562|FOSL1|None
+Induced pluripotent stem cell|ETS1|None
+SK-N-SH|USF2|None
+A549|RNF2|None
+HepG2|EHMT2|None
+HepG2|GATA4|None
+HepG2|TAF1|None
+HepG2|FLAG-SMAD4_isoform1|None
+HEK293|eGFP-ZNF654|None
+H1-hESC|RING1|None
+MCF-7|PAX8|None
+GM12878|SMAD5|None
+K562|YBX1|None
+GM12878|EZH2|None
+HEK293|TRIM28|None
+K562|BMI1|None
+HepG2|PCBP1|None
+HEK293T|FOXK2|None
+T47D|FOXA1|dimethyl-sulfoxide
+K562|RB1|None
+K562|eGFP-KLF1|None
+K562|eGFP-CEBPB|None
+GM12878|ZBED1|None
+22Rv1|CTCF|None
+HepG2|REST|None
+IMR-90|USF2|None
+GM12891|YY1|None
+GM12878|HCFC1|None
+GM12878|BRCA1|None
+HEK293|eGFP-ZBTB1|None
+HEK293|eGFP-ZNF777|None
+HepG2|HNF1A|None
+K562|eGFP-DIDO1|None
+PFSK-1|POLR2AphosphoS5|None
+MCF-10A|POLR2A|ethanol
+GM12878|HDAC2|None
+MCF-7|CSDE1|None
+22Rv1|ZFX|None
+HEK293|eGFP-ZFP37|None
+K562|PHB2|None
+K562|CBFA2T3|None
+HepG2|FLAG-SAP130|None
+K562|GATAD2B|None
+GM12878|MAZ|None
+Fibroblast of Lung|EZH2|None
+Fibroblast of pulmonary artery|CTCF|None
+GM12892|YY1|None
+K562|NR2F1|None
+MCF-7|ZNF687|None
+HepG2|MAZ|None
+HeLa-S3|CTCF|None
+HepG2|JUND|None
+K562|NFE2|None
+H1-hESC|SP1|None
+HepG2|HNF4A|None
+MCF-10A|POLR2A|afimoxifene
+H1-hESC|MAFK|None
+MCF-7|MTA1|None
+HEK293T|NFRKB|None
+HepG2|ZBTB33|None
+HCT116|POLR2A|None
+HEK293|eGFP-ZNF662|None
+GM12891|SPI1|None
+Panc1|TCF7L2|None
+K562|eGFP-PTTG1|None
+K562|POLR2A|interferon-alpha
+HEK293|eGFP-ZNF781|None
+GM12878|ZNF217|None
+HepG2|FLAG-KMT2B|None
+Neural progenitor cell|EZH2|None
+GM12878|ATF2|None
+MCF-7|FOXA1|None
+K562|JUN|None
+HEK293|eGFP-ZNF292|None
+GM12878|MAFK|None
+GM12878|ZBTB33|None
+K562|HDAC6|None
+HepG2|ZNF24|None
+HepG2|BRD4|None
+HepG2|FLAG-TEAD1|None
+HEK293|eGFP-ZNF629|None
+MCF-7|GTF2F1|None
+HepG2|FLAG-MIER2|None
+HepG2|EP300|None
+HEK293|eGFP-ZSCAN16|None
+MCF-7|NBN|None
+K562|GATA1|None
+HepG2|ASH2L|None
+MCF-7|CTBP1|None
+HepG2|BHLHE40|None
+HEK293|eGFP-ZNF248|None
+HEK293|eGFP-ZNF169|None
+K562|GTF2F1|None
+GM12873|CTCF|None
+Liver|NR2F2|None
+Ishikawa|ESR1|bisphenol-A
+K562|SIN3B|None
+K562|NR2F6|None
+SK-N-SH|REST|None
+GM12878|CEBPZ|None
+K562|MYC|interferon-gamma
+GM12878|BCL11A|None
+HEK293|eGFP-ZNF571|None
+HepG2|FLAG-ZNF580|None
+HEK293T|CTBP1|None
+HEK293|eGFP-ZEB2|None
+Neural cell|POLR2AphosphoS5|None
+MCF-10A|STAT3|afimoxifene
+K562|GATA2|None
+HEK293|eGFP-ZNF280D|None
+H1-hESC|SIX5|None
+MCF-10A|FOS|ethanol
+K562|HLTF|None
+Panc1|POLR2AphosphoS5|None
+HepG2|FLAG-RCOR2|None
+HL-60|REST|None
+HepG2|FLAG-ZBTB26|None
+K562|SNRNP70|None
+K562|PKNOX1|None
+H1-hESC|CHD7|None
+HepG2|FLAG-NFYC|None
+K562|KLF16|None
+A549|CEBPB|None
+GM12878|ZBTB40|None
+K562|eGFP-ZNF507|None
+K562|eGFP-NR4A1|None
+HEK293|eGFP-REPIN1|None
+PFSK-1|FOXP2|None
+HepG2|FLAG-GMEB2|None
+HepG2|TBP|None
+Fibroblast of gingiva|CTCF|None
+K562|CBX5|None
+HeLa-S3|GABPA|None
+Liver|ZBTB33|None
+HCT116|POLR2AphosphoS5|None
+K562|CEBPZ|None
+HepG2|FOXA1|None
+K562|ZMIZ1|None
+K562|DNMT1|None
+MCF-7|NRF1|None
+H1-hESC|JUN|None
+K562|CEBPB|None
+K562|eGFP-PTRF|None
+HEK293|eGFP-OVOL3|None
+HepG2|HNRNPL|None
+K562|MITF|None
+HEK293|eGFP-SCRT1|None
+HepG2|BRCA1|None
+Erythroblast|GATA1|None
+HEK293|eGFP-ATF2|None
+HEK293|eGFP-ZEB1|None
+A549|POLR2A|dexamethasone
+HepG2|NR2F6|None
+K562|HCFC1|None
+HEK293|eGFP-ZNF146|None
+SK-N-SH|RFX5|None
+H1-hESC|ATF3|None
+K562|eGFP-ZBTB11|None
+HepG2|U2AF2|None
+K562|TBP|None
+K562|eGFP-ZNF584|None
+K562|NR2C2|None
+GM12878|YBX1|None
+K562|ETV6|None
+HEK293|eGFP-ZNF202|None
+K562|KDM1A|None
+K562|ZBTB40|None
+HEK293|ZNF263|None
+GM12878|RCOR1|None
+K562|ELK1|None
+MCF-7|MYC|None
+A549|RCOR1|None
+GM12878|TBX21|None
+T47D|ESR1|bisphenol-A
+HepG2|FLAG-BCL6_isoform1|None
+K562|TAF1|None
+K562|ZNF384|None
+Astrocyte of the spinal cord|CTCF|None
+WI38|CTCF|None
+MCF-7|GATAD2B|None
+K562|eGFP-GABPA|None
+K562|ZBTB2|None
+HEK293|eGFP-ZNF26|None
+HEK293|eGFP-WT1|None
+K562|NFXL1|None
+A549|NR3C1|dexamethasone
+HEK293|eGFP-SP3|None
+GM12878|ETS1|None
+HEK293|eGFP-ZSCAN5CP|None
+K562|NONO|None
+MCF-7|COPS2|None
+H1-hESC|TBP|None
+K562|ZBTB7A|None
+K562|KDM4B|None
+HepG2|CEBPZ|None
+Liver|CTCF|None
+K562|NFYA|None
+K562|MYBL2|None
+HEK293|eGFP-ZNF555|None
+HepG2|FLAG-THAP11|None
+A549|TAF1|ethanol
+A549|FOSL2|ethanol
+K562|SRSF1|None
+MCF-7|RFX5|None
+HepG2|FLAG-GABP|None
+HepG2|ZMYM3|None
+K562|CBX1|None
+K562|ZMYM3|None
+HepG2|FLAG-TGIF2|None
+HepG2|RFX5|None
+HEK293|eGFP-ZNF311|None
+GM12878|ZNF592|None
+MCF-7|SNIP1|None
+HEK293|eGFP-ZNF585B|None
+A549|CHD7|None
+HCT116|JUND|None
+Fibroblast of dermis|EZH2|None
+GM12878|NR2C2|None
+GM12878|REST|None
+HEK293|eGFP-ZIC2|None
+GM12878|CBX5|None
+K562|ARID2|None
+Pancreas|CTCF|None
+HepG2|KAT2B|None
+HEK293|eGFP-ZNF175|None
+HepG2|YY1|None
+Cardiac muscle cell|CTCF|None
+HepG2|FLAG-NFIL3|None
+HEK293|eGFP-ZNF639|None
+K562|eGFP-ZNF512|None
+MCF-7|SP1|None
+K562|ZHX1|None
+HEK293T|ZNF384|None
+K562|eGFP-CREB3|None
+GM12878|ARNT|None
+HepG2|ETV4|None
+HEK293|eGFP-AEBP2|None
+HEK293|eGFP-ZNF266|None
+GM12878|SIN3A|None
+HepG2|KDM1A|None
+K562|TCF12|None
+K562|CBX3|None
+HEK293|eGFP-ZNF514|None
+MCF-7|ATF7|None
+HEK293|eGFP-ZSCAN23|None
+HepG2|MAFF|None
+K562|ZC3H8|None
+T47D|ESR1|genistein
+A549|KDM5A|None
+K562|PHF8|None
+A549|CHD4|None
+HEK293|eGFP-ZBTB10|None
+GM12891|TAF1|None
+GM12878|POLR2AphosphoS5|None
+HEK293|eGFP-REST|None
+HepG2|FLAG-HOMEZ|None
+HepG2|ZNF384|None
+K562|POLR2A|None
+K562|NR2F2|None
+A549|ELK1|None
+K562|PRPF4|None
+K562|eGFP-ZNF354B|None
+K562|eGFP-TAF7|None
+K562|FLAG-PBX2|None
+GM12878|IKZF2|None
+K562|THRAP3|None
+H1-hESC|EGR1|None
+HEK293|eGFP-ZNF491|None
+HepG2|FLAG-CEBPG|None
+HEK293|eGFP-ZBTB49|None
+K562|STAT2|interferon-alpha
+HepG2|SIN3B|None
+HepG2|FLAG-KDM1A|None
+HepG2|FLAG-ZNF511|None
+GM12878|NFATC1|None
+Spleen|CTCF|None
+SK-N-SH|USF1|All trans retinoic acid
+K562|eGFP-USF2|None
+GM10248|CTCF|None
+K562|eGFP-ETV1|None
+A549|NFE2L2|None
+PC-9|CTCF|None
+A673|CTCF|None
+Bipolar neuron|SMARCA4|doxycycline-hyclate
+GM12878|USF2|None
+HepG2|FLAG-GABPA|None
+MCF-7|CTCF|17'-estradiol
+K562|eGFP-ZNF766|None
+H1-hESC|PHF8|None
+GM12878|NFYA|None
+K562|eGFP-FOSL1|None
+GM23338|POLR2AphosphoS5|None
+MCF-7|eGFP-CEBPG|None
+HepG2|FLAG-HBP1|None
+SK-N-SH|RAD21|All trans retinoic acid
+SK-N-SH|CTCF|All trans retinoic acid
+PC-3|CTCF|None
+HepG2|FLAG-PAF1|None
+HepG2|FUS|None
+HepG2|RBM22|None
+Retinal pigment epithelial cell|CTCF|None
+A549|SIN3A|ethanol
+HEK293|eGFP-ZNF426|None
+GM10266|CTCF|None
+HepG2|FLAG-ZNF7|None
+A549|POLR2AphosphoS2|None
+KMS-11|CTCF|None
+MM.1S|CTCF|None
+Bipolar neuron|CTCF|doxycycline-hyclate
+HEK293|eGFP-ZBTB17|None
+Loucy|CTCF|None
+HepG2|FLAG-ZNF644|None
+MCF-7|FLAG-RAD21|None
+HepG2|FLAG-MXD3|None
+HepG2|FLAG-HMG20B|None
+Bipolar neuron|EZH2phosphoT487|doxycycline-hyclate
+K562|ETS1|None
+HepG2|FLAG-PBX2|None
+GM12878|NRF1|None
+K562|eGFP-E2F5|None
+GM12878|NFE2|None
+HEK293|eGFP-ZBTB11|None
+HepG2|FLAG-ZFP1|None
+DOHH2|CTCF|None
+Myotube|CTCF|None
+HepG2|FLAG-KLF6|None
+HepG2|FLAG-RARA|None
+GM23338|CTCF|None
+OCI-LY7|CTCF|None
+Fibroblast of mammary gland|CTCF|None
+HepG2|FLAG-GABPB1|None
+HEK293|eGFP-ZNF362|None
+HEK293|eGFP-ZSCAN5C|None
+Epithelial cell of proximal tubule|CTCF|None
+K562|EP400|None
+Neural cell|SMC3|None
+K562|eGFP-FOXJ2|None
+HEK293|eGFP-ZBTB26|None
+SK-N-SH|IRF3|None
+HEK293|eGFP-SP2|None
+GM23338|POU5F1|None
+Neural cell|RAD21|None
+HepG2|FLAG-SOX13|None
+HEK293|eGFP-MAZ|None
+GM12878|CHD2|None
+K562|eGFP-ZNF175|None
+K562|SUZ12|None
+HepG2|FLAG-NFIA|None
+HEK293|eGFP-ZNF335|None
+HepG2|FLAG-HHEX|None
+K562|SUPT5H|None
+HEK293|eGFP-ZNF76|None
+HepG2|FLAG-PPARG|None
+HepG2|FLAG-MBD1|None
+Bipolar neuron|POLR2AphosphoS5|doxycycline-hyclate
+K562|eGFP-ZNF197|None
+Choroid plexus epithelial cell|CTCF|None
+HepG2|FLAG-RFX3|None
+HepG2|FLAG-BCL6|None
+Fibroblast of skin of abdomen|CTCF|None
+HepG2|FLAG-SMAD4|None
+Neural cell|MXI1|None
+MCF-7|eGFP-KLF9|None
+Endodermal cell|H3K4me3|None
+MM.1S|H3K4me1|None
+Neural progenitor cell|H3K4me1|None
+Breast epithelium|H3K4me3|None
+CD14 positive monocyte|H3K9ac|None
+IMR-90|H3K9ac|None
+Epithelial cell of proximal tubule|H3K4me3|None
+OCI-LY7|H3K9me2|None
+MM.1S|H3K4me3|None
+IMR-90|H3K56ac|None
+SK-N-MC|H3K27ac|None
+H1-hESC|H3K14ac|None
+HUES6|H3K4me3|None
+Endothelial cell of umbilical vein|H3K4me3|None
+Karpas-422|H3K36me3|None
+HUES6|H3K27me3|None
+Panc1|H3K27ac|None
+Mesenchymal stem cell|H3K4me2|None
+WERI-Rb-1|H3K4me3|None
+Fibroblast of arm|H3K4me1|None
+Panc1|H3K27me3|None
+ES-I3|H3K9me3|None
+Osteoblast|H3K27ac|None
+H9|H3K9ac|None
+GM06990|H3K36me3|None
+MCF-7|H3F3A|None
+OCI-LY3|H3K9ac|None
+SK-N-SH|H3F3A|None
+Fibroblast of Lung|H3K27ac|None
+Mesendoderm|H3K36me3|None
+Osteoblast|H4K20me1|None
+Fibroblast of dermis|H3K4me2|None
+SK-N-SH|H3K4me3|All trans retinoic acid
+A549|H4K20me1|ethanol
+WI38|H3K4me3|None
+ACC112|H3K27me3|None
+GM06990|H3K27me3|None
+SK-N-MC|H3K4me3|None
+NCI-H929|H3K4me1|None
+Loucy|H3K9me3|None
+Caco-2|H3K36me3|None
+IPS DF 19.11|H3K27me3|None
+Osteoblast|H2AFZ|None
+Neural cell|H3K36me3|None
+Neural cell|H3K27me3|None
+HeLa-S3|H3K9ac|None
+H1-hESC|H3K36me3|None
+GM12864|H3K4me3|None
+B cell|H3K4me3|None
+OCI-LY1|H2AFZ|None
+ES-I3|H3K4me3|None
+Trophoblast cell|H3K4me1|None
+Fibroblast of Lung|H2AFZ|None
+Bronchial epithelial cell|H3K4me3|None
+IPS DF 6.9|H3K36me3|None
+HeLa-S3|H3K27me3|None
+Adrenal gland|H3K4me1|None
+Mesendoderm|H2BK5ac|None
+IMR-90|H2BK120ac|None
+Endothelial cell of umbilical vein|H3K9me3|None
+SK-N-MC|H3K9ac|None
+Mesenchymal stem cell|H2BK5ac|None
+KMS-11|H3K79me2|None
+HCT116|H3K27ac|None
+OCI-LY1|H4K20me1|None
+OCI-LY3|H3K4me3|None
+Mesendoderm|H3K79me2|None
+Neural progenitor cell|H3K4me2|None
+B cell|H4K20me1|None
+OCI-LY3|H2AFZ|None
+Mammary epithelial cell|H4K20me1|None
+Mononuclear cell|H3K4me3|None
+OCI-LY3|H3K4me2|None
+IPS DF 6.9|H3K27me3|None
+Fibroblast of gingiva|H3K4me3|None
+DND-41|H3K79me2|None
+PC-3|H3K4me2|None
+Fibroblast of peda digit skin|H3K4me3|None
+PC-9|H3K4me3|None
+HCT116|H3K9me2|None
+DOHH2|H3K79me2|None
+Neural stem progenitor cell|H3K4me3|None
+Astrocyte|H3K27ac|None
+DND-41|H3K36me3|None
+IMR-90|H3K23ac|None
+Loucy|H4K20me1|None
+DOHH2|H3K9me2|None
+GM12878|H3K4me2|None
+CD14 positive monocyte|H3K27me3|None
+IPS 20b|H3K4me3|None
+DOHH2|H3K4me1|None
+Mammary epithelial cell|H3K9me3|None
+PC-3|H3K27ac|None
+OCI-LY7|H3K4me3|None
+Cardiac muscle cell|H3K27me3|None
+SUDHL6|H3K27me3|None
+HFF-Myc|H3K4me3|None
+VCaP|H3K27ac|None
+Fibroblast of Lung|H3K4me1|None
+PC-3|H3K27me3|None
+Caco-2|H3K27me3|None
+Vagina|H3K27ac|None
+IMR-90|H2BK12ac|None
+PC-9|H3F3A|None
+Neural stem progenitor cell|H3K23ac|None
+PC-9|H3K9ac|None
+H1-hESC|H3K4me1|None
+Loucy|H3F3A|None
+Neural cell|H3K9ac|None
+NCI-H929|H3K4me3|None
+H9|H3K18ac|None
+Skeletal muscle myoblast|H3K36me3|None
+OCI-LY3|H3K27me3|None
+DND-41|H3K27ac|None
+Loucy|H3K79me2|None
+Fibroblast of Lung|H3K4me2|None
+Fibroblast of dermis|H3K9me3|None
+CD14 positive monocyte|H4K20me1|None
+Mesenchymal stem cell|H3K4me3|None
+Hepatocyte|H3K9me3|None
+Mesendoderm|H3K4me2|None
+Right lobe of Liver|H3K27ac|None
+Cardiac muscle cell|H3K9me3|None
+IPS DF 19.11|H3K4me1|None
+H1-hESC|H3K23ac|None
+Trophoblast cell|H3K9me3|None
+Neuroepithelial stem cell|H3K27ac|None
+MCF-7|H3K4me2|None
+MCF-7|H3K9me3|None
+Muscle of leg|H3K9me3|None
+Skeletal muscle myoblast|H3K4me1|None
+Karpas-422|H2AFZ|None
+Mesendoderm|H3K27me3|None
+PC-3|H4K20me1|None
+ACC112|H3K36me3|None
+DND-41|H4K20me1|None
+Cardiac muscle cell|H3K36me3|None
+HUES64|H3K9ac|None
+CD14 positive monocyte|H3K79me2|None
+Smooth muscle cell|H2AFZ|None
+SK-N-SH|H4K20me1|None
+Neuroepithelial stem cell|H3K4me3|None
+H1-hESC|H3K79me1|None
+HCT116|H3K4me1|None
+IPS DF 19.11|H3K9me3|None
+H9|H2AK5ac|None
+DND-41|H3K9me3|None
+HEK293|H3K9me3|None
+Karpas-422|H3K9me2|None
+Kidney epithelial cell|H3K4me3|None
+NCI-H929|H3K4me2|None
+Mesendoderm|H3K4me3|None
+HepG2|H3K4me2|None
+ES-I3|H3K9ac|None
+HCT116|H3K9ac|None
+Mesenchymal stem cell|H3K27me3|None
+ES-I3|H3K4me1|None
+Trophoblast cell|H3K18ac|None
+Myotube|H3K79me2|None
+Fibroblast of arm|H4K20me1|None
+IMR-90|H3K4me3|None
+HCT116|H3K4me2|None
+Gastrocnemius medialis|H3K9me3|None
+Thyroid gland|H3K4me3|None
+HUES48|H3K4me1|None
+PC-3|H3K9me2|None
+KMS-11|H2AFZ|None
+KOPT-K1|H3K36me3|None
+Skeletal muscle cell|H3K4me3|None
+HepG2|H3K4me1|None
+A549|H3K4me3|ethanol
+Fibroblast of arm|H2AFZ|None
+H1-hESC|H3K23me2|None
+Neuroepithelial stem cell|H3K36me3|None
+NCI-H929|H2AFZ|None
+A549|H3K4me2|ethanol
+Foreskin fibroblast|H3K36me3|None
+H9|H4K5ac|None
+WI38|H3K4me3|afimoxifene
+Induced pluripotent stem cell|H2AFZ|None
+Cardiac mesoderm|H3K4me3|None
+H1-hESC|H2BK12ac|None
+HUES64|H3K4me1|None
+MM.1S|H3K27me3|None
+Trophoblast cell|H3K23ac|None
+U2OS|H3K9me3|None
+H7-hESC|H3K27me3|None
+Gastrocnemius medialis|H3K27me3|None
+HCT116|H4K20me1|None
+Neural progenitor cell|H3F3A|None
+Neuroepithelial stem cell|H3K4me1|None
+IPS 20b|H3K27me3|None
+Mid neurogenesis radial glial cells|H3K4me1|None
+SK-N-SH|H3K27me3|None
+Trophoblast cell|H2AFZ|None
+Endothelial cell of umbilical vein|H3K36me3|None
+Endodermal cell|H3K27ac|None
+Mononuclear cell|H3K4me1|None
+NT2/D1|H3K9me3|None
+KOPT-K1|H3K27ac|None
+IMR-90|H3K4me1|None
+Heart left ventricle|H3K36me3|None
+Caco-2|H3K4me3|None
+MM.1S|H3K27ac|None
+Mid neurogenesis radial glial cells|H3K9me3|None
+Radial glial cell|H3K4me3|None
+Mesendoderm|H3K9ac|None
+Neural cell|H3F3A|None
+Gastrocnemius medialis|H3K4me1|None
+K562|H3K27ac|None
+H7-hESC|H3K36me3|None
+Myotube|H3K4me3|None
+GM12878|H3K36me3|None
+Hepatocyte|H2AFZ|None
+Mesenchymal stem cell|H2AK5ac|None
+H7-hESC|H3K4me3|None
+Fibroblast of dermis|H3K4me1|None
+PC-9|H3K79me2|None
+Induced pluripotent stem cell|H3K4me3|None
+Karpas-422|H3K9me3|None
+PC-9|H3K9me3|None
+Large intestine|H3K36me3|None
+Smooth muscle cell|H3K9ac|None
+A673|H3K36me3|None
+H9|H3K79me2|None
+Neural cell|H3K4me2|None
+IMR-90|H3K36me3|None
+Thoracic Aorta|H3K4me3|None
+OCI-LY1|H3K4me3|None
+Endothelial cell of umbilical vein|H3K79me2|None
+H1-hESC|H3K27me3|None
+Panc1|H3K4me1|None
+Brain microvascular endothelial cell|H3K4me3|None
+DOHH2|H3K27me3|None
+Neutrophil|H3K4me1|None
+IMR-90|H3K79me2|None
+H9|H3K14ac|None
+SUDHL6|H3K9me2|None
+IMR-90|H3K27ac|None
+IPS 20b|H3K9ac|None
+Loucy|H3K4me1|None
+Fibroblast of Lung|H3K9me3|None
+H9|H3K4me2|None
+Fibroblast of villous mesenchyme|H3K4me3|None
+PC-9|H3K4me1|None
+Bipolar neuron|H3K27me3|None
+Radial glial cell|H3K4me1|None
+Neural progenitor cell|H3K27me3|None
+Keratinocyte|H3K9me3|None
+Mononuclear cell|H3K9me3|None
+Kidney epithelial cell|H3K36me3|None
+Mesendoderm|H3K79me1|None
+Induced pluripotent stem cell|H3K27me3|None
+OCI-LY7|H2AFZ|None
+DOHH2|H3K4me3|None
+HepG2|H3K36me3|None
+Fibroblast of Lung|H3K9ac|None
+HeLa-S3|H3K4me1|None
+SK-N-SH|H3K27me3|All trans retinoic acid
+SK-N-MC|H3K4me1|None
+Adrenal gland|H3K36me3|None
+Skeletal muscle myoblast|H3K9me3|None
+Esophagus squamous epithelium|H3K4me3|None
+IPS 20b|H3K4me1|None
+Cardiac muscle cell|H3K4me3|None
+Hepatocyte|H4K20me1|None
+Body of Pancreas|H3K36me3|None
+KMS-11|H3K4me3|None
+Fibroblast of arm|H3K27me3|None
+SK-N-SH|H3K4me2|None
+IMR-90|H2BK20ac|None
+PC-3|H3K4me3|None
+Osteoblast|H3K27me3|None
+NT2/D1|H3K27me3|None
+CD14 positive monocyte|H3K4me1|None
+K562|H3K4me1|None
+CD14 positive monocyte|H2AFZ|None
+Peyer's-patch|H3K4me3|None
+Mammary epithelial cell|H3K4me1|None
+SK-N-SH|H3K4me1|None
+OCI-LY3|H3K9me3|None
+RWPE1|H3K27ac|None
+B cell|H3K27ac|None
+OCI-LY3|H3K79me2|None
+OCI-LY7|H4K20me1|None
+Fibroblast of arm|H3K9me2|None
+H9|H3K9me3|None
+Fibroblast of dermis|H2AFZ|None
+A673|H3K9me3|None
+Hepatocyte|H3K9ac|None
+Mesendoderm|H3K27ac|None
+Karpas-422|H3K4me1|None
+HUES64|H3K4me3|None
+Mesendoderm|H2AK5ac|None
+PC-9|H3K27me3|None
+Radial glial cell|H3K36me3|None
+Myotube|H3K27ac|None
+Hepatocyte|H3K9me2|None
+DOHH2|H3K36me3|None
+H1-hESC|H4K5ac|None
+Esophagus muscularis mucosa|H3K4me3|None
+SK-N-SH|H3K4me3|None
+Trophoblast cell|H2BK12ac|None
+IMR-90|H3K27me3|None
+Neural stem progenitor cell|H3K36me3|None
+Loucy|H3K4me3|None
+Fibroblast of arm|H3F3A|None
+GM06990|H3K4me3|None
+B cell|H3K9ac|None
+Body of Pancreas|H3K4me3|None
+H1-hESC|H2BK120ac|None
+MCF-7|H3K27ac|None
+Mesendoderm|H3K18ac|None
+PC-3|H3K9me3|None
+Vagina|H3K4me3|None
+Keratinocyte|H3K36me3|None
+Osteoblast|H3K4me3|None
+Skeletal muscle myoblast|H3K79me2|None
+Bronchial epithelial cell|H3K36me3|None
+H9|H3K23me2|None
+Neural progenitor cell|H3K9ac|None
+SK-N-MC|H3K27me3|None
+Adrenal gland|H3K9me3|None
+PC-3|H3K9ac|None
+H9|H3K79me1|None
+KMS-11|H3K27ac|None
+Hepatocyte|H3K4me1|None
+Gastrocnemius medialis|H3K27ac|None
+B cell|H3K36me3|None
+A549|H3K4me1|ethanol
+A549|H3K27ac|ethanol
+Neutrophil|H3K4me3|None
+KMS-11|H3K27me3|None
+Trophoblast cell|H3K36me3|None
+Mid neurogenesis radial glial cells|H3K27ac|None
+Smooth muscle cell|H4K20me1|None
+OCI-LY1|H3K27ac|None
+Hepatocyte|H3K4me2|None
+Thyroid gland|H3K27me3|None
+MCF-7|H3K4me3|None
+NT2/D1|H3K9ac|None
+SK-N-SH|H3K79me2|None
+Cardiac muscle cell|H3K4me1|None
+Karpas-422|H3K4me3|None
+GM12878|H3K9ac|None
+Neural stem progenitor cell|H3K4me3|None
+MM.1S|H2AFZ|None
+SK-N-SH|H3K9me2|None
+Induced pluripotent stem cell|H3K9me2|None
+Osteoblast|H3K36me3|None
+MCF-7|H3K9me2|None
+Mononuclear cell|H3K27me3|None
+Neural cell|H3K9me2|None
+H1-hESC|H3K56ac|None
+H9|H4K8ac|None
+LNCaP clone FGC|H3K4me3|None
+HepG2|H3K9me3|None
+Endothelial cell of umbilical vein|H3K27ac|None
+Choroid plexus epithelial cell|H3K4me3|None
+Bipolar neuron|H3K79me2|None
+SK-N-SH|H3K9me3|None
+Neural cell|H3K27ac|None
+HeLa-S3|H3K36me3|None
+Hepatocyte|H3K27me3|None
+Neural cell|H2AFZ|None
+SK-N-SH|H3K27ac|None
+Keratinocyte|H3K27me3|None
+Smooth muscle cell|H3K4me1|None
+IMR-90|H3K9me1|None
+HUES48|H3K4me3|None
+Neural cell|H3K4me3|None
+Fibroblast of upper leg skin|H3K4me3|None
+Epithelia cell of Esophagus|H3K4me3|None
+Neural progenitor cell|H3K79me2|None
+IMR-90|H3K14ac|None
+Mid neurogenesis radial glial cells|H3K4me3|None
+PC-3|H3K36me3|None
+Induced pluripotent stem cell|H3K27ac|None
+Fibroblast of mammary gland|H3K4me3|None
+H9|H3K27ac|None
+Endodermal cell|H3K4me1|None
+H1-hESC|H3K4me3|None
+Trophoblast cell|H2BK120ac|None
+Induced pluripotent stem cell|H3K9me3|None
+Neural stem progenitor cell|H3K9me3|None
+SK-N-MC|H3K9me3|None
+IMR-90|H4K8ac|None
+Bipolar neuron|H3K9me3|None
+Osteoblast|H3K4me2|None
+Bipolar neuron|H3K36me3|None
+Fibroblast of arm|H3K36me3|None
+Bipolar neuron|H4K20me1|None
+B cell|H3K4me1|None
+IPS DF 19.11|H3K36me3|None
+H9|H2BK12ac|None
+OCI-LY1|H3K4me2|None
+Neutrophil|H3K27me3|None
+Fibroblast of the aortic adventitia|H3K4me3|None
+Karpas-422|H3K27me3|None
+Endodermal cell|H3K9ac|None
+Astrocyte|H3K9ac|None
+Myotube|H3K9me3|None
+SK-N-SH|H3K36me3|None
+A673|H3K27ac|None
+PC-9|H3K4me2|None
+HeLa-S3|H3K4me2|None
+Thoracic Aorta|H3K36me3|None
+MCF-7|H4K20me1|None
+SUDHL6|H3K36me3|None
+Neutrophil|H3K36me3|None
+OCI-LY3|H3K4me1|None
+OCI-LY7|H3K36me3|None
+DOHH2|H3F3A|None
+H1-hESC|H3K18ac|None
+IMR-90|H3K4ac|None
+IMR-90|H3K18ac|None
+HCT116|H3K36me3|None
+CD14 positive monocyte|H3K36me3|None
+HEK293|H3K4me1|None
+Bipolar neuron|H3K4me2|None
+Myotube|H3K27me3|None
+Body of Pancreas|H3K27ac|None
+Mid neurogenesis radial glial cells|H3K27me3|None
+IMR-90|H2AFZ|None
+Trophoblast cell|H3K4me2|None
+HCT116|H3K27me3|None
+Neural stem progenitor cell|H3K4me1|None
+NT2/D1|H3K36me3|None
+Smooth muscle cell|H3K27me3|None
+Gastroesophagea sphincter|H3K4me1|None
+Karpas-422|H3K79me2|None
+Large intestine|H3K27me3|None
+Fibroblast of arm|H3K27ac|None
+Neural progenitor cell|H4K20me1|None
+A673|H3K4me1|None
+A549|H3K79me2|ethanol
+K562|H3K27me3|None
+Fibroblast of arm|H3K4me3|None
+Neural progenitor cell|H3K9me3|None
+Bipolar neuron|H3K4me1|None
+Loucy|H2AFZ|None
+A549|H3K27ac|dexamethasone
+HUES64|H3K36me3|None
+Mammary epithelial cell|H3K27me3|None
+MCF-7|H3K27me3|None
+OCI-LY7|H3K27ac|None
+Induced pluripotent stem cell|H4K20me1|None
+Loucy|H3K36me3|None
+H9|H3K4ac|None
+IPS DF 19.11|H3K27ac|None
+IMR-90|H3K79me1|None
+K562|H3K79me2|None
+OCI-LY1|H3K27me3|None
+Fibroblast of dermis|H3K27ac|None
+Keratinocyte|H3K4me3|None
+Loucy|H3K4me2|None
+Mammary epithelial cell|H3K79me2|None
+Hepatocyte|H3K36me3|None
+H1-hESC|H2BK20ac|None
+B cell|H2AFZ|None
+K562|H3K9ac|None
+SUDHL6|H3K27ac|None
+Adrenal gland|H3K27ac|None
+DOHH2|H4K20me1|None
+GM08714|H3K4me3|None
+H9|H2BK5ac|None
+Bipolar neuron|H2AFZ|None
+H9|H3K36me3|None
+OCI-LY3|H3K27ac|None
+OCI-LY3|H3K36me3|None
+Smooth muscle cell|H3K27ac|None
+Endodermal cell|H3K27me3|None
+Osteoblast|H3K4me1|None
+Karpas-422|H4K20me1|None
+Fibroblast of dermis|H3K27me3|None
+GM12878|H2AFZ|None
+A549|H3K9me3|ethanol
+HeLa-S3|H3K79me2|None
+Loucy|H3K9me2|None
+KMS-11|H3K9ac|None
+MCF-7|H2AFZ|None
+22Rv1|H3K27ac|17'-hydroxy-5'-androstan-3-one
+Mammary epithelial cell|H3K27ac|None
+GM12878|H3K27me3|None
+SUDHL6|H4K20me1|None
+Trophoblast cell|H3K27me3|None
+OCI-LY1|H3K9ac|None
+PC-3|H3K4me1|None
+Karpas-422|H3K4me2|None
+OCI-LY1|H3K36me3|None
+NCI-H929|H3K36me3|None
+H1-hESC|H3K4ac|None
+Keratinocyte|H3K27ac|None
+CD14 positive monocyte|H3K9me3|None
+Smooth muscle cell|H3K9me3|None
+Astrocyte|H3K4me3|None
+A549|H3K9ac|ethanol
+Right lobe of Liver|H3K4me3|None
+SK-N-SH|H3K36me3|All trans retinoic acid
+OCI-LY7|H3K9me3|None
+OCI-LY1|H3K4me1|None
+Skeletal muscle myoblast|H3K4me3|None
+Thymus|H3K27me3|None
+H1-hESC|H4K91ac|None
+OCI-LY3|H4K20me1|None
+Coronary artery|H3K4me3|None
+Cardiac fibroblast|H3K4me3|None
+IMR-90|H4K5ac|None
+A549|H3K4me3|dexamethasone
+IMR-90|H3K4me2|None
+Fibroblast of arm|H3K79me2|None
+Myotube|H3K9ac|None
+IMR-90|H2AK9ac|None
+DND-41|H3K27me3|None
+K562|H3K4me2|None
+Loucy|H3K9ac|None
+H1-hESC|H2AK5ac|None
+MM.1S|H3K9me2|None
+KMS-11|H3K9me3|None
+IMR-90|H4K20me1|None
+ACC112|H3K4me3|None
+Smooth muscle cell|H3K4me2|None
+DOHH2|H3K27ac|None
+IPS 20b|H3K36me3|None
+NCI-H929|H3K79me2|None
+C4-2B|H3K27ac|None
+H1-hESC|H3K27ac|None
+Thoracic Aorta|H3K27ac|None
+H9|H3K27me3|None
+KMS-11|H3K9me2|None
+Hepatocyte|H3K4me3|None
+DND-41|H3K9ac|None
+MM.1S|H3K36me3|None
+OCI-LY7|H3K4me1|None
+Fibroblast of dermis|H3K79me2|None
+HepG2|H3K9ac|None
+IMR-90|H2BK5ac|None
+Neural progenitor cell|H2AFZ|None
+PC-3|H2AFZ|None
+Mammary epithelial cell|H3K4me3|None
+K562|H3K36me3|None
+HeLa-S3|H2AFZ|None
+Endothelial cell of umbilical vein|H2AFZ|None
+HeLa-S3|H3K4me3|None
+Radial glial cell|H3K9me3|None
+Mammary epithelial cell|H3K36me3|None
+Trophoblast cell|H3K79me2|None
+GM12878|H3K4me3|None
+Karpas-422|H3K9ac|None
+HepG2|H4K20me1|None
+Neural stem progenitor cell|H3K4ac|None
+A549|H3K27me3|ethanol
+SK-N-SH|H3K9ac|None
+Mesendoderm|H2BK15ac|None
+HeLa-S3|H4K20me1|None
+HeLa-S3|H3K9me3|None
+GM12878|H4K20me1|None
+Jurkat-clone-E61|H3K4me3|None
+HEK293|H3K27ac|None
+RWPE2|H3K27ac|None
+IPS 20b|H3K9me3|None
+Mesenchymal stem cell|H3K9ac|None
+Mesendoderm|H2BK120ac|None
+Neural cell|H4K20me1|None
+HEK293|H3K4me3|None
+MCF-7|H3K9ac|None
+HUES64|H3K27me3|None
+HepG2|H3K27ac|None
+Bipolar neuron|H3K4me3|None
+Trophoblast cell|H3K9ac|None
+DND-41|H3K4me1|None
+ACC112|H3K27ac|None
+Neural progenitor cell|H3K4me3|None
+IMR-90|H4K91ac|None
+Radial glial cell|H3K27ac|None
+HL-60|H3K4me3|None
+Skeletal muscle myoblast|H2AFZ|None
+NCI-H929|H3F3A|None
+DND-41|H3K4me2|None
+Bronchial epithelial cell|H3K27me3|None
+IMR-90|H2AK5ac|None
+Retinal pigment epithelial cell|H3K4me3|None
+Endothelial cell of umbilical vein|H3K27me3|None
+Myotube|H2AFZ|None
+CD14 positive monocyte|H3K4me2|None
+H1-hESC|H4K20me1|None
+MM.1S|H3K4me2|None
+Osteoblast|H3K9me3|None
+H9|H3K4me1|None
+HUES6|H3K36me3|None
+Mammary epithelial cell|H3K9ac|None
+Skeletal muscle myoblast|H4K20me1|None
+Skeletal muscle myoblast|H3K27me3|None
+Mesenchymal stem cell|H3K79me1|None
+Fibroblast of pulmonary artery|H3K4me3|None
+Skeletal muscle myoblast|H3K4me2|None
+K562|H2AFZ|None
+HCT116|H3K4me3|None
+H1-hESC|H3K79me2|None
+Myotube|H3K4me1|None
+OCI-LY7|H3K4me2|None
+HCT116|H3K9me3|None
+PC-9|H3K36me3|None
+Keratinocyte|H3K79me2|None
+OCI-LY1|H3K9me3|None
+Thyroid gland|H3K36me3|None
+Myotube|H3K4me2|None
+A549|H3K4me3|None
+Induced pluripotent stem cell|H3K9ac|None
+SUDHL6|H3K4me2|None
+Loucy|H3K27ac|None
+Gastrocnemius medialis|H3K4me3|None
+HUES48|H3K9me3|None
+Smooth muscle cell|H3K36me3|None
+Induced pluripotent stem cell|H3K36me3|None
+Trophoblast cell|H2BK5ac|None
+A673|H3K27me3|None
+Hepatocyte|H3K27ac|None
+Fibroblast of Lung|H3K36me3|None
+KMS-11|H3K4me2|None
+Thoracic Aorta|H3K9me3|None
+Bipolar neuron|H3F3A|None
+Induced pluripotent stem cell|H3K4me2|None
+Mammary epithelial cell|H2AFZ|None
+Hepatocyte|H3K79me2|None
+Endothelial cell of umbilical vein|H3K4me2|None
+SUDHL6|H3F3A|None
+Kidney epithelial cell|H3K27me3|None
+Neural stem progenitor cell|H2AK5ac|None
+Fibroblast of Lung|H3K4me3|None
+Bipolar neuron|H3K9me2|None
+Induced pluripotent stem cell|H3K79me2|None
+DOHH2|H3K4me2|None
+Neural stem progenitor cell|H2BK120ac|None
+Fibroblast of Lung|H3K27me3|None
+Foreskin fibroblast|H3K4me3|None
+SUDHL6|H2AFZ|None
+IPS DF 6.9|H3K4me3|None
+Astrocyte|H4K20me1|None
+Smooth muscle cell|H3F3A|None
+Astrocyte of the cerebellum|H3K4me3|None
+Trophoblast cell|H4K12ac|None
+Karpas-422|H3K27ac|None
+H9|H2BK15ac|None
+Endodermal cell|H3K9me3|None
+Keratinocyte|H2AFZ|None
+KMS-11|H3K4me1|None
+HUES48|H3K36me3|None
+SUDHL6|H3K9ac|None
+Cardiac muscle cell|H3K27ac|None
+Astrocyte of the spinal cord|H3K4me3|None
+NT2/D1|H3K4me1|None
+GM12865|H3K4me3|None
+PC-9|H3K27ac|None
+Mesendoderm|H3K4me1|None
+Trophoblast cell|H3K27ac|None
+PC-9|H3K9me2|None
+Induced pluripotent stem cell|H3F3A|None
+Body of Pancreas|H3K9me3|None
+DND-41|H2AFZ|None
+IMR-90|H3K9me3|None
+Fibroblast of Lung|H3K79me2|None
+Thoracic Aorta|H3K27me3|None
+Neutrophil|H3K27ac|None
+HepG2|H3K27me3|None
+HepG2|H3K4me3|None
+HUES48|H3K27me3|None
+H1-hESC|H2BK15ac|None
+A549|H2AFZ|ethanol
+Induced pluripotent stem cell|H3K4me1|None
+KMS-11|H3K36me3|None
+Mesenchymal stem cell|H3K9me3|None
+BE2C|H3K4me3|None
+Epithelia cell of prostate|H3K27ac|None
+NT2/D1|H3K4me3|None
+HUES6|H3K9me3|None
+HeLa-S3|H3K27ac|None
+Thyroid gland|H3K4me1|None
+22Rv1|H3K27ac|None
+Panc1|H3K36me3|None
+A673|H3K4me3|None
+H9|H3K56ac|None
+GM12878|H3K79me2|None
+Neural stem progenitor cell|H3K27ac|None
+Fibroblast of skin of abdomen|H3K4me3|None
+Mesenchymal stem cell|H3K4me1|None
+Thyroid gland|H3K27ac|None
+IPS DF 6.9|H3K4me1|None
+Cardiac mesoderm|H3K27me3|None
+PC-9|H2AFZ|None
+Thyroid gland|H3K9me3|None
+Gastroesophagea sphincter|H3K4me3|None
+Skeletal muscle myoblast|H3K27ac|None
+KOPT-K1|H3K9me3|None
+H1-hESC|H3K9me3|None
+DOHH2|H2AFZ|None
+Myotube|H3K36me3|None
+PC-9|H4K20me1|None
+DND-41|H3K4me3|None
+Osteoblast|H3K79me2|None
+CD14 positive monocyte|H3K4me3|None
+HUES48|H3K9ac|None
+Trophoblast cell|H3K14ac|None
+Fibroblast of arm|H3K9ac|None
+Loucy|H3K27me3|None
+SUDHL6|H3K4me3|None
+IPS DF 6.9|H3K9me3|None
+Panc1|H3K4me3|None
+SK-N-SH|H2AFZ|None
+MM.1S|H4K20me1|None
+K562|H3K4me3|None
+Fibroblast of dermis|H3K4me3|None
+Neutrophil|H3K9me3|None
+Trophoblast cell|H4K8ac|None
+Skeletal muscle myoblast|H3K9ac|None
+MM.1S|H3K9me3|None
+Mammary epithelial cell|H3K4me2|None
+B cell|H3K4me2|None
+ES-I3|H3K36me3|None
+NCI-H929|H3K9ac|None
+Neural progenitor cell|H3K36me3|None
+K562|H3K9me3|None
+Neural stem progenitor cell|H2BK15ac|None
+KMS-11|H4K20me1|None
+Trophoblast cell|H2AK5ac|None
+GM12878|H3K27ac|None
+Gastrocnemius medialis|H3K36me3|None
+Neural stem progenitor cell|H3K27me3|None
+Mesenchymal stem cell|H3K27ac|None
+MM.1S|H3K9ac|None
+OCI-LY1|H3F3A|None
+Thoracic Aorta|H3K4me1|None
+HCT116|H2AFZ|None
+H1-hESC|H4K8ac|None
+H1-hESC|H2BK5ac|None
+H1-hESC|H3K4me2|None
+Smooth muscle cell|H3K4me3|None
+Mesenchymal stem cell|H3K36me3|None
+B cell|H3K27me3|None
+Neural progenitor cell|H3K27ac|None
+Myotube|H4K20me1|None
+Neural cell|H3K9me3|None
+Cardiac mesoderm|H3K36me3|None
+HEK293|H3K36me3|None
+GM12878|H3K4me1|None
+SUDHL6|H3K9me3|None
+H9|H3K23ac|None
+Body of Pancreas|H3K4me1|None
+IPS DF 19.11|H3K4me3|None
+Foreskin fibroblast|H3K27me3|None
+CD14 positive monocyte|H3K27ac|None
+H9|H4K91ac|None
+MCF-7|H3K4me1|None
+Smooth muscle cell|H3K79me2|None
+Bipolar neuron|H3K27ac|None
+HUES6|H3K4me1|None
+Trophoblast cell|H3K4me3|None
+H9|H3K4me3|None
+MM.1S|H3F3A|None
+IMR-90|H2BK15ac|None
+DOHH2|H3K9me3|None
+Trophoblast cell|H3K4ac|None
+Neural stem progenitor cell|H3K18ac|None
+Fibroblast of dermis|H3K9ac|None
+H1-hESC|H3K9ac|None
+HUES64|H3K9me3|None
+HepG2|CpG|None
+Esophagus|CHH|None
+Heart right ventricle|CpG|None
+Adipose tissue|CpG|None
+Fibroblast of arm|CHG|None
+Psoas muscle|CpG|None
+IPS DF 6.9|CHH|None
+Urinary bladder|CHG|None
+Ovary|CHH|None
+Mammary epithelial cell|CHH|None
+Adipose tissue|CHG|None
+Neural stem progenitor cell|CHG|None
+Ovary|CHG|None
+H9|CpG|None
+Stomach|CHH|None
+Thymus|CpG|None
+Heart right ventricle|CHH|None
+Esophagus|CHG|None
+IMR-90|CpG|None
+Mesendoderm|CHH|None
+Large intestine|CHH|None
+Right cardiac atrium|CpG|None
+Fibroblast of arm|CpG|None
+H1-hESC|CHG|None
+Mesenchymal stem cell|CHG|None
+Aorta|CHG|None
+Aorta|CpG|None
+Small intestine|CHG|None
+Spleen|CpG|None
+Smooth muscle cell|CpG|None
+Fibroblast of arm|CHH|None
+Lung|CHH|None
+IMR-90|CHH|None
+H1-hESC|CpG|None
+Ovary|CpG|None
+Psoas muscle|CHH|None
+Neural stem progenitor cell|CpG|None
+IPS DF 6.9|CHG|None
+Pancreas|CHG|None
+Hepatocyte|CHH|None
+Heart right ventricle|CHG|None
+Trophoblast cell|CHG|None
+K562|CHH|None
+Hepatocyte|CHG|None
+Skeletal muscle myoblast|CpG|None
+Mammary epithelial cell|CHG|None
+Small intestine|CpG|None
+Sigmoid colon|CHH|None
+Spleen|CHG|None
+HepG2|CHH|None
+Right cardiac atrium|CHH|None
+Right cardiac atrium|CHG|None
+Stomach|CHG|None
+Heart left ventricle|CHG|None
+Adrenal gland|CHH|None
+Pancreas|CHH|None
+H9|CHH|None
+Mesendoderm|CHG|None
+Smooth muscle cell|CHH|None
+Pancreas|CpG|None
+IPS DF 19.11|CHG|None
+Muscle of leg|CHH|None
+Trophoblast cell|CHH|None
+Skeletal muscle myoblast|CHG|None
+Heart left ventricle|CpG|None
+Neural stem progenitor cell|CHH|None
+Thymus|CHG|None
+H1-hESC|CHH|None
+Spleen|CHH|None
+Aorta|CHH|None
+GM12878|CHG|None
+K562|CHG|None
+IPS DF 19.11|CHH|None
+Mesenchymal stem cell|CpG|None
+Mammary epithelial cell|CpG|None
+Adrenal gland|CpG|None
+Trophoblast cell|CpG|None
+H9|CHG|None
+Adipose tissue|CHH|None
+Mesendoderm|CpG|None
+Sigmoid colon|CHG|None
+GM12878|CHH|None
+Heart left ventricle|CHH|None
+Psoas muscle|CHG|None
+Stomach|CpG|None
+Esophagus|CpG|None
+GM12878|CpG|None
+Mesenchymal stem cell|CHH|None
+K562|CpG|None
+Muscle of leg|CHG|None
+IPS DF 19.11|CpG|None
+Urinary bladder|CpG|None
+IPS DF 6.9|CpG|None
+Lung|CpG|None
+HepG2|CHG|None
+Urinary bladder|CHH|None
+Small intestine|CHH|None
+Sigmoid colon|CpG|None
+Smooth muscle cell|CHG|None
+Large intestine|CpG|None
+Skeletal muscle myoblast|CHH|None
+IMR-90|CHG|None
+Adrenal gland|CHG|None
+Hepatocyte|CpG|None
+Muscle of leg|CpG|None
+Large intestine|CHG|None
+Lung|CHG|None
+Thymus|CHH|None

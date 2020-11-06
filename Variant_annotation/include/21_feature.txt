@@ -1,0 +1,21 @@
+Enthalpy	Enthalpy
+Entropy	Entropy
+Inclination	Inclination
+Minor Groove Size	Minor Groove Size
+Probability contacting nucleosome core	Probability contacting nucleosome core
+Rise	Rise
+Slide rise	Slide rise
+Slide slide	Slide slide
+Tilt stiffness	Tilt stiffness
+Tilt shift	Tilt shift
+Tilt tilt	Tilt tilt
+Twist stiffness	Twist_stiffness
+OH	Hydroxyl radical cleavage pattern to evaluate shape and electrostatic potential variation in a DNA molecule.
+phastCons100way
+phastCons46wayPlacental
+phastCons46wayPrimates
+phastCons46way
+phyloP100way
+phyloP46wayAll
+phyloP46wayPlacental
+phyloP46wayPrimates
