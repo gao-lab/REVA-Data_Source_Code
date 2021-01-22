@@ -31,7 +31,7 @@ def cal_core(tool_name,label_name,cutoff,true_label,pred_label):
         precision="N.A."
     else:
         precision= TP/(TP+FP)
-    FDR= FP/(TN+FP)
+    FDR= FP/(TP+FP)
     if TP==0:
         F1score="N.A."
     else:
