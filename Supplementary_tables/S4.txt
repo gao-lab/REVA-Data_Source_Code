@@ -1,26 +1,26 @@
 #Supplementary Table 4. Distribution of negative variants on chromosomes			
-Chromosome	Variant number	P value	FDR
-chr1	481747	3.80E-52	6.09E-52
-chr2	469434	1.12E-44	1.68E-44
-chr3	399268	3.26E-291	6.52E-291
-chr4	386892	0	0
-chr5	351509	1.54E-57	2.64E-57
-chr6	355995	0	0
-chr7	330316	0	0
-chr8	316968	0	0
-chr9	252362	0.99999737	1
-chr10	289023	0	0
-chr11	284035	0	0
-chr12	276605	0	0
-chr13	193384	0.999997931	1
-chr14	182857	1	1
-chr15	176904	0.99999996	1
-chr16	189682	0	0
-chr17	164966	1.91E-183	3.53E-183
-chr18	165374	0	0
-chr19	137389	0	0
-chr20	136207	0	0
-chr21	80533	0.999998761	1
-chr22	84097	1	1
-chrX	167114	0.999999705	1
-chrY	0	1	1
+Chromosome	FDR	Oddsratio
+chr1	7.88E-52	1.02 
+chr2	2.22E-44	1.02 
+chr3	8.35E-291	1.06 
+chr4	0	1.07 
+chr5	3.30E-57	1.03 
+chr6	0	1.11 
+chr7	0	1.10 
+chr8	0	1.15 
+chr9	1.89E-195	0.94 
+chr10	0	1.13 
+chr11	0	1.12 
+chr12	0	1.10 
+chr13	0	0.88 
+chr14	0	0.90 
+chr15	0	0.91 
+chr16	0	1.11 
+chr17	4.26E-183	1.08 
+chr18	0	1.12 
+chr19	0	1.12 
+chr20	0	1.15 
+chr21	6.60E-284	0.88 
+chr22	0	0.86 
+chrX	0	0.56 
+chrY	0	0.00 
