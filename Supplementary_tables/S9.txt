@@ -1,8 +1,0 @@
-#Supplementary Table 9. Variants in benchmark dataset overlapped with ClinVar			
-Class	Number of positive variants	Number of negative variants	Note
-Pathogenic	0	11	Not included in benchmark evaluation because the number of positive number is 0
-Likely_pathogenic	0	3	Not included in benchmark evaluation because the number of positive number is 0
-Benign	146	9999	
-Likely_benign	44	2441	
-Drug_response	2	57	
-Others	21	508	
