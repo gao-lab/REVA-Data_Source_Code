@@ -1,5 +1,7 @@
 import numpy as np
 import matplotlib
+matplotlib.rcParams['font.family'] = 'sans-serif'
+matplotlib.rcParams['font.sans-serif'] = ['Arial']
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 

@@ -1,5 +1,5 @@
 <!doctype html>
-<?php 
+<?php
     //The function for cal the number of quartile
     function cal_quartile_value($input_array,$n){
         sort($input_array);
@@ -34,18 +34,23 @@
         }
         return array($data_for_boxplot,$outlier);
     }
-    
-    //connect to annotation database
+
+    //The function to find index in an array
+    function find_index($target_array,$target_element){
+        $target_array=array_flip($target_array);
+        $finded=$target_array[$target_element];
+        if($finded){
+            return $finded;
+        }else{
+            return 0;
+        }
+    }
+
     $inter_id=$_GET['id'];#get inter_id from URL
-    //connect to database
+    //connect to annotation database
     $m =new MongoClient("");
     $db=$m->emdb;
-    $data_collection = $db->data_experiment;
     $annotate_collection=$db->data_experiment_anno;
-    //search in main database and get anno_id
-    $query_command=array("Inter_id" =>$inter_id);
-    $result = $data_collection->findOne($query_command);
-    $anno_id=$result["Anno_id"];
     //query in annotation
     $query_command=array("Id_38" => $anno_id);
     $result_anno=$annotate_collection->findOne($query_command);
@@ -58,37 +63,64 @@
         while(!feof($cell_line)){
             $cell_line_name=explode("\n",fgets($cell_line))[0];
             $cell_name[$j]=$cell_line_name;
+            $cell_name_id[$j]=array($cell_line_name,$j);
             $j++;
         }
         fclose($cell_line);
+        $var_cell_id=find_index($cell_name,$result["Cell_line"]);
         $cell_name=json_encode($cell_name,JSON_UNESCAPED_UNICODE);
+        $cell_name_id=json_encode($cell_name_id,JSON_UNESCAPED_UNICODE);
         //get feature name
+        $annotation_for_table_all=array();
         $feature_name=fopen("./include/2403_feature.txt","r");
         $j=0;
         while(!feof($feature_name)){
-            $feature_item=explode("\n",fgets($feature_name))[0];
-            $annotation_with_name[$feature_item]=$annotation[$j];
-            if(explode("|",$feature_item)[2]=="None"){
-                $feature_item=explode("|",$feature_item)[1];
+            $feature_item_all=explode("\n",fgets($feature_name))[0];
+            $annotation_with_name[$feature_item_all]=$annotation[$j];
+            if(explode("|",$feature_item_all)[2]=="None"){
+                $feature_item=explode("|",$feature_item_all)[1];
             }else{
-                $feature_item=explode("|",$feature_item)[1]." (".explode("|",$feature_item)[2].")";
+                $feature_item=explode("|",$feature_item_all)[1]." (".explode("|",$feature_item_all)[2].")";
             }
             $feature_list[$j]=$feature_item;
+            array_push($annotation_for_table_all,array(explode("|",$feature_item_all)[0],$feature_item,$annotation[$j]));
             $j++;
         }
         fclose($feature_name);
+        //prepare data for table
+        $annotation_for_table=array(array_slice($annotation_for_table_all,0,280),array_slice($annotation_for_table_all,280,1249),array_slice($annotation_for_table_all,1529,766),array_slice($annotation_for_table_all,2295,108));
+        $annotation_for_table=json_encode($annotation_for_table,JSON_UNESCAPED_UNICODE);
         //category by cell line
         $cell_line_pos=fopen("./include/pos_by_cell_line.txt","r");
-        $j=0;
         $data_by_cell=array();
+        $j=0;
         while(!feof($cell_line_pos)){
             $cell_pos=explode(",",explode("\n",fgets($cell_line_pos))[0]);
+            $tmp_array=array();
+            $a=0;
+            $b=0;
+            $c=0;
+            $d=0;
             for($x=0;$x<count($cell_pos);$x++){
-                array_push($data_by_cell,array($j,$x,(float)$annotation[$cell_pos[$x]],$feature_list[$cell_pos[$x]]));
+                if($cell_pos[$x]<280){
+                    array_push($tmp_array,array(0,$a,(float)$annotation[$cell_pos[$x]],$feature_list[$cell_pos[$x]]));
+                    $a=$a+1;
+                }elseif($cell_pos[$x]<1529){
+                    array_push($tmp_array,array(1,$b,(float)$annotation[$cell_pos[$x]],$feature_list[$cell_pos[$x]]));
+                    $b=$b+1;
+                }elseif($cell_pos[$x]<2295){
+                    array_push($tmp_array,array(2,$c,(float)$annotation[$cell_pos[$x]],$feature_list[$cell_pos[$x]]));
+                    $c=$c+1;
+                }else{
+                    array_push($tmp_array,array(3,$d,(float)$annotation[$cell_pos[$x]],$feature_list[$cell_pos[$x]]));
+                    $d=$d+1;
+                }
             }
-            $j++;
+            $data_by_cell[$j]=$tmp_array;
+            $j=$j+1;
         }
         $data_by_cell=json_encode($data_by_cell,JSON_UNESCAPED_UNICODE);
+        
         //slice annotation
         $DNase=array_slice($annotation,0,280);
         $DNase_with_name=array_slice($annotation_with_name,0,280);
@@ -149,15 +181,51 @@
 <title>Annotation Visualization</title>
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/datatables.css">
+<style>
+td.highlight {
+    background-color:seashell !important;
+    cursor:pointer;
+}
+</style>
 </head>
 <body>
 <h5>
     Chromatin Profile
 </h5>
-<div id="heat_chart" style="width: 1000px;height:600px;"></div><br>
-<div id="anno_chart" style="width: 1000px;height:600px;margin-left:100px"></div>
+<div class="row" style="margin-left:20px;margin-bottom:30px">
+    <div class="col-md-8">
+        <div id="anno_chart" style="width: 100%;height:600px;margin-left:50px;"></div>
+    </div>
+    <div class="col-md-4">
+        <div id="annotation_label"><h6>DNA Accessibility</h6></div>
+        <table id="profile_table" class="table table-striped table-bordered" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Cell line / Tissue</th>
+                    <th>Feature</th>
+                    <th>Log fold change</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+<div class="row" style="margin-left:20px;margin-bottom:30px">
+    <div class="col-md-8">
+        <div id="heat_chart" style="width: 100%;height:450px;"></div><br>
+    </div>
+    <div class="col-md-4">
+        <table id="cell_table" class="table table-striped table-bordered" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Cell line / Tissue</th>
+                    <th>ID</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
 <h5>
-    DNA Physicochemical Properties and Evolutionary Features
+    <i class="fa fa-caret-right"></i> DNA Physicochemical Properties and Evolutionary Features
 </h5>
 <div class="row" style="margin-left:20px;margin-bottom:30px">
     <div class="col-md-5">
@@ -191,107 +259,193 @@
 <script src="js/echarts.min.js"></script>
 <script>
 $(document).ready(function(){
-    //Annotation and Meta
     var pc_data=<?php echo($pc_data);?>;
     var evolution_data=<?php echo($evolution_data);?>;
-    var disease_data=<?php echo($disease_data);?>;
-    var cell_line=<?php echo($cell_name);?>;
+    var category_list=['Accessibility','TF','Histone','Methylation'];
+    var cell_name=<?php echo($cell_name);?>;
+    var cell_name_id=<?php echo($cell_name_id);?>;
+    var hp_data=<?php echo($data_by_cell);?>;
+    var var_cell_id=<?php echo($var_cell_id);?>;
+    var annotation_for_table=<?php echo($annotation_for_table);?>;
 
-    var data=<?php echo($data_by_cell);?>;
-    data=data.map(function(item){
-        return [item[1],item[0],item[2],item[3]];
-    });
-    var heat_chart=echarts.init(document.getElementById('heat_chart'));
-    var heat_chart_option={
-        title:[
-            {
-                text:'Chromatin Profile Feature Heatmap',
-                left:'center'
-            }
-        ],
-        toolbox:{
-            left:'90%',
-            feature:{
-                saveAsImage:{
-                    title:'Save as image',
-                    pixelRatio:3,
+    function heat_map_v(hp_data,cell_name,category_list,cell_id){
+        data=hp_data[cell_id];
+        data=data.map(function(item){
+            return [item[1],item[0],item[2],item[3]];
+        });
+
+        var heat_chart=echarts.init(document.getElementById('heat_chart'));
+        var heat_chart_option={
+            title:[
+                {
+                    text:'Chromatin Profile Feature Heatmap by Cell Line / Tissue',
+                    left:'center'
+                }
+            ],
+            toolbox:{
+                left:'90%',
+                feature:{
+                    saveAsImage:{
+                        title:'Save as image',
+                        pixelRatio:3,
+                    },
+                    restore:{
+                        title:'Reset',
+                    }
+                }
+            },
+            grid: {
+                left: '5%',
+                right: '4%',
+                bottom: '70px',
+                containLabel: true
+            },
+            xAxis: {
+                type: 'category',
+                splitArea: {
+                    show: true
                 },
-                restore:{
-                    title:'Reset',
+                axisLabel:{
+                    show:false
                 }
-            }
-        },
-        grid: {
-            left: '5%',
-            right: '4%',
-            bottom: '70px',
-            containLabel: true
-        },
-        xAxis: {
-            type: 'category',
-            splitArea: {
-                show: true
             },
-            axisLabel:{
-                show:false
+            yAxis: {
+                type: 'category',
+                name: cell_name[cell_id],
+                nameTextStyle:{
+                    fontWeight:'bold',
+                },
+                data: category_list,
+                splitArea: {
+                    show: true
+                }
+            },
+            dataZoom: [
+                {
+                    type: 'slider',
+                    xAxisIndex: 0,
+                    start: 0,
+                    end: 100,
+                    bottom:40
+                },
+            ],
+            visualMap: {
+                min: -2,
+                max: 2,
+                precision:2,
+                calculable: true,
+                dimension:2,
+                itemHeight:200,
+                orient: 'horizontal',
+                left: 'center',
+                bottom: '0',
+                inRange: {
+                    color: ['#3333ff','#ffffcc','#ff3300']
+                }
+            },
+            series: [{
+                name: 'Annotation',
+                type: 'heatmap',
+                data: data,
+                itemStyle: {
+                    emphasis: {
+                        shadowBlur: 10,
+                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                    }
+                }
+            }],
+            tooltip: {
+                    position: 'top',
+                    formatter:function(param){
+                        return param.data[3]+":<br>"+param.data[2];
+                    }
             }
-        },
-        yAxis: {
-            type: 'category',
-            name: 'Cell Line',
-            data: cell_line,
-            splitArea: {
-                show: true
-            }
-        },
-        dataZoom: [
+        };
+        heat_chart.setOption(heat_chart_option);
+    }
+    heat_map_v(hp_data,cell_name,category_list,var_cell_id);
+
+    var cell_table=$('#cell_table').DataTable({
+        "dom": '<"top"f>rt<"bottom"p><"clear">',
+        "data":cell_name_id,
+        "lengthMenu": [7],
+        "processing": true,
+        "autoWidth" : true,
+        "searching":true,
+        "paging":true,
+        "columnDefs":[
             {
-                type: 'slider',
-                xAxisIndex: 0,
-                start: 0,
-                end: 5,
-                bottom:40
-            },
-            {
-                type: 'slider',
-                yAxisIndex: 0,
-                start: 0,
-                end: 10
-            },
+                "visible":false,
+                "targets":[1]
+            }
         ],
-        visualMap: {
-            min: -2,
-            max: 2,
-            precision:2,
-            calculable: true,
-            dimension:2,
-            itemHeight:200,
-            orient: 'horizontal',
-            left: 'center',
-            bottom: '0',
-            inRange: {
-                color: ['#3333ff','#ffffcc','#ff3300']
-            }
+        "order": [[0, "asc"]],
+        "language": {
+            "processing": "Processing data...",
+            "loadingRecords": "Loading data...",
+            "info": "Showing  _START_ to _END_ results, _TOTAL_ results in total ",
         },
-        series: [{
-            name: 'Annotation',
-            type: 'heatmap',
-            data: data,
-            itemStyle: {
-                emphasis: {
-                    shadowBlur: 10,
-                    shadowColor: 'rgba(0, 0, 0, 0.5)'
-                }
-            }
-        }],
-        tooltip: {
-                position: 'top',
-                formatter:function(param){
-                    return param.data[3]+":<br>"+param.data[2];
-                }
+        "columns":[
+            null,
+            null
+        ],
+    });
+    //link cell table and heatmap chart
+    $('#cell_table').on("click","tr",function(){
+        var id_data=cell_table.row(this).data()[1];
+        heat_map_v(hp_data,cell_name,category_list,id_data);
+    });
+
+    $('#cell_table tbody')
+    .on( 'mouseenter', 'td', function () {
+        $(cell_table.cells().nodes() ).removeClass( 'highlight' );
+        $(cell_table.cells(this).nodes() ).addClass( 'highlight' );
+    })
+    .on( 'mouseleave', function () {
+        $( cell_table.cells().nodes() ).removeClass( 'highlight' );
+    });
+
+    //anno table
+    function show_profile(annotation_for_table,category_name){
+        if(category_name=="DNA Accessibility"){
+            profile_data=annotation_for_table[0];
+        }else if(category_name=="TF"){
+            profile_data=annotation_for_table[1];
+        }else if(category_name=="Histone"){
+            profile_data=annotation_for_table[2];
+        }else{
+            profile_data=annotation_for_table[3];
         }
-    };
-    heat_chart.setOption(heat_chart_option);
+        //empty datatable
+        if($('#profile_table').hasClass('dataTable')){
+            var oldTable=$('#profile_table').DataTable();
+            oldTable.clear();
+            oldTable.destroy();
+        }
+        //draw table
+        var profile_table=$('#profile_table').DataTable({
+            "dom": '<"top"f>rt<"bottom"p><"clear">',
+            "data":profile_data,
+            "lengthMenu": [6],
+            "processing": true,
+            "autoWidth" : true,
+            "searching":true,
+            "paging":true,
+            "order": [[0, "asc"]],
+            "language": {
+                "processing": "Processing data...",
+                "loadingRecords": "Loading data...",
+                "info": "Showing  _START_ to _END_ results, _TOTAL_ results in total ",
+            },
+            "columns":[
+                null,
+                null,
+                null,
+            ],
+        });
+    }
+    show_profile(annotation_for_table,"DNA Accessibility");
+    //anno chart
     var anno_chart=echarts.init(document.getElementById('anno_chart'));
     var anno_data=<?php echo($anno_data);?>;
     var outlier_data=<?php echo($outlier_data);?>;
@@ -334,7 +488,7 @@ $(document).ready(function(){
         },
         xAxis:{
             type:'category',
-            data:["DNase","TF","Histone","Methylation"],
+            data:["DNA Accessibility","TF","Histone","Methylation"],
             boundaryGap:true,
             nameGap:30,
             axisLabel:{
@@ -385,9 +539,14 @@ $(document).ready(function(){
         ]
     };
     anno_chart.setOption(anno_chart_option);
-    
+    //link box plot chart and profile table
+    anno_chart.on('click',function(params){
+        show_profile(annotation_for_table,params.name)
+        $("#annotation_label").html("<h6>"+params.name+"</h6>");
+    });
     //pc feature
     var pc_table=$('#pc_table').DataTable({
+        "dom": 'rt<"clear">',
         "data":pc_data,
         "processing": true,
         "autoWidth" : true,
@@ -419,6 +578,7 @@ $(document).ready(function(){
     });
     //evolution feature
     var evolution_table=$('#evolution_table').DataTable({
+        "dom": 'rt<"clear">',
         "data":evolution_data,
         "processing": true,
         "autoWidth" : true,

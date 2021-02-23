@@ -6,6 +6,8 @@ from sklearn.metrics import roc_curve
 from sklearn.metrics import auc
 
 import matplotlib
+matplotlib.rcParams['font.family'] = 'sans-serif'
+matplotlib.rcParams['font.sans-serif'] = ['Arial']
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
