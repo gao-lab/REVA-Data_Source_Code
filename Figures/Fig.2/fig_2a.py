@@ -16,8 +16,8 @@ def draw_pie(ratios,title_name,save_file):
         labels=labels,colors=["#00A087B2","#E64B35B2","#3C5488B2"])
     [_.set_fontsize(15) for _ in texts]
     ax.set_title(title_name,fontsize=16)
-    plt.savefig("./pics/"+save_file)
+    plt.savefig(save_file)
     
 
-draw_pie(pos_ratios,"Positive variants","fig_2a_pos.png")
-draw_pie(neg_ratios,"Negative variants","fig_2a_neg.png")
+draw_pie(pos_ratios,"Positive variants","./fig_2a_pos.png")
+draw_pie(neg_ratios,"Negative variants","./fig_2a_neg.png")
