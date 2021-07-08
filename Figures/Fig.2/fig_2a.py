@@ -19,5 +19,5 @@ def draw_pie(ratios,title_name,save_file):
     plt.savefig("./pics/"+save_file)
     
 
-draw_pie(pos_ratios,"Positive variants","./fig_2a_pos.png")
-draw_pie(neg_ratios,"Negative variants","./fig_2a_neg.png")
+draw_pie(pos_ratios,"Positive variants","fig_2a_pos.png")
+draw_pie(neg_ratios,"Negative variants","fig_2a_neg.png")
