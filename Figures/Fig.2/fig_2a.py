@@ -4,7 +4,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 
-pos_ratios=[0.1708,0.3596,0.4996]
+pos_ratios=[0.1408,0.3596,0.4996]
 neg_ratios=[0.0655,0.3962,0.5383]
 
 def draw_pie(ratios,title_name,save_file):
